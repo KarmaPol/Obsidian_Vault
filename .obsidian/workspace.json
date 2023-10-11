@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/디자인패턴 3일차.md",
+                "file": "일정관리/2023-10-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/디자인패턴 3일차.md",
+                "file": "일정관리/2023-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/디자인패턴 3일차.md",
+                "file": "일정관리/2023-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/디자인패턴 3일차.md"
+                "file": "일정관리/2023-10-11.md"
               }
             }
           },
@@ -166,6 +166,10 @@
   },
   "active": "15d4f3dfed65c4c6",
   "lastOpenFiles": [
+    "README.md",
+    "일정관리/2023-10-11.md",
+    "일정관리/2023-10-07.md",
+    "1. Projects/데브코스/강의정리/디자인패턴 3일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 2일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 1일차.md",
     "1. Projects/데브코스/강의정리/Spring 3일차.md",
@@ -177,7 +181,6 @@
     "1. Projects/데브코스/강의정리/디자인패턴 5일차.md",
     "3. Resources/LSM Tree vs B+ Tree.md",
     "3. Resources/MySQL Null 처리.md",
-    "README.md",
     "3. Resources/Java 스케줄링.md",
     "3. Resources/Git 잘못 올라간 파일 관리.md",
     "3. Resources/알고리즘 시간 복잡도.md",
@@ -189,9 +192,6 @@
     "2. Area/커리어 이야기.md",
     "1. Projects/데브코스/강의정리/DB 5일차.md",
     "1. Projects/데브코스/강의정리/DB 3일차.md",
-    "1. Projects/데브코스/강의정리/DB 4일차.md",
-    "1. Projects/대규모시스템설계 스터디/2. 개략적인 규모 추정.md",
-    "1. Projects/데브코스/강의정리/디자인패턴 4일차.md",
     "1. Projects/대규모시스템설계 스터디",
     "Pasted image 20231005001618.png",
     "1. Projects/데브코스/강의정리",
