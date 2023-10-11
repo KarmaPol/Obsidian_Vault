@@ -64,9 +64,9 @@ Bean을 여러개 만들어서 선택할 경우는 그렇게 많지 않다
 ## Life Cycle
 #### Bean 생성 생명주기 콜백
 1. @PostConstruct 어노테이션 메소드 호출
-2. Bean이 InitializingBean 인터페이스 구현시 afterPropertiesSet 호출
+2. Bean이 InitializingBean 인터페이스 구현시 afterPropertiesSet 메소드 호출
 3. @Bean 어노테이션의 initMethod 메소드 호출
 #### Bean 소멸 생성주기 콜백
 1. @PreDestroy 어노테이션 메소드 호출
-2. Bean이 DisposableBean 인터페이스 구현시 destroy호출
+2. Bean이 DisposableBean 인터페이스 구현시 destroy 메소드 호출
 3. @Bean 어노테이션의 destroyMethod 메소드 호출
