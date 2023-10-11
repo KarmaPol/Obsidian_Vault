@@ -7,3 +7,7 @@ A->B->A 참조 시 순환 참조으로 인해 오류 발생
 스프링이 직접 클래스를 검색해서 빈으로 등록해주는 기능
 StereoType 어노테이션(@Component, @Repository, @Service, @Controller, @Configuration)
 으로 검색 대상 지정
+- @ComponentScan(basePackages = {"패키지1", "패키지2"})
+- @ComponentScan(basePackageClasses = {A.class, B.class})
+  어노테이션으로 스캔 범위를 패키지, 클래스 단위로 지정할수 있다
+- @ComponentScan(excludeFilters={@ComponentScan.Filter(type= F)})
