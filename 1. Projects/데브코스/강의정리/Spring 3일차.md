@@ -2,7 +2,7 @@
 ### Dependency Resolution Process
 Application Context에 의해 Bean Injection 주입
 ### Circular Dependency
-A->B->A 참조 시 순환 참조으로 인해 오류 발생
+A->B->A 참조 시 순환 참조로 인해 오류 발생
 ### 컴포넌트 스캔
 스프링이 직접 클래스를 검색해서 빈으로 등록해주는 기능
 StereoType 어노테이션(@Component, @Repository, @Service, @Controller, @Configuration)
@@ -53,3 +53,20 @@ public class VoucherService{
 
 Bean을 여러개 만들어서 선택할 경우는 그렇게 많지 않다
 -> Configuration도 컴포넌트이기 때문에 Configuration파일을 여러개 만들어서 선택한다
+## Bean Scope
+- **singleton** - 기본
+- **prototype** - 요청할때 마다 새로운 객체 반환, 
+  빈 생성, DI 주입, 초기화 작업까지만 스프링 컨테이너가 관리, 수동으로 소멸자 실행해야함
+- request
+- session
+- application
+- websocket
+## Life Cycle
+#### Bean 생성 생명주기 콜백
+1. @PostConstruct 어노테이션 메소드 호출
+2. Bean이 InitializingBean 인터페이스 구현시 afterPropertiesSet 호출
+3. @Bean 어노테이션의 initMethod 메소드 호출
+#### Bean 소멸 생성주기 콜백
+1. @PreDestroy 어노테이션 메소드 호출
+2. Bean이 DisposableBean 인터페이스 구현시 destroy호출
+3. @Bean 어노테이션의 destroyMethod 메소드 호출
