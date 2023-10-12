@@ -45,3 +45,4 @@ public class OrderProperties{
 SpringBoot가 자동으로 인식해 yml 파일의 값을 매칭한다
 이때 getter, setter가 필요하다
 [[DTO getter, setter]]
+## 프로파일
