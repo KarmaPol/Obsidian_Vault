@@ -46,3 +46,15 @@ SpringBoot가 자동으로 인식해 yml 파일의 값을 매칭한다
 이때 getter, setter가 필요하다
 [[DTO getter, setter]]
 ## 프로파일
+```java
+@Repository
+@Profile("local")
+public class MemoryRepository implements repository{
+	...
+}
+
+...
+environment.setActiveProfiles("local");
+application.refresh();
+```
+@Qualifier 대신 @Profile로 프로파일별로 빈 설정 가능
