@@ -67,4 +67,17 @@ SpringApplication.setAdditionalProfiles("local")
 코드로도 직접 프로파일 설정 가능
 ## 리소스
 이미지 파일, 텍스트 파일, 키파일 등 외부 리소스를 읽을 필요가 있을 수 있음
+스프링에서 **Resource, ResourceLoader** 제공 -> 구현체까지 알 필요 없다
+```java
+var ymlResource = applicationContext.getResource("application.yml");
+// classpath: 와 같이 경로 schema 입력 가능
+var textResource = applicationContext.getResource("classpath:test/sample.txt");
+
+// url에서 다운로드
+var urlResource = applicationContext.getResource("www.google.com");
+var readableByteChannel = Channels.newChannel(urlResource.getURL().openStream());
+var bufferedReader = new BufferedReader(Channels.newReader(readableByteChannel, StandardCharsets.UTF_8));
+var contents = bufferedReader.lines.collect(Collectors.joining("\n"));
+```
+[URL에서 HTML 파일 다운로드](https://jaime-note.tistory.com/35)
 
