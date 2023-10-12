@@ -48,7 +48,7 @@ SpringBoot가 자동으로 인식해 yml 파일의 값을 매칭한다
 ## 프로파일
 ```java
 @Repository
-@Profile("local")
+@Profile({"local", "dev"}) // 프로파일은 여러개 설정 가능
 public class MemoryRepository implements repository{
 	...
 }
@@ -58,3 +58,13 @@ environment.setActiveProfiles("local");
 application.refresh();
 ```
 @Qualifier 대신 @Profile로 프로파일별로 빈 설정 가능
+
+[[스프링부트 yml profiles group]]
+
+```java
+SpringApplication.setAdditionalProfiles("local")
+```
+코드로도 직접 프로파일 설정 가능
+## 리소스
+이미지 파일, 텍스트 파일, 키파일 등 외부 리소스를 읽을 필요가 있을 수 있음
+
