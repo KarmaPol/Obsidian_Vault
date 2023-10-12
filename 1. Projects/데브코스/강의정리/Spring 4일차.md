@@ -4,6 +4,7 @@ ApplicationContext에서 제공
 프로젝트 속성 관리
 properties 파일이나 OS 환경변수 등으로 관리
 ```java
+@Configuration
 @PropertySource("application.properties")
 public class Appconfiguration {}
 ```
