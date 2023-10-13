@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Udemy 쿠버네티스/2. 쿠버네티스 & GKE.md",
+                "file": "일정관리/2023-10-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Udemy 쿠버네티스/2. 쿠버네티스 & GKE.md",
+                "file": "일정관리/2023-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Udemy 쿠버네티스/2. 쿠버네티스 & GKE.md",
+                "file": "일정관리/2023-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Udemy 쿠버네티스/2. 쿠버네티스 & GKE.md"
+                "file": "일정관리/2023-10-13.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "15d4f3dfed65c4c6",
   "lastOpenFiles": [
-    "일정관리/2023-10-12.md",
     "3. Resources/Udemy 쿠버네티스/2. 쿠버네티스 & GKE.md",
+    "일정관리/2023-10-13.md",
+    "일정관리/2023-10-12.md",
     "3. Resources/Udemy 쿠버네티스",
     "1. Projects/데브코스/강의정리/Spring 2일차.md",
     "1. Projects/데브코스/강의정리/Spring 1일차.md",
@@ -192,7 +193,6 @@
     "3. Resources/도메인 주도 설계.md",
     "일정관리/2023-10-11.md",
     "일정관리/2023-10-07.md",
-    "README.md",
     "1. Projects/대규모시스템설계 스터디",
     "Pasted image 20231005001618.png",
     "1. Projects/데브코스/강의정리",
