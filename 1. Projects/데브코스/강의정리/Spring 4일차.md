@@ -30,7 +30,8 @@ public class OrderProperties{
 Spring의 @PropertySource 어노테이션은 yml 파일을 지원하지 않는다
 PropertySourceFactory를 구현해주고 @PropertySource의 factory로 넣어줘야한다
 #### @ConfigurationProperties
-SpringBoot의 경우, yml파일을 지원하는 @ConfigurationProperties 어노테이션을 지원한다
+@PropertySource를 사용하는 대신 SpringBoot의 경우
+yml파일을 지원하는 @ConfigurationProperties 어노테이션을 지원한다
 ```java
 @Configuration
 @ConfigurationProperties(prefix = "kdt")
@@ -57,7 +58,8 @@ public class MemoryRepository implements repository{
 environment.setActiveProfiles("local");
 application.refresh();
 ```
-@Qualifier 대신 @Profile로 프로파일별로 빈 설정 가능
+Application Context의 Environment를 참조해 profile을 설정하거나 조회 가능하다
+@Qualifier를 사용하는 대신 @Profile로 프로파일별로 빈 설정 가능
 
 [[스프링부트 yml profiles group]]
 
