@@ -5,10 +5,12 @@
 ```json
 spring:
   profiles:
+    active: dev // 기본적으로 활성화할 profile
     group:
       dev: profile1
       test: profile2,common
       prod: profile3,common
+  // include: profiles 불러들어올 yml 파일(application-profiles.yml)
 default:
   string: default property
 ---
@@ -69,6 +71,8 @@ class MultiProfilesTest{}
 ```
 java -jar multi_profiles.jar --spring.profiles.active=prod
 ```
-
+#### Deprecated된 Profile 설정 방식
+[http://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html](http://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html)
 #### 참고 블로그
 https://colabear754.tistory.com/112#주의사항
+https://zzang9ha.tistory.com/415

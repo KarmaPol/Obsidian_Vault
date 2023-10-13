@@ -45,6 +45,26 @@ public class OrderProperties{
 ```
 SpringBoot가 자동으로 인식해 yml 파일의 값을 매칭한다
 이때 getter, setter가 필요하다
+### @EnableConfigurationProperties
+```java
+@Service
+@EnableConfigurationProperties(OrderProperties.class)
+public class MyService {
+
+    private final OrderProperties orderProperties;
+
+    public MyService(OrderProperties orderProperties) {
+        this.OrderProperties = orderProperties;
+    }
+
+    public String message() {
+        return this.orderProperties.getMessage();
+    }
+}
+```
+@EnableConfigurationProperties 어노테이션으로 
+@ConfigurationProperties 클래스를 빈으로 등록할 수 있다
+
 [[DTO getter, setter]]
 ## 프로파일
 ```java
