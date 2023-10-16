@@ -69,3 +69,16 @@ appender을 추가해 console, file에 로그 출력 동시에 가능
 
 ```
 이때 file명에 timestamp를 추가하면 실행시 실행시각을 포함한 새로운 파일 저장
+- RollingFileAppender
+  용량, 시간에 따라 로그 파일을 새로 생성하면서 저장
+#### Conversion
+```xml
+<conversionRule 
+	conversionWord = "clr" 
+	converterClass = "logback.ColorCOnverter" />
+
+<property name="LOG_PATTERN" value="%clr(%d{HH:mm:ss.SSS}){red} [%thread] %-5level %logger{36} - %msg%n"/> 
+```
+문자열 패턴에서 %clr(...){color}로 conversion 적용 가능
+이때 AnsiOutput.setEnabled(AnsiOutput.enabled.ALWAYS); 호출해줘야 정상적으로 출력
+## 스프링부트
