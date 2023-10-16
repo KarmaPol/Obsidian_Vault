@@ -81,4 +81,30 @@ appender을 추가해 console, file에 로그 출력 동시에 가능
 ```
 문자열 패턴에서 %clr(...){color}로 conversion 적용 가능
 이때 AnsiOutput.setEnabled(AnsiOutput.enabled.ALWAYS); 호출해줘야 정상적으로 출력
+
 ## 스프링부트
+### spring boot starter
+spring core, spring mvc, spring web 등 모듈을 선택하면 dependency를 자동으로 설정
+#### @SpringBootApplication
+@EnableAutoConfiguration 및 configuration 관련 어노테이션을 상속받아
+자동으로 인식되어 application.yml 파일, 리소스를 가져올 수 있음
+- COC (conversion over configuration)
+  설정보다는 관례
+  모든 것을 하나하나 설정하는 것보다 일부만 설정하고 best practice를 따르면 빠르게 개발할 수 있다
+##### banner.txt
+banner.txt에 텍스트를 넣어주면 spring boot 배너도 변경 가능
+##### logging
+logback.xml 파일을 생성해 설정해주는 대신
+application.yml에서 간단하게 설정해줄 수 있다
+```yaml
+logging:
+	level:
+		root: error
+```
+- 별도의 logback.xml 파일을 생성해 application.yml의 로깅 설정을 포함할때
+```
+<include resource="org/springframework/boot/logging/logback/defaults.xml" />
+```
+### Spring boot 외부에서 설정 가져오기
+전역 도구, Test 환경 설정, 커맨드 라인 인자, Sevlet 설정, OS 환경변수, @PropertySource 순으로 읽는다
+application.yml 설정은 마지막에 읽음
