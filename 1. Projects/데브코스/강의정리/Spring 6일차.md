@@ -77,8 +77,39 @@ assertThat(prices, hasItem(greaterThan(2)));
   특정 동작을 수행하는지 확인 (Mock 객체)
 #### Stub
 ```java
+// given
 var voucherService = new VoucherService(new MemoryVoucherRepository());
 var sut = new OrderService(voucherService, new MemoryOrderRepository());
+
+// when
+var order = sut.createOrder(UUID.randomUUID(), List.of(new OrderItem(UUID.randomUUID), 200, 1));
+
+// then
+assertThat(order.totalAmount(), is(10L));
 ```
-상태 검증
-테스트를 위한 가짜 객체를 만들어준다
+상태를 검증
+테스트를 위한 가짜 객체 Stub을 만들어준다
+#### Mock
+```java
+// given
+var voucherServiceMock = mock(VoucherService.class);
+var orderRepositoryMock = mock(OrderRepository.class);
+when(voucherServiceMock.getVoucher(fixedAmountVoucher.getVoucherId())).thenReturn(fixedAmountVoucher)
+
+var sut = new OrderService(vocherServiceMock, orderRepositoryMock);
+
+// when
+var order = sut.createOrder(UUID.randomUUID());
+
+// then
+assertThat(order.totalAmount(), is(100L));
+assertThat(order.getVoucher().isEmpty(), is(false));
+var inOrder = inOrder(voucherServiceMock, orderRepositoryMock); // 순서 지정
+inOrder.verify(voucherServiceMock).getVoucher(fixedAmountVoucher.getVoucherId());
+verify(ordeRepositoryMock).insert(order);
+inOrder.verify(voucherServiceMock).useVoucher(fixedAmountVoucher);
+```
+mock 객체는 when()으로 기술한 행위만 작동한다
+mock의 경우, 메소드 전후 상태를 검사를 넘어서 특정 메소드가 객체에서 작동하였는지 검증해야한다
+### Spring의 JUnit5 지원
+
