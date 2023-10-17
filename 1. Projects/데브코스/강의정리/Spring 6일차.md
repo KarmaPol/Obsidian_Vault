@@ -112,4 +112,10 @@ inOrder.verify(voucherServiceMock).useVoucher(fixedAmountVoucher);
 mock 객체는 when()으로 기술한 행위만 작동한다
 mock의 경우, 메소드 전후 상태를 검사를 넘어서 특정 메소드가 객체에서 작동하였는지 검증해야한다
 ### Spring의 JUnit5 지원
+Spirng에서 Junit을 사용해 테스트를 할때,
+**@ExtendWith(SpringExtension.class)
+@ContextConfiguration** 필요
+=> **@SpringJUnitConfig** 사용
 
+- **@ActiveProfiles()**
+  @ActiveProfiles("test")처럼 작성하여 프로파일 지정 가능
