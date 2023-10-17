@@ -106,5 +106,5 @@ logging:
 <include resource="org/springframework/boot/logging/logback/defaults.xml" />
 ```
 ### Spring boot 외부에서 설정 가져오기
-전역 도구, Test 환경 설정, 커맨드 라인 인자, Sevlet 설정, OS 환경변수, @PropertySource 순으로 읽는다
-application.yml 설정은 마지막에 읽음
+**전역 도구, Test 환경 설정, 커맨드 라인 인자, Sevlet 설정, OS 환경변수, @PropertySource** 순
+**application.yml** 설정은 마지막에 읽는다
