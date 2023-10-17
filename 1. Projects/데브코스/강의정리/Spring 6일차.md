@@ -40,9 +40,38 @@ JUnit4는 확장성이 떨어지는 문제
   testEngine의 구현체 포함, 개발자는 jupiter api를 사용해 테스트 코드 작성
 - **JUnit Vintage**
   junit4 버전 작성 테스트 코드 실행 구현체 포함
+
+Happy flow, Edge Case 모두에 대해 테스트 코드를 작성해줘야 한다
 ##### @Disabled
 Test 메소드에 어노테이션 달면, 실행시 무시
 ##### @BeforeAll
 Test 실행전 메소드 한번 실행
 ##### @BeforeEach
 매 Test 메소드 실행 전 마다 메소드 실행
+##### assertAll()
+입력한 모든 메소드에 대해 테스트
+파라미터에 람다식으로 함수 여러개 전달
+### Hamcrest 라이브러리
+```java
+assertThat(1+1, is(2));
+assertThat(1+1, anyOf(is(2), is(1)));
+assertThat(1+1, not(2));
+```
+Hamcrest 라이브러리의 Matcher 활용
+
+```java
+var prices = List.of(1,2,3);
+
+// 리스트에 대한 여러 Matcher 제공
+assertThat(prices, hasSize(3));
+assertThat(prices, everyItem(greaterThan(1)));
+assertThat(prices, containsInAnyOrder(3,2,1));
+assertThat(prices, hasItem(1));
+assertThat(prices, hasItem(greaterThan(2)));
+```
+컬렉션에 대해 여러 편리한 Matcher 제공
+### Mock Object
+- **상태 검증**
+  메소드 수행 후, 객체의 상태를 확인 (Stub)
+- **행위 검증**
+  특정 동작을 수행하는지 확인 (Mock 객체)
