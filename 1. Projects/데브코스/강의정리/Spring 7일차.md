@@ -11,3 +11,8 @@ JDBC Driver type4를 주로 사용
 - return result
 - close statement
 - close connection
+#### Docker mysql 실행
+```
+docker run --name kdt-mysql -e MYSQL_PORT_HOST=% 
+-e MYSQL_ROOT_PASSWORD=root1234! -p3306:3306 -d mysql:8
+```
