@@ -75,3 +75,10 @@ assertThat(prices, hasItem(greaterThan(2)));
   메소드 수행 후, 객체의 상태를 확인 (Stub)
 - **행위 검증**
   특정 동작을 수행하는지 확인 (Mock 객체)
+#### Stub
+```java
+var voucherService = new VoucherService(new MemoryVoucherRepository());
+var sut = new OrderService(voucherService, new MemoryOrderRepository());
+```
+상태 검증
+테스트를 위한 가짜 객체를 만들어준다
