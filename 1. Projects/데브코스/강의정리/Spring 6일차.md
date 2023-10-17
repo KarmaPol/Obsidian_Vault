@@ -34,9 +34,15 @@ Stub, Mock객체 등
 assert로 테스트 결과 판독
 #### JUnit5
 JUnit4는 확장성이 떨어지는 문제
-- JUnit Platform
+- **JUnit Platform**
   JVM 상에 테스팅 프레임워크 런칭을 위한 근간을 제공, testEngine을 통해 테스트 발견 및 실행, 결과 보고
-- JUnit Jupiter
-  testEngine의 구현체, 개발자는 jupiter api를 사용해 테스트 코드 작성
-- JUnit Vintage
-  junit
+- **JUnit Jupiter**
+  testEngine의 구현체 포함, 개발자는 jupiter api를 사용해 테스트 코드 작성
+- **JUnit Vintage**
+  junit4 버전 작성 테스트 코드 실행 구현체 포함
+##### @Disabled
+Test 메소드에 어노테이션 달면, 실행시 무시
+##### @BeforeAll
+Test 실행전 메소드 한번 실행
+##### @BeforeEach
+매 Test 메소드 실행 전 마다 메소드 실행
