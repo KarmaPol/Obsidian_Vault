@@ -48,3 +48,25 @@ Test 코드에서 해당 어노테이션을 사용하면 인스턴스를 클래�
 ## JdbcTemplate
 Jdbc를 이용해 SQL문을 실행할때, 중복이 많이 발생
 -> JdbcTemplate으로 중복 X
+#### JdbcTemplate Bean 등록
+```java
+@Bean
+public JdbcTemplate jdbcTemplate(DataSource dataSource){
+	return new JdbcTemplate(dataSource);
+}
+```
+### Jdbc -> JdbcTemplate
+```java
+public void findAll(){
+	jdbcTemplate.query(SELECT_SQL, (resultSet, i) -> 
+		mapCustomer(resultSet));
+// mapCustomer은 resulSet의 row를 Customer 엔티티로 매핑해주는 함수
+}
+```
+JdbcTemplate 내부적으로 connection 연결, close 및 데이터 null 체크 등 추상화
+-> Jdbc에 비해 매우 간단하게 sql문 호출
+- **queryForObject()**
+  query 한건의 결과를 하나의 Object에 매핑
+- **update()**
+  Insert, Update SQL을 처리 가능
+  파라미터 자체에 statement 설정값을 넣어준다 -> 내부적으로 preparedStatement 값 설정
