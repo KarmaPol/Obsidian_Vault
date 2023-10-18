@@ -99,3 +99,6 @@ PreparedStatement statement = connection.prepareStatement(UPDATE_BY_ID_SQL);
 statement.setString(1, name);
 statement.setBytes(2, customerId.toString().getBytes());
 ```
+##### UUID
+UUID의 경우, Byte배열을 가져와 변환하는 과정에서 버전에 따른 차이가 발생할 수 있다
+-> 생성자로 UUID 생성, **new UUID(byteBuffer.getLong(), byteBuffer.getLong());**
