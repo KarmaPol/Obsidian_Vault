@@ -18,7 +18,7 @@ docker run --name kdt-mysql -e MYSQL_PORT_HOST=%
 ```
 #### MySQL JDBC 연동
 - gradle, maven 에 MySql jdbc driver dependency 추가
-##### JDBC connection
+#### JDBC connection
 ```java
 try{
 	connection = 
@@ -54,7 +54,7 @@ var createAt = resultSet.getTimestamp("created_at").toLocalDateTime();
 ```
 TimeStamp 타입을 그대로 사용하는 것보다 자바의 LocalDateTIme 타입을 사용하면 편리하다
 toLocalDateTime() 메소드로 바꿀 수 있으나 null 체크를 반드시 해줘야한다
-##### Select 조건문
+#### Select SQL
 ```java
 String SELECT_SQL = 
 MessageFormat.format("select * from customers where name = '{0}'", name);
@@ -67,4 +67,35 @@ findNames("'test01' OR 'a' = 'a'");
 ```
 입력 변수에 의도치 않게 여러 조건을 같이 입력할 수 있다
 => PreparedStatement 사용
-#### Prepared 
+##### Prepared Statement
+```java
+String SELECT_SQL = "select * from customers where name = ?";
+
+PreparedStatement statement = connection.prepareStatement(SELECT_SQL);
+statement.setString(1, name);
+```
+특수 문자(따옴표, 콤마)를 자동 파싱해주기 때문에 SQL 인젝션 방지 가능
+? 자리에 setString()으로 변수 설정
+#### Insert SQL
+```java
+String INSERT_SQL = 
+"insert into customers(customer_id, name, email) values (UUID_TO_BIN(?), ?, ?)";
+
+PreparedStatement statement = connection.prepareStatement(INSERT_SQL);
+statement.setBytes(1, customerId.toString().getBytes());
+statement.setString(2, name);
+statement.setString(3, email);
+```
+#### Delete SQL
+```java
+String DELETE_ALL_SQL = "delete from customers";
+```
+#### Update SQL
+```java
+String UPDATE_BY_ID_SQL = 
+"update customers set name = ? where customer_id = UUID_TO_BIN(?)";
+
+PreparedStatement statement = connection.prepareStatement(UPDATE_BY_ID_SQL);
+statement.setString(1, name);
+statement.setBytes(2, customerId.toString().getBytes());
+```
