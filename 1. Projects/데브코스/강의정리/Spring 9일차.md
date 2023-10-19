@@ -44,3 +44,4 @@ try {
 ```
 작업 시작 시점 setAutoCommit(false)
 작업 종료 시점 setAutoCommit(true)
+작업 실패시 catch -> rollback()
