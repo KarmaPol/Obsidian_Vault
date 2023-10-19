@@ -70,3 +70,9 @@ JdbcTemplate 내부적으로 connection 연결, close 및 데이터 null 체크 
 - **update()**
   Insert, Update SQL을 처리 가능
   파라미터 자체에 statement 설정값을 넣어준다 -> 내부적으로 preparedStatement 값 설정
+```java
+var update = jdbcTemplate.update(INSERT_SQL);
+if(update != 1) {
+	throw new RuntimeException("Nothing was inserted");
+}
+```

@@ -15,3 +15,7 @@ namedJdbcTemplate.update("insert into customers(customer_id, name) values
 ```
 Map에 preparedStatement 설정값을 미리 담아서 전달해줄 수 있다
 key를 미리 지정할 수 있기 때문에, 발생하는 실수를 줄일 수 있다
+Map에 다른 다른 변수가 있어도 SQL에 삽입되지 않으므로, 하나의 맵을 만들어 재사용 가능하다
+- **getJdbcTemplate()**
+  namedParameterJdbcTemplate 내부에 JdbcTemplate을 포함하고 있으므로
+  내부 JdbcTemplate을 얻어 사용할 수 있다
