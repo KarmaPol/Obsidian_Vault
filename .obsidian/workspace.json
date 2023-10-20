@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 9일차.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 10일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 9일차.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 10일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 9일차.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 10일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 9일차.md"
+                "file": "1. Projects/데브코스/강의정리/Spring 10일차.md"
               }
             }
           },
@@ -166,9 +166,10 @@
   },
   "active": "15d4f3dfed65c4c6",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/Spring 9일차.md",
+    "1. Projects/데브코스/강의정리/Spring 10일차.md",
     "1. Projects/데브코스/강의정리/Spring 8일차.md",
     "1. Projects/데브코스/강의정리/Spring 7일차.md",
-    "1. Projects/데브코스/강의정리/Spring 9일차.md",
     "3. Resources/Git 잘못 올라간 파일 관리.md",
     "1. Projects/데브코스/강의정리/Spring 6일차.md",
     "1. Projects/데브코스/강의정리/Spring 5일차.md",
@@ -191,7 +192,6 @@
     "3. Resources/Java Record.md",
     "3. Resources/LSM Tree vs B+ Tree.md",
     "3. Resources/DTO getter, setter.md",
-    "3. Resources/스프링부트 yml profiles group.md",
     "3. Resources/Udemy 쿠버네티스",
     "1. Projects/대규모시스템설계 스터디",
     "Pasted image 20231005001618.png",
