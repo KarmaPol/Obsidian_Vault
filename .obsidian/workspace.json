@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Git 잘못 올라간 파일 관리.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 9일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Git 잘못 올라간 파일 관리.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 9일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Git 잘못 올라간 파일 관리.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 9일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Git 잘못 올라간 파일 관리.md"
+                "file": "1. Projects/데브코스/강의정리/Spring 9일차.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "15d4f3dfed65c4c6",
   "lastOpenFiles": [
+    "3. Resources/Git 잘못 올라간 파일 관리.md",
     "1. Projects/데브코스/강의정리/Spring 9일차.md",
     "1. Projects/데브코스/강의정리/Spring 8일차.md",
     "1. Projects/데브코스/강의정리/Spring 7일차.md",
@@ -175,7 +176,6 @@
     "1. Projects/데브코스/강의정리/Spring 3일차.md",
     "1. Projects/데브코스/강의정리/Spring 2일차.md",
     "1. Projects/데브코스/강의정리/DB 5일차.md",
-    "3. Resources/Git 잘못 올라간 파일 관리.md",
     "3. Resources/MySQL Null 처리.md",
     "3. Resources/스프링 부트 Part1 위클리 미션.md",
     "1. Projects/데브코스/도서관리프로그램/도서관리 프로그램.md",
