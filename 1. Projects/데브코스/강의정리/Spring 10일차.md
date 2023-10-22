@@ -14,3 +14,5 @@
   interface 기반
 - **CGLib Proxy**
   class 기반
+
+https://jaime-note.tistory.com/330
