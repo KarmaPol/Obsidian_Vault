@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Git 잘못 올라간 파일 관리.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 10일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Git 잘못 올라간 파일 관리.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 10일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Git 잘못 올라간 파일 관리.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 10일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Git 잘못 올라간 파일 관리.md"
+                "file": "1. Projects/데브코스/강의정리/Spring 10일차.md"
               }
             }
           },
@@ -166,7 +166,10 @@
   },
   "active": "15d4f3dfed65c4c6",
   "lastOpenFiles": [
-    "1. Projects/데브코스/도서관리프로그램/도서관리 프로그램.md",
+    "1. Projects/데브코스/과제/Spring basic part1.md",
+    "3. Resources/자바 메서드 네이밍.md",
+    "1. Projects/데브코스/과제/도서관리 프로그램.md",
+    "3. Resources/Git 잘못 올라간 파일 관리.md",
     "1. Projects/데브코스/강의정리/Spring 10일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 1일차.md",
     "1. Projects/데브코스/강의정리/Spring 6일차.md",
@@ -174,7 +177,6 @@
     "1. Projects/데브코스/강의정리/Spring 9일차.md",
     "3. Resources/10.20 빙봉팀 멘토링 일지.md",
     "1. Projects/데브코스/강의정리/Spring 7일차.md",
-    "3. Resources/Git 잘못 올라간 파일 관리.md",
     "1. Projects/데브코스/강의정리/Spring 5일차.md",
     "1. Projects/데브코스/강의정리/Spring 4일차.md",
     "1. Projects/데브코스/강의정리/Spring 3일차.md",
@@ -190,13 +192,11 @@
     "일정관리/2023-10-13.md",
     "3. Resources/Java call by value, call by reference.md",
     "3. Resources/MySQL Set함수.md",
-    "3. Resources/Java Record.md",
-    "3. Resources/LSM Tree vs B+ Tree.md",
     "3. Resources/Udemy 쿠버네티스",
     "1. Projects/대규모시스템설계 스터디",
     "Pasted image 20231005001618.png",
     "1. Projects/데브코스/강의정리",
-    "1. Projects/데브코스/도서관리프로그램",
+    "1. Projects/데브코스/과제",
     "1. Projects/데브코스",
     "일정관리",
     "Untitled 1.canvas",
