@@ -127,5 +127,37 @@ public Voucher insert(Voucher voucher){
 ```
 위 코드에서 @Tracktime 어노테이션을 단 메소드를 AOP 범위로 지정
 ## Spring Transaction 관리
-PlatformTransactionManager 인터페이스를
-JDBC의 경우 
+**PlatformTransactionManager** 인터페이스를 상속하여
+JDBC의 경우 **DataSourceTransactionManager**, Hibernate는 **HibernateTransactionManger를**
+구현한 **JDBC/Connection**, **Hibernate/Transaction** 구현체로 트랜잭션을 관리한다
+#### PlatformTransactionManager 빈등록
+```java
+@Bean
+public PlatformTransactionManager platformTransactionManager(Datasource  dataSource) {
+	return new DataSourceTransactionManager(dataSource);
+}
+```
+#### 롤백/커밋
+```java
+var transaction = transactionManager.getTransaction(new DefaultTransactionDefinition());
+try {
+	jdbctemplate.update(sql1);
+	jdbctemplate.update(sql2); // 이때 sql1 실행 후 sql2 실행 시 예외 발생하는 상황
+	transactionManager.commit();
+}
+catch(Exception e){
+	log.info(e);
+	transactionManager.rollback(transaction); // 예외가 발생하면 롤백
+}
+```
+### TransactionTemplate
+JdbcTemplate과 마찬가지로 Transaction도 try catch문 대신 사용 가능
+```java
+transactionTemplate.execute(new TransactionCallbackWithoutResult(){
+	@Override
+	protected void doInTransactionWithoutResult(TransactionStatus status){
+		jdbc.update(sql1);
+		jdbc.update(sql2);
+	}
+});
+```
