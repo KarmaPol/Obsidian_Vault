@@ -130,7 +130,9 @@ public Voucher insert(Voucher voucher){
 **PlatformTransactionManager** 인터페이스를 상속하여
 JDBC의 경우 **DataSourceTransactionManager**, Hibernate는 **HibernateTransactionManger를**
 구현한 **JDBC/Connection**, **Hibernate/Transaction** 구현체로 트랜잭션을 관리한다
-#### PlatformTransactionManager 빈등록
+### PlatformTransactionManager
+programmatic 트랜잭션 관리
+#### PlatformTransactionManager 빈 등록
 ```java
 @Bean
 public PlatformTransactionManager platformTransactionManager(Datasource  dataSource) {
@@ -160,4 +162,42 @@ transactionTemplate.execute(new TransactionCallbackWithoutResult(){
 		jdbc.update(sql2);
 	}
 });
+```
+### @Transactional
+선언적 트랜잭션 관리
+@Transactional 어노테이션으로 서비스 단에서 관리
+이때 AOP기술로 타겟 메소드 전후에 트랜잭션 커밋/롤백 처리
+#### 트랜잭션 전파
+```java
+@Transactional(propagation = Propagation.REQUIRED) // REQUIRED가 디폴트
+void addCustomer(){}
+```
+REQUIRED의 경우, 기존에 진행중인 트랜잭션이 있다면 해당 트랜잭션을 진행하고
+기존 트랜잭션이 없을 경우, 새로운 트랜잭션을 시작한다
+#### 트랜잭션 격리 레벨
+- **READ_UNCOMMITTED**
+  아직 커밋되지 않은 트랜잭션을 다른 트랜잭션에서 읽을 수 있다
+- **READ_COMMITTED**
+  아직 커밋되지 않은 트랜잭션은 다른 트랜잭션에서 읽을 수 없다
+- **REPETABLE_READ**
+  현재 트랜잭션에서 읽는 데이터는 다른 트랜잭션에서 수정(update, delete)할 수 없음
+- **SERIALIZABLE**
+  현재 트랜잭션에서 읽는 데이터는 다른 트랜잭션에서 수정(insert, update, delete)할 수 없음
+
+| |Dirty read|Non-repeatable read|Phantom read|
+|--|--|--|--|
+|Serializable|no|no|no|
+|Repeatable read|no|no|yes|
+|Read committed|no|yes|yes|
+|Read uncommitted|yes|yes|yes|
+- dirty read
+  아직 커밋되지 않은 수정값을 읽음
+- non repeatable read
+  일관되지 않은 읽기
+- phantom reads
+  트랜잭션 읽기 중에 새로운 레코드가 생김
+
+```java
+@Transactional(isolation = Isolation.)
+public void createVoucher(){}
 ```
