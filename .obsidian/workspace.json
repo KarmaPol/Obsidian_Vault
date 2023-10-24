@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 11일차.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 12일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 11일차.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 12일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 11일차.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 12일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 11일차.md"
+                "file": "1. Projects/데브코스/강의정리/Spring 12일차.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "15d4f3dfed65c4c6",
   "lastOpenFiles": [
-    "3. Resources/MySQL Set함수.md",
     "1. Projects/데브코스/강의정리/Spring 11일차.md",
+    "1. Projects/데브코스/강의정리/Spring 12일차.md",
+    "3. Resources/MySQL Set함수.md",
     "1. Projects/데브코스/강의정리/DB 3일차.md",
     "1. Projects/데브코스/강의정리/Spring 9일차.md",
     "3. Resources/Java call by value, call by reference.md",
@@ -191,7 +192,6 @@
     "3. Resources/Java 스케줄링.md",
     "3. Resources/Mockito.md",
     "1. Projects/데브코스/강의정리/Spring 6일차.md",
-    "1. Projects/데브코스/강의정리/Spring 7일차.md",
     "3. Resources/Udemy 쿠버네티스",
     "1. Projects/대규모시스템설계 스터디",
     "Pasted image 20231005001618.png",
