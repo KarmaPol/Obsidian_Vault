@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 13. Spring MVC, REST API.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "right": {
     "id": "6e1b84fda3d6aea1",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 13. Spring MVC, REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 13. Spring MVC, REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md"
+                "file": "1. Projects/데브코스/강의정리/Spring 13. Spring MVC, REST API.md"
               }
             }
           },
@@ -203,15 +203,19 @@
   },
   "active": "57aa241fc918330b",
   "lastOpenFiles": [
-    "3. Resources/Spring/Jdbctemplate preparedstatement에 List 넣기.md",
+    "1. Projects/데브코스/강의정리/Spring 11. Web.md",
+    "1. Projects/데브코스/강의정리/Spring 13. Spring MVC, REST API.md",
+    "1. Projects/데브코스/강의정리/Spring 12. Spring MVC.md",
+    "1. Projects/데브코스/강의정리/Spring 10일차.md",
+    "1. Projects/데브코스/강의정리/디자인패턴 1일차.md",
+    "1. Projects/데브코스/강의정리/Spring 1일차.md",
     "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
+    "3. Resources/Spring/Jdbctemplate preparedstatement에 List 넣기.md",
     "3. Resources/DB/LSM Tree vs B+ Tree.md",
     "1. Projects/데브코스/강의정리/디자인패턴 3일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 2일차.md",
-    "1. Projects/데브코스/강의정리/디자인패턴 1일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 5일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 4일차.md",
-    "1. Projects/데브코스/강의정리/Spring 13일차.md",
     "3. Resources/Spring/테스트 코드용 memory DB.md",
     "3. Resources/Spring/자바 메서드 네이밍.md",
     "3. Resources/Spring/스프링부트 yml profiles group.md",
@@ -220,15 +224,11 @@
     "3. Resources/Spring/Java Record.md",
     "3. Resources/Spring/Mockito.md",
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
-    "1. Projects/데브코스/강의정리/Spring 12일차.md",
     "3. Resources/Spring/Java call by value, call by reference.md",
     "3. Resources/Spring/DTO와 validation.md",
     "3. Resources/Spring/쓰레드 풀.md",
     "README.md",
     "2. Area/커리어 이야기.md",
-    "3. Resources/소프트웨어/도메인 주도 설계.md",
-    "3. Resources/DB/MySQL Set함수.md",
-    "3. Resources/DB/MySQL Null 처리.md",
     "3. Resources/Git",
     "3. Resources/DB",
     "3. Resources/소프트웨어",

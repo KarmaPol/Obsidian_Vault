@@ -108,3 +108,5 @@ Hateoas까지 만족해야 진정한 REST API -> 하지만 잘 사용하지 않�
 3. /는 계층 관계 표현
 4. 마지막 문자로 /포함 X
 5. 하이픈은 URI 가독성 높이는데 사용
+### HTTP 메시지 컨버터
+Dispatcher Servlet -> 핸들러 어댑터 -> Argument Resolver - **HTTP 메시지 컨버터** -> 컨트롤러
