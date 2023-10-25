@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Jdbctemplate preparedstatement에 List 넣기.md",
+                "file": "3. Resources/Spring/스프링 테스트 강의 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2ebec0cbb8995d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Spring/테스트 코드용 memory DB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35ddc6675804eb31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Spring/DTO getter, setter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57aa241fc918330b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/데브코스/강의정리/Spring 13일차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Jdbctemplate preparedstatement에 List 넣기.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 13일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Jdbctemplate preparedstatement에 List 넣기.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 13일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Jdbctemplate preparedstatement에 List 넣기.md"
+                "file": "1. Projects/데브코스/강의정리/Spring 13일차.md"
               }
             }
           },
@@ -164,34 +201,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15d4f3dfed65c4c6",
+  "active": "57aa241fc918330b",
   "lastOpenFiles": [
-    "3. Resources/스프링 테스트 강의 정리.md",
-    "3. Resources/Jdbctemplate preparedstatement에 List 넣기.md",
-    "().md",
-    "3. Resources/도메인 주도 설계.md",
     "1. Projects/데브코스/강의정리/Spring 12일차.md",
-    "3. Resources/스프링 부트 Part1 위클리 미션.md",
-    "3. Resources/알고리즘 시간 복잡도.md",
-    "3. Resources/쓰레드 풀.md",
-    "3. Resources/Git 잘못 올라간 파일 관리.md",
-    "3. Resources/MySQL Set함수.md",
-    "3. Resources/Mockito.md",
-    "3. Resources/Java Record.md",
-    "3. Resources/DTO getter, setter.md",
-    "3. Resources/테스트 코드용 memory DB.md",
-    "3. Resources/자바 메서드 네이밍.md",
-    "3. Resources/스프링부트 yml profiles group.md",
-    "3. Resources/LSM Tree vs B+ Tree.md",
+    "1. Projects/데브코스/강의정리/Spring 13일차.md",
+    "3. Resources/Spring/Java call by value, call by reference.md",
+    "3. Resources/Spring/Java Record.md",
+    "3. Resources/Spring/Mockito.md",
+    "3. Resources/Spring/Jdbctemplate preparedstatement에 List 넣기.md",
+    "3. Resources/Spring/DTO와 validation.md",
+    "3. Resources/Spring/쓰레드 풀.md",
+    "3. Resources/Spring/스프링부트 yml profiles group.md",
     "README.md",
-    "무엇을.md",
-    "1. Projects/데브코스/강의정리/Spring 7일차.md",
-    "1. Projects/데브코스/강의정리/Spring 8일차.md",
-    "1. Projects/데브코스/강의정리/Spring 9일차.md",
-    "1. Projects/데브코스/강의정리/Spring 10일차.md",
-    "1. Projects/데브코스/강의정리/Spring 11일차.md",
-    "1. Projects/데브코스/강의정리/Spring 6일차.md",
-    "1. Projects/데브코스/강의정리/DB 3일차.md",
+    "2. Area/커리어 이야기.md",
+    "3. Resources/소프트웨어/도메인 주도 설계.md",
+    "3. Resources/DB/MySQL Set함수.md",
+    "3. Resources/DB/MySQL Null 처리.md",
+    "3. Resources/DB/LSM Tree vs B+ Tree.md",
+    "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
+    "3. Resources/Git",
+    "3. Resources/DB",
+    "3. Resources/소프트웨어",
+    "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
+    "3. Resources/Spring/스프링 테스트 강의 정리.md",
+    "3. Resources/Spring/테스트 코드용 memory DB.md",
+    "3. Resources/Spring/DTO getter, setter.md",
+    "3. Resources/Spring/자바 메서드 네이밍.md",
+    "3. Resources/Spring/Java 스케줄링.md",
+    "3. Resources/알고리즘 시간 복잡도.md",
+    "3. Resources/Spring",
+    "3. Resources/Untitled.md",
+    "3. Resources/10.20 빙봉팀 멘토링 일지.md",
+    "().md",
     "3. Resources/Udemy 쿠버네티스",
     "1. Projects/대규모시스템설계 스터디",
     "Pasted image 20231005001618.png",
@@ -200,10 +241,6 @@
     "1. Projects/데브코스",
     "일정관리",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "4. Archives",
-    "3. Resources",
-    "2. Area",
-    "1. Projects"
+    "Untitled.canvas"
   ]
 }
