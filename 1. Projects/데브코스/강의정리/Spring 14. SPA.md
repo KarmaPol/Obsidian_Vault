@@ -11,5 +11,14 @@ URL 변경 시 DOM 조작을 통해 특정 영역만 렌더링
 client가 server에 option 메소드로 origin을 예비 요청
 서버에서 허용 시 본 요청
 #### CORS 에러
-Client와 Server측 Origin이 달라서 발생하는 문제
-- 프론트 웹서버에서 프록시를 이용해 포트를 변경해준다
+Client와 Server측 Origin이 달라서 발생
+#### 설정
+WebConfigurer의 구현체에서 addCoursMappings()를 overrride
+```java
+@Overrride
+public void addCorsMappings(CorsRegistry registry) {
+	registry.addMapping("/api/**")
+	.allowedMethods("POST", "GET")
+	.allowedOrigins("**");
+}
+```
