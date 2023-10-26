@@ -110,3 +110,5 @@ Hateoas까지 만족해야 진정한 REST API -> 하지만 잘 사용하지 않�
 5. 하이픈은 URI 가독성 높이는데 사용
 ### HTTP 메시지 컨버터
 Dispatcher Servlet -> 핸들러 어댑터 -> Argument Resolver - **HTTP 메시지 컨버터** -> 컨트롤러
+#### extendMassageConverters()
+WebMvcConfigurer의 구현체에서 Override하여 새로운 messageConverter을 추가 가능

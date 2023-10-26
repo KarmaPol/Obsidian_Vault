@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "f2ebec0cbb8995d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/Spring/테스트 코드용 memory DB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "35ddc6675804eb31",
             "type": "leaf",
             "state": {
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. Spring MVC, REST API.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 14. SPA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. Spring MVC, REST API.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 14. SPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. Spring MVC, REST API.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 14. SPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. Spring MVC, REST API.md"
+                "file": "1. Projects/데브코스/강의정리/Spring 14. SPA.md"
               }
             }
           },
@@ -203,8 +191,11 @@
   },
   "active": "57aa241fc918330b",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md",
+    "1. Projects/데브코스/강의정리/Spring 14. SPA.md",
+    "3. Resources/Spring/스프링 테스트 강의 정리.md",
+    "3. Resources/Spring/테스트 코드용 memory DB.md",
     "1. Projects/데브코스/강의정리/Spring 11. Web.md",
-    "1. Projects/데브코스/강의정리/Spring 13. Spring MVC, REST API.md",
     "1. Projects/데브코스/강의정리/Spring 12. Spring MVC.md",
     "1. Projects/데브코스/강의정리/Spring 10일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 1일차.md",
@@ -216,19 +207,16 @@
     "1. Projects/데브코스/강의정리/디자인패턴 2일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 5일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 4일차.md",
-    "3. Resources/Spring/테스트 코드용 memory DB.md",
     "3. Resources/Spring/자바 메서드 네이밍.md",
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/Spring/DTO getter, setter.md",
     "3. Resources/Spring/Java 스케줄링.md",
     "3. Resources/Spring/Java Record.md",
     "3. Resources/Spring/Mockito.md",
-    "3. Resources/Spring/스프링 테스트 강의 정리.md",
     "3. Resources/Spring/Java call by value, call by reference.md",
     "3. Resources/Spring/DTO와 validation.md",
     "3. Resources/Spring/쓰레드 풀.md",
     "README.md",
-    "2. Area/커리어 이야기.md",
     "3. Resources/Git",
     "3. Resources/DB",
     "3. Resources/소프트웨어",
