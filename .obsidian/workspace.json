@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DB/MySQL Null 처리.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 15. AutoConfiguration.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DB/MySQL Null 처리.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 15. AutoConfiguration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DB/MySQL Null 처리.md",
+                "file": "1. Projects/데브코스/강의정리/Spring 15. AutoConfiguration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DB/MySQL Null 처리.md"
+                "file": "1. Projects/데브코스/강의정리/Spring 15. AutoConfiguration.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "15d4f3dfed65c4c6",
   "lastOpenFiles": [
+    "3. Resources/DB/MySQL Null 처리.md",
     "3. Resources/DB/LSM Tree vs B+ Tree.md",
     "3. Resources/DB/외래키를 쓰지 않는 이유.md",
     "3. Resources/Spring/Mockito.md",
@@ -215,7 +216,6 @@
     "3. Resources/DB/On Delete Cascade.md",
     "1. Projects/데브코스/강의정리/DB 4일차.md",
     "1. Projects/데브코스/강의정리/DB 3일차.md",
-    "1. Projects/데브코스/강의정리/DB 1일차.md",
     "3. Resources/Git",
     "3. Resources/DB",
     "3. Resources/소프트웨어",
