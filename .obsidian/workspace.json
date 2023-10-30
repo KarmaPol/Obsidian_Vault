@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
+                "file": "3. Resources/Spring/자바 메서드 네이밍.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
+                "file": "3. Resources/Spring/자바 메서드 네이밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
+                "file": "3. Resources/Spring/자바 메서드 네이밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md"
+                "file": "3. Resources/Spring/자바 메서드 네이밍.md"
               }
             }
           },
@@ -190,9 +190,10 @@
   },
   "active": "15d4f3dfed65c4c6",
   "lastOpenFiles": [
+    "3. Resources/Spring/쓰레드 풀.md",
+    "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
     "1. Projects/대규모시스템설계 스터디/1. 사용자 수에 따른 규모 확장성.md",
     "1. Projects/대규모시스템설계 스터디/2. 개략적인 규모 추정.md",
-    "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
     "1. Projects/대규모시스템설계 스터디/5. 안정 해시 설계.md",
     "1. Projects/대규모시스템설계 스터디/4. 처리율 제한 장치의 설계.md",
     "3. Resources/DB/LSM Tree vs B+ Tree.md",
@@ -215,7 +216,6 @@
     "3. Resources/Spring/Mockito.md",
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
-    "3. Resources/Spring/자바 메서드 네이밍.md",
     "3. Resources/Git",
     "3. Resources/DB",
     "3. Resources/소프트웨어",
