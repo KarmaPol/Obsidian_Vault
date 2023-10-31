@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md",
+                "file": "3. Resources/DB/MySQL Null 처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md",
+                "file": "3. Resources/DB/MySQL Null 처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md",
+                "file": "3. Resources/DB/MySQL Null 처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md"
+                "file": "3. Resources/DB/MySQL Null 처리.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "35ddc6675804eb31",
   "lastOpenFiles": [
-    "1. Projects/데브코스/강의정리/Spring 12. Spring MVC.md",
+    "3. Resources/DB/On Delete Cascade.md",
+    "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
     "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md",
+    "1. Projects/데브코스/강의정리/Spring 12. Spring MVC.md",
     "1. Projects/데브코스/강의정리/Spring 15. AutoConfiguration.md",
     "1. Projects/데브코스/강의정리/Spring 14. SPA.md",
     "1. Projects/데브코스/강의정리/Spring 11. Web.md",
@@ -202,8 +204,6 @@
     "3. Resources/Spring/Jdbctemplate preparedstatement에 List 넣기.md",
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/DB/MySQL Null 처리.md",
-    "3. Resources/DB/LSM Tree vs B+ Tree.md",
-    "3. Resources/DB/외래키를 쓰지 않는 이유.md",
     "3. Resources/Git",
     "3. Resources/DB",
     "3. Resources/소프트웨어",
