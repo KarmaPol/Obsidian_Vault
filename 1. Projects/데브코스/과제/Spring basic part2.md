@@ -8,3 +8,4 @@ https://github.com/prgrms-be-devcourse/springboot-basic/pull/920
 
 [인수 테스트에서 테스트 격리하기](https://tecoble.techcourse.co.kr/post/2020-09-15-test-isolation/)
 [테스트 코드 성능 개선](https://tecoble.techcourse.co.kr/post/2022-10-15-test-code-optimization/)
+[@Profile대신 @ConditionalOnProperty](https://ssseung.tistory.com/463)

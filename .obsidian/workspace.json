@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md",
+                "file": "1. Projects/데브코스/과제/Spring basic part2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md",
+                "file": "1. Projects/데브코스/과제/Spring basic part2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md",
+                "file": "1. Projects/데브코스/과제/Spring basic part2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md"
+                "file": "1. Projects/데브코스/과제/Spring basic part2.md"
               }
             }
           },
@@ -178,9 +178,9 @@
   },
   "active": "35ddc6675804eb31",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md",
     "1. Projects/데브코스/강의정리/Spring 15. AutoConfiguration.md",
     "1. Projects/데브코스/강의정리/Spring 14. SPA.md",
-    "1. Projects/데브코스/강의정리/Spring 13. 타임리프, REST API.md",
     "3. Resources/DB/MySQL Null 처리.md",
     "3. Resources/DB/On Delete Cascade.md",
     "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
