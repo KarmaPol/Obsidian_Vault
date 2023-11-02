@@ -75,9 +75,16 @@ return Stream.of(VoucherDiscountType.values())
 -> Type Error 발생
 
 ModelAttribute의 경우, 검증 로직으로 가기전 parsing 할때 오류가 터진다
+[Enum Converter](https://velog.io/@haerong22/Enum-파라미터-바인딩)
 
 [Validation 원리](https://incheol-jung.gitbook.io/docs/q-and-a/spring/valid)
 #### valid 요약
 Handler Mapper -> HandlerMethodAdapter이 Handler연관 Adapter  호출
 -> Adapter는 Request유형에 맞는 ArgumentResolver 호출
 -> Handler에 맞게 Parameter 변환 후 **validateIfApplicable()** 호출
+
+[[Argument Resolver 동작 과정]]
+
+#### 질문
+Enum이나 Custom 객체를 만들어 Controller에서 입력 받을 경우,
+Custom Argument Resolver을 만들어주는게 좋을지 궁금합니다
