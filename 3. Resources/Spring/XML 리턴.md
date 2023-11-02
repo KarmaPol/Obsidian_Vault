@@ -1,1 +1,0 @@
-https://thatisgood.tistory.com/entry/JPA-JSON-XML-return
