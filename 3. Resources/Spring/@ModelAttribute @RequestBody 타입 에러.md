@@ -34,5 +34,8 @@ public class VoucherWebCreateRequestDto {
   -> RequestBody는 Jackson이 Json을 역직렬화
   -> 빈 생성자 호출, getter나 setter로 필드 인식, reflection으로 값 주입
 
+[[DTO getter, setter]]
+[[Enum validation]]
+
 [ModelAttribute 기본생성자 Setter 정리](https://hyeon9mak.github.io/model-attribute-without-setter/)
 [Request Body 빈 생성자?](https://yeonyeon.tistory.com/221)

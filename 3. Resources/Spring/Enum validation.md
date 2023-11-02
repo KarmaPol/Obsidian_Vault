@@ -73,3 +73,11 @@ return Stream.of(VoucherDiscountType.values())
 ```
 @JsonCreator를 선언하지 않으면 기본 컨버터가 Enum.valueof()연산으로 바인딩
 -> Type Error 발생
+
+ModelAttribute의 경우, 검증 로직으로 가기전 parsing 할때 오류가 터진다
+
+[Validation 원리](https://incheol-jung.gitbook.io/docs/q-and-a/spring/valid)
+#### valid 요약
+Handler Mapper -> HandlerMethodAdapter이 Handler연관 Adapter  호출
+-> Adapter는 Request유형에 맞는 ArgumentResolver 호출
+-> Handler에 맞게 Parameter 변환 후 **validateIfApplicable()** 호출
