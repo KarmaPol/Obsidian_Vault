@@ -9,3 +9,5 @@ https://stackoverflow.com/questions/45631766/restcontrolleradvice-and-controller
 ```java
 @RestControllerAdvice(annotations = RestController.class)
 ```
+
+[[@ControllerAdvice 동작 과정]]
