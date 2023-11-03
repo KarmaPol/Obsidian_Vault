@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
+                "file": "3. Resources/DB/LSM Tree vs B+ Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
+                "file": "3. Resources/DB/LSM Tree vs B+ Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
+                "file": "3. Resources/DB/LSM Tree vs B+ Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md"
+                "file": "3. Resources/DB/LSM Tree vs B+ Tree.md"
               }
             }
           },
@@ -178,10 +178,12 @@
   },
   "active": "35ddc6675804eb31",
   "lastOpenFiles": [
+    "3. Resources/Spring/Jdbctemplate preparedstatement에 List 넣기.md",
+    "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
+    "1. Projects/대규모시스템설계 스터디/5. 안정 해시 설계.md",
     "3. Resources/Spring/Enum validation.md",
     "3. Resources/Spring/Java call by value, call by reference.md",
     "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
-    "3. Resources/Spring/Jdbctemplate preparedstatement에 List 넣기.md",
     "3. Resources/Spring/쓰레드 풀.md",
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/DB/외래키를 쓰지 않는 이유.md",
@@ -192,8 +194,6 @@
     "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
     "3. Resources/알고리즘/next_permutaion().md",
     "3. Resources/알고리즘/vector 초기화.md",
-    "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
-    "1. Projects/대규모시스템설계 스터디/5. 안정 해시 설계.md",
     "3. Resources/Spring/Java 스케줄링.md",
     "3. Resources/Spring/Java Record.md",
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
