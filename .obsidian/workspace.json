@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/디자인패턴 2일차.md",
+                "file": "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e1b84fda3d6aea1",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/디자인패턴 2일차.md",
+                "file": "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/디자인패턴 2일차.md",
+                "file": "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/디자인패턴 2일차.md"
+                "file": "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md"
               }
             }
           },
@@ -189,6 +190,9 @@
   },
   "active": "35ddc6675804eb31",
   "lastOpenFiles": [
+    "1. Projects/대규모시스템설계 스터디/9. 웹 크롤러 설계.md",
+    "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
+    "1. Projects/데브코스/강의정리/디자인패턴 2일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 1일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 3일차.md",
     "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
@@ -212,9 +216,6 @@
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
     "3. Resources/Spring/쓰레드 풀.md",
     "1. Projects/대규모시스템설계 스터디/8. URL 단축기 설계.md",
-    "1. Projects/대규모시스템설계 스터디/7. 분산 시스템을 위한 유일 ID 생성기 설계.md",
-    "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
-    "3. Resources/DB/LSM Tree vs B+ Tree.md",
     "3. Resources/알고리즘",
     "3. Resources/Git",
     "3. Resources/DB",
