@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
+                "file": "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "6e1b84fda3d6aea1",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
+                "file": "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
+                "file": "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md"
+                "file": "3. Resources/Spring/@ControllerAdvice 동작 과정.md"
               }
             }
           },
@@ -190,32 +189,32 @@
   },
   "active": "35ddc6675804eb31",
   "lastOpenFiles": [
-    "1. Projects/대규모시스템설계 스터디/9. 웹 크롤러 설계.md",
+    "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
+    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
+    "3. Resources/Spring/DTO getter, setter.md",
+    "3. Resources/Spring/Java 스케줄링.md",
+    "3. Resources/Spring/Java call by value, call by reference.md",
+    "3. Resources/Spring/Java Record.md",
+    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
+    "3. Resources/Spring/Jdbctemplate preparedstatement에 List 넣기.md",
+    "3. Resources/Spring/MapStruct 사용법.md",
+    "3. Resources/Spring/Enum validation.md",
     "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
+    "1. Projects/대규모시스템설계 스터디/9. 웹 크롤러 설계.md",
     "1. Projects/데브코스/강의정리/디자인패턴 2일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 1일차.md",
     "1. Projects/데브코스/강의정리/디자인패턴 3일차.md",
     "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
     "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
     "3. Resources/Spring/Mockito.md",
-    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
-    "3. Resources/Spring/Java Record.md",
-    "3. Resources/Spring/Java call by value, call by reference.md",
-    "3. Resources/Spring/Jdbctemplate preparedstatement에 List 넣기.md",
-    "3. Resources/Spring/Java 스케줄링.md",
-    "3. Resources/Spring/Enum validation.md",
     "3. Resources/Spring/DTO와 validation.md",
-    "3. Resources/Spring/DTO getter, setter.md",
     "3. Resources/Spring/Argument Resolver 동작 과정.md",
     "3. Resources/Spring/Annotation 개념 정리.md",
     "3. Resources/Spring/자바 메서드 네이밍.md",
     "3. Resources/Spring/테스트 코드용 memory DB.md",
     "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
-    "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
-    "3. Resources/Spring/쓰레드 풀.md",
-    "1. Projects/대규모시스템설계 스터디/8. URL 단축기 설계.md",
     "3. Resources/알고리즘",
     "3. Resources/Git",
     "3. Resources/DB",
