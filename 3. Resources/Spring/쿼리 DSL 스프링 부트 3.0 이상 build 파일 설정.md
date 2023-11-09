@@ -1,0 +1,1 @@
+https://velog.io/@juhyeon1114/Spring-QueryDsl-gradle-설정-Spring-boot-3.0-이상
