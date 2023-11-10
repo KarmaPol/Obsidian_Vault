@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
+                "file": "4. Archives/cns 인턴십 지원서.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
+                "file": "4. Archives/cns 인턴십 지원서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
+                "file": "4. Archives/cns 인턴십 지원서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md"
+                "file": "4. Archives/cns 인턴십 지원서.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "35ddc6675804eb31",
   "lastOpenFiles": [
-    "3. Resources/Spring/Untitled.md",
     "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
+    "4. Archives/cns 인턴십 지원서.md",
+    "3. Resources/Spring/Untitled.md",
     "3. Resources/Spring/S3 연동 정리.md",
     "3. Resources/Spring/Mockito.md",
     "3. Resources/Spring/MapStruct 사용법.md",
@@ -214,7 +215,6 @@
     "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/Spring/쓰레드 풀.md",
-    "3. Resources/Spring/자바 메서드 네이밍.md",
     "3. Resources/알고리즘",
     "3. Resources/Git",
     "3. Resources/DB",
