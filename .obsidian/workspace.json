@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35ddc6675804eb31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "28d477d644c11876",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/DTO getter, setter.md",
+                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
+                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
+                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md"
+                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md"
               }
             }
           },
@@ -187,15 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35ddc6675804eb31",
+  "active": "28d477d644c11876",
   "lastOpenFiles": [
     "3. Resources/Spring/DTO getter, setter.md",
+    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+    "4. Archives/해커톤.md",
+    "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
     "3. Resources/Spring/DTO와 validation.md",
     "3. Resources/Spring/Java call by value, call by reference.md",
     "3. Resources/Spring/Java 스케줄링.md",
     "3. Resources/Spring/Java Record.md",
     "3. Resources/Spring/Enum validation.md",
-    "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
     "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/Spring/테스트 코드용 memory DB.md",
@@ -211,10 +201,8 @@
     "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
     "4. Archives/cns 인턴십 지원서.md",
     "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
-    "3. Resources/Spring/Untitled.md",
     "3. Resources/Spring/S3 연동 정리.md",
     "3. Resources/Spring/MapStruct 사용법.md",
-    "3. Resources/Spring/스프링 테스트 강의 정리.md",
     "3. Resources/알고리즘",
     "3. Resources/Git",
     "3. Resources/DB",
