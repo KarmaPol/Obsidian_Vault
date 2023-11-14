@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md"
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "28d477d644c11876",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
     "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
     "3. Resources/Spring/자바 메서드 네이밍.md",
     "3. Resources/Spring/DTO getter, setter.md",
@@ -184,7 +186,6 @@
     "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
     "3. Resources/Spring/Java call by value, call by reference.md",
     "3. Resources/Spring/Enum validation.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
     "1. Projects/데브코스/강의정리/JPA",
     "1. Projects/데브코스/강의정리/Spring/Spring 1일차.md",
@@ -206,7 +207,6 @@
     "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
     "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
     "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
-    "3. Resources/Spring/스프링 이벤트.md",
     "3. Resources/알고리즘",
     "3. Resources/Git",
     "3. Resources/DB",
