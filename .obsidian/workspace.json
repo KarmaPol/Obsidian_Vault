@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/http 스터디/1. HTTP 개관.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/http 스터디/1. HTTP 개관.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/http 스터디/1. HTTP 개관.md"
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md"
               }
             }
           },
@@ -175,10 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28d477d644c11876",
+  "active": "57aa241fc918330b",
   "lastOpenFiles": [
-    "1. Projects/http 스터디/2. URL.md",
+    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
     "1. Projects/http 스터디/1. HTTP 개관.md",
+    "1. Projects/http 스터디/2. URL.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
@@ -198,7 +200,6 @@
     "1. Projects/데브코스/강의정리/DB",
     "Untitled.md",
     "1. Projects/데브코스/강의정리/디자인패턴",
-    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
     "3. Resources/Spring/S3 연동 정리.md",
     "3. Resources/Spring/MapStruct 사용법.md",
     "3. Resources/Spring/Mockito.md",
