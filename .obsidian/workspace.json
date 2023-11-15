@@ -177,8 +177,9 @@
   },
   "active": "28d477d644c11876",
   "lastOpenFiles": [
-    "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
+    "1. Projects/http 스터디/2. URL.md",
     "1. Projects/http 스터디/1. HTTP 개관.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
     "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
@@ -207,7 +208,6 @@
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
     "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
     "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
-    "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
     "3. Resources/알고리즘",
     "3. Resources/Git",
     "3. Resources/DB",
