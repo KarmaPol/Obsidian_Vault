@@ -15,3 +15,86 @@
 ```java
 Order findOrder = member.getOrders.get(0);
 ```
+### 양방향 연관관계
+```java
+// Order.class
+@ManyToOne
+@JoinColumn(name = "member_id")
+private Member member;
+
+// Member.class
+@OneToMany(mappedBy = "member") // Order가 연관관계의 주인
+private List<Order> orders = new ArrayList<>();
+```
+- xxxToOne
+  기본 값이 eager loading -> lazy loading으로 설정해야 n+1 문제를 피할 수 있다
+## 고급 매핑
+### 상속
+```java
+// 부모
+@Entity
+@Inheritance(strategy = InheritanceType.JOINED)
+public abstract class Item {
+	private Long id;
+}
+
+// 자식
+@Entity
+public class Car extends Item {
+	private String rider;
+}
+```
+Join 전략은 테이블을 여러 개 생성해서 자식 테이블 조회 시 Join
+
+```java
+// 부모
+@Entity
+@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
+@DiscriminatorColumn(name = "DTYPE")
+public abstract class Item {
+	private Long id;
+}
+
+// 자식
+@Entity
+@DiscriminatorValue("CAR")
+public class Car extends Item {
+	private String rider;
+}
+```
+SingleTable 전략은 하나의 테이블만 생성하여 DTYPE 컬럼으로 구분
+관리하기가 더 용이하므로 실무에서 더 자주 사용
+### @MappedSuperclass
+```java
+@MappedSuperclass
+@Entity
+public class BaseEntity {
+	private LocalDateTime createAt;
+}
+
+@Entity
+public class Item extends BaseEntity {
+	private Long id;
+}
+```
+supperclass인 기본 클래스를 만들어 상속 가능
+### 식별자 클래스
+```java
+public class Member {
+
+}
+```
+#### 전략 1. @IdClass
+```java
+@Entity
+@IdClass(ParentId.class)
+public class Parent {
+	@Id
+	private Long id1;
+	@Id
+	private Long id2;
+}
+
+@EqualsAndHashCode
+public class ParentId implemen
+```
