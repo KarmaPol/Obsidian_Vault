@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md"
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md"
               }
             }
           },
@@ -165,9 +165,9 @@
   },
   "active": "28d477d644c11876",
   "lastOpenFiles": [
-    "1. Projects/http 스터디/1. HTTP 개관.md",
-    "1. Projects/데브코스/강의정리/JPA/Untitled.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
+    "1. Projects/http 스터디/1. HTTP 개관.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
     "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
     "1. Projects/http 스터디/2. URL.md",
     "1. Projects/http 스터디",
