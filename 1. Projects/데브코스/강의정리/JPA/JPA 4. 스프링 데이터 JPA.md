@@ -15,4 +15,4 @@ Optional<Order> findByMemo(String memo);
 ```
 ## API 개발
 - 보통 실무에서는 save 시 꼭 필요한 값인 id값만 반환 (객체 전부 X)
-- 
+- JPA 자체적으로 Pagable로 페이징 처리 지원
