@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md"
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md"
               }
             }
           },
@@ -165,13 +165,14 @@
   },
   "active": "28d477d644c11876",
   "lastOpenFiles": [
-    "3. Resources/알고리즘/vector 초기화.md",
-    "3. Resources/알고리즘/C++ 문자열 부수기.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
+    "3. Resources/알고리즘/C++ 문자열 부수기.md",
+    "3. Resources/알고리즘/vector 초기화.md",
     "README.md",
     "Untitled.md",
     "4. Archives/카카오 인턴십 지원서.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
     "1. Projects/http 스터디/1. HTTP 개관.md",
     "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
     "1. Projects/http 스터디/2. URL.md",
@@ -195,7 +196,6 @@
     "3. Resources/Spring/S3 연동 정리.md",
     "3. Resources/Spring/MapStruct 사용법.md",
     "3. Resources/Spring/Mockito.md",
-    "3. Resources/Spring/Argument Resolver 동작 과정.md",
     "3. Resources/알고리즘",
     "3. Resources/Git",
     "3. Resources/DB",
