@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/스프링 이벤트.md",
+                "file": "4. Archives/카카오 인턴십 지원서.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/스프링 이벤트.md",
+                "file": "4. Archives/카카오 인턴십 지원서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/스프링 이벤트.md",
+                "file": "4. Archives/카카오 인턴십 지원서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/스프링 이벤트.md"
+                "file": "4. Archives/카카오 인턴십 지원서.md"
               }
             }
           },
@@ -165,6 +165,10 @@
   },
   "active": "28d477d644c11876",
   "lastOpenFiles": [
+    "4. Archives/cns 인턴십 지원서.md",
+    "4. Archives/해커톤.md",
+    "4. Archives/카카오 인턴십 지원서.md",
+    "3. Resources/Spring/스프링 이벤트.md",
     "3. Resources/Spring/DTO getter, setter.md",
     "3. Resources/Spring/Enum validation.md",
     "3. Resources/Spring/Java Record.md",
@@ -187,10 +191,6 @@
     "3. Resources/Spring/Argument Resolver 동작 과정.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 5. 문서화.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
-    "1. Projects/데브코스/강의정리/JPA/멘토 세션. DDD.md",
-    "3. Resources/Spring/스프링 이벤트.md",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA",
     "1. Projects/데브코스/강의정리/Spring",
