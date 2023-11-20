@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md"
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md"
               }
             }
           },
@@ -165,9 +165,10 @@
   },
   "active": "28d477d644c11876",
   "lastOpenFiles": [
+    "3. Resources/Spring/스프링부트 yml profiles group.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 5. 문서화.md",
     "3. Resources/Spring/Why LazyLoading?.md",
     "1. Projects/데브코스/강의정리/Security",
@@ -189,7 +190,6 @@
     "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
     "3. Resources/Spring/DTO와 validation.md",
     "3. Resources/Spring/해커톤 서버 빌드 정리.md",
-    "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA",
