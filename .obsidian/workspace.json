@@ -163,8 +163,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28d477d644c11876",
+  "active": "c6fb5d244e475558",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/Security",
+    "1. Projects/데브코스/강의정리/Untitled.md",
     "3. Resources/Spring/Why LazyLoading?.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
@@ -189,8 +191,6 @@
     "3. Resources/Spring/해커톤 서버 빌드 정리.md",
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
-    "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
-    "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA",
     "1. Projects/데브코스/강의정리/Spring",
