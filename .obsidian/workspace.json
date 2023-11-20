@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/Why LazyLoading?.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/Why LazyLoading?.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/Why LazyLoading?.md",
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/Why LazyLoading?.md"
+                "file": "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md"
               }
             }
           },
@@ -163,17 +163,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6fb5d244e475558",
+  "active": "28d477d644c11876",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 5. 문서화.md",
+    "3. Resources/Spring/Why LazyLoading?.md",
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/데브코스/강의정리/Untitled.md",
-    "3. Resources/Spring/Why LazyLoading?.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
     "1. Projects/데브코스/강의정리/JPA/멘토 세션. DDD.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 5. 문서화.md",
     "4. Archives/카카오 인턴십 지원서.md",
     "4. Archives/cns 인턴십 지원서.md",
     "4. Archives/해커톤.md",
@@ -200,7 +200,6 @@
     "3. Resources/Git",
     "3. Resources/DB",
     "3. Resources/소프트웨어",
-    "3. Resources/Spring",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
