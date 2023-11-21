@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
+                "file": "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
+                "file": "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
+                "file": "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/1. QuickStart.md"
+                "file": "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "28d477d644c11876",
   "lastOpenFiles": [
-    "3. Resources/Spring/DTO getter, setter.md",
     "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
+    "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
+    "1. Projects/대규모시스템설계 스터디/9. 웹 크롤러 설계.md",
+    "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
+    "3. Resources/Spring/DTO getter, setter.md",
     "3. Resources/Spring/Why LazyLoading?.md",
     "3. Resources/Spring/S3 연동 정리.md",
     "3. Resources/Spring/Mockito.md",
@@ -189,9 +192,6 @@
     "1. Projects/데브코스/강의정리/Untitled.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
     "1. Projects/데브코스/강의정리/JPA/멘토 세션. DDD.md",
-    "4. Archives/카카오 인턴십 지원서.md",
-    "4. Archives/cns 인턴십 지원서.md",
-    "4. Archives/해커톤.md",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA",
     "1. Projects/데브코스/강의정리/Spring",
