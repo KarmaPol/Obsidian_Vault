@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md"
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "28d477d644c11876",
   "lastOpenFiles": [
-    "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
     "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
+    "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
     "1. Projects/대규모시스템설계 스터디/9. 웹 크롤러 설계.md",
     "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
     "3. Resources/Spring/DTO getter, setter.md",
