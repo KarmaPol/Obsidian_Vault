@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/http 스터디/3. HTTP 메시지.md",
+                "file": "1. Projects/http 스터디/4. 커넥션 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/http 스터디/3. HTTP 메시지.md",
+                "file": "1. Projects/http 스터디/4. 커넥션 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/http 스터디/3. HTTP 메시지.md",
+                "file": "1. Projects/http 스터디/4. 커넥션 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/http 스터디/3. HTTP 메시지.md"
+                "file": "1. Projects/http 스터디/4. 커넥션 관리.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "3ee00e6808646b18",
   "lastOpenFiles": [
-    "1. Projects/http 스터디/4. 커넥션 관리.md",
     "1. Projects/http 스터디/5. 웹 서버.md",
+    "1. Projects/http 스터디/4. 커넥션 관리.md",
     "1. Projects/http 스터디/3. HTTP 메시지.md",
     "1. Projects/http 스터디/1. HTTP 개관.md",
     "1. Projects/http 스터디/2. URL.md",
