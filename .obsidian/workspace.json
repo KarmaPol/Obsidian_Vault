@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "97ed177e852b532e",
+        "id": "bb7cdbe4010d1362",
         "type": "tabs",
         "children": [
           {
-            "id": "28d477d644c11876",
+            "id": "3ee00e6808646b18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/http 스터디/3. HTTP 메시지.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/http 스터디/3. HTTP 메시지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/http 스터디/3. HTTP 메시지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Projects/http 스터디/3. HTTP 메시지.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,10 +155,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28d477d644c11876",
+  "active": "3ee00e6808646b18",
   "lastOpenFiles": [
-    "1. Projects/http 스터디/1. HTTP 개관.md",
+    "1. Projects/http 스터디/4..md",
     "1. Projects/http 스터디/3. HTTP 메시지.md",
+    "1. Projects/http 스터디/1. HTTP 개관.md",
     "1. Projects/http 스터디/2. URL.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
@@ -190,7 +183,6 @@
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA",
