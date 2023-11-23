@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb7cdbe4010d1362",
+        "id": "4179484c9dee87b2",
         "type": "tabs",
         "children": [
           {
-            "id": "3ee00e6808646b18",
+            "id": "e3d3fb33e2a16e5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,11 +163,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ee00e6808646b18",
+  "active": "e3d3fb33e2a16e5d",
   "lastOpenFiles": [
-    "3. Resources/알고리즘/vector 초기화.md",
-    "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
     "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
+    "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
+    "[![Spring.md",
+    "3. Resources/알고리즘/vector 초기화.md",
     "Pasted image 20231123105627.png",
     "3. Resources/Spring/ResponseEntityExceptionHandler.md",
     "1. Projects/http 스터디/4. 커넥션 관리.md",
@@ -191,7 +192,6 @@
     "3. Resources/Spring/테스트 코드용 memory DB.md",
     "3. Resources/Spring/자바 메서드 네이밍.md",
     "3. Resources/Spring/Java call by value, call by reference.md",
-    "3. Resources/Spring/쓰레드 풀.md",
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA",
