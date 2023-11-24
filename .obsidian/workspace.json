@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md",
+                "file": "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md",
+                "file": "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md",
+                "file": "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md"
+                "file": "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md"
               }
             }
           },
@@ -165,10 +165,11 @@
   },
   "active": "e3d3fb33e2a16e5d",
   "lastOpenFiles": [
-    "3. Resources/알고리즘/next_permutaion().md",
-    "3. Resources/알고리즘/vector 초기화.md",
-    "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
     "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
+    "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
+    "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
+    "3. Resources/알고리즘/vector 초기화.md",
+    "3. Resources/알고리즘/next_permutaion().md",
     "1. Projects/데브코스/강의정리/Spring/Spring 5일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 6일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
@@ -191,7 +192,6 @@
     "1. Projects/http 스터디/4. 커넥션 관리.md",
     "1. Projects/http 스터디/5. 웹 서버.md",
     "1. Projects/http 스터디/1. HTTP 개관.md",
-    "1. Projects/http 스터디/2. URL.md",
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA",
