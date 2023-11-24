@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/14. 유튜브 설계.md",
+                "file": "3. Resources/알고리즘/vector 초기화.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/14. 유튜브 설계.md",
+                "file": "3. Resources/알고리즘/vector 초기화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/14. 유튜브 설계.md",
+                "file": "3. Resources/알고리즘/vector 초기화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/대규모시스템설계 스터디/14. 유튜브 설계.md"
+                "file": "3. Resources/알고리즘/vector 초기화.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "e3d3fb33e2a16e5d",
   "lastOpenFiles": [
-    "1. Projects/대규모시스템설계 스터디/13. 검색어 자동완성 시스템.md",
     "1. Projects/대규모시스템설계 스터디/14. 유튜브 설계.md",
+    "1. Projects/대규모시스템설계 스터디/13. 검색어 자동완성 시스템.md",
     "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
     "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
     "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
