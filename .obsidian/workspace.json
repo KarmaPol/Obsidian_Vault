@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md",
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md",
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md",
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md"
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md"
               }
             }
           },
@@ -165,6 +165,10 @@
   },
   "active": "e3d3fb33e2a16e5d",
   "lastOpenFiles": [
+    "3. Resources/알고리즘/vector 초기화.md",
+    "3. Resources/알고리즘/C++ 문자열 부수기.md",
+    "3. Resources/알고리즘/next_permutaion().md",
+    "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "1. Projects/대규모시스템설계 스터디/14. 유튜브 설계.md",
     "1. Projects/대규모시스템설계 스터디/13. 검색어 자동완성 시스템.md",
     "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
@@ -172,8 +176,6 @@
     "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
     "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
     "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
-    "3. Resources/알고리즘/vector 초기화.md",
-    "3. Resources/알고리즘/next_permutaion().md",
     "1. Projects/데브코스/강의정리/Spring/Spring 5일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 6일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
@@ -190,8 +192,6 @@
     "3. Resources/DB/MySQL Null 처리.md",
     "1. Projects/http 스터디/3. HTTP 메시지.md",
     "Pasted image 20231123105627.png",
-    "Untitled.md",
-    "[![Spring.md",
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA",
