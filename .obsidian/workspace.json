@@ -11,8 +11,12 @@
             "id": "e11a5b75f87b329c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md"
+              }
             }
           },
           {
@@ -157,6 +165,9 @@
   },
   "active": "e11a5b75f87b329c",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
+    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+    "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
     "1. Projects/데브코스/강의정리/JPA/과제 피드백.md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
@@ -167,7 +178,6 @@
     "1. Projects/대규모시스템설계 스터디/14. 유튜브 설계.md",
     "1. Projects/대규모시스템설계 스터디/13. 검색어 자동완성 시스템.md",
     "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
-    "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
     "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
     "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
     "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
@@ -181,8 +191,6 @@
     "3. Resources/Spring/자바 메서드 네이밍.md",
     "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
     "3. Resources/Spring/Why LazyLoading?.md",
-    "3. Resources/Spring/S3 연동 정리.md",
-    "3. Resources/Spring/Java Record.md",
     "Pasted image 20231123105627.png",
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/http 스터디",
