@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+                "file": "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+                "file": "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+                "file": "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md"
+                "file": "1. Projects/데브코스/강의정리/Security/6. DB 연동.md"
               }
             }
           },
@@ -165,9 +165,12 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+    "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
+    "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
     "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 1일차.md",
-    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
     "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
     "1. Projects/데브코스/강의정리/JPA/과제 피드백.md",
     "3. Resources/Spring/쓰레드 풀.md",
@@ -188,9 +191,6 @@
     "3. Resources/Spring/Java call by value, call by reference.md",
     "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
     "3. Resources/Spring/Java Record.md",
-    "3. Resources/Spring/DTO getter, setter.md",
-    "3. Resources/Spring/테스트 코드용 memory DB.md",
-    "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
     "Pasted image 20231123105627.png",
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/http 스터디",
