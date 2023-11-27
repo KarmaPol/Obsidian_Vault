@@ -11,8 +11,12 @@
             "id": "77d0205b74af3230",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md"
+              }
             }
           },
           {
@@ -157,32 +165,32 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
-    "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
-    "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
-    "1. Projects/데브코스/강의정리/JPA/과제 피드백.md",
-    "3. Resources/알고리즘/C++ 문자열 부수기.md",
-    "3. Resources/알고리즘/다익스트라 탬플릿.md",
-    "4. Archives/cns 인턴십 지원서.md",
-    "4. Archives/카카오 인턴십 지원서.md",
-    "3. Resources/알고리즘/vector 초기화.md",
-    "3. Resources/알고리즘/next_permutaion().md",
-    "1. Projects/대규모시스템설계 스터디/14. 유튜브 설계.md",
-    "1. Projects/대규모시스템설계 스터디/13. 검색어 자동완성 시스템.md",
-    "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
-    "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
-    "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
-    "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 5일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 6일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
-    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
-    "3. Resources/Spring/테스트 코드용 memory DB.md",
-    "3. Resources/Spring/Enum validation.md",
-    "3. Resources/Spring/스프링부트 yml profiles group.md",
+    "3. Resources/Spring/쓰레드 풀.md",
     "3. Resources/Spring/자바 메서드 네이밍.md",
+    "3. Resources/Spring/스프링부트 yml profiles group.md",
+    "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
+    "3. Resources/Spring/스프링 테스트 강의 정리.md",
+    "3. Resources/Spring/스프링 이벤트.md",
+    "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
+    "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
+    "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
+    "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
+    "3. Resources/Spring/Annotation 개념 정리.md",
+    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+    "3. Resources/Spring/Enum validation.md",
+    "3. Resources/Spring/Java 스케줄링.md",
+    "3. Resources/Spring/DTO와 validation.md",
+    "3. Resources/Spring/Java call by value, call by reference.md",
     "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
+    "3. Resources/Spring/Java Record.md",
+    "3. Resources/Spring/DTO getter, setter.md",
+    "3. Resources/Spring/테스트 코드용 memory DB.md",
+    "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
+    "3. Resources/Spring/Argument Resolver 동작 과정.md",
+    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
+    "3. Resources/Spring/MapStruct 사용법.md",
     "3. Resources/Spring/Why LazyLoading?.md",
+    "3. Resources/Spring/Mockito.md",
     "Pasted image 20231123105627.png",
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/http 스터디",
