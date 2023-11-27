@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "09f09e5dcec59718",
+        "id": "32df06d6d41ba9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "e11a5b75f87b329c",
+            "id": "77d0205b74af3230",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,10 +155,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e11a5b75f87b329c",
+  "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
     "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+    "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
     "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
     "1. Projects/데브코스/강의정리/JPA/과제 피드백.md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
