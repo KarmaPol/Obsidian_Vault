@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
+                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
+                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
+                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/6. DB 연동.md"
+                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md"
               }
             }
           },
@@ -165,8 +165,12 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+    "1. Projects/CMC/컨퍼런스",
     "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
+    "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
+    "1. Projects/CMC",
+    "1. Projects/Untitled.md",
+    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
     "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
     "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
@@ -188,9 +192,6 @@
     "3. Resources/Spring/Enum validation.md",
     "3. Resources/Spring/Java 스케줄링.md",
     "3. Resources/Spring/DTO와 validation.md",
-    "3. Resources/Spring/Java call by value, call by reference.md",
-    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
-    "3. Resources/Spring/Java Record.md",
     "Pasted image 20231123105627.png",
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/http 스터디",
@@ -201,7 +202,6 @@
     "3. Resources/알고리즘",
     "3. Resources/Git",
     "3. Resources/DB",
-    "3. Resources/소프트웨어",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
