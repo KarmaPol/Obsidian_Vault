@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/http 스터디/8. 클라이언트 식별과 쿠키.md",
+                "file": "1. Projects/http 스터디/7. 캐시.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/http 스터디/8. 클라이언트 식별과 쿠키.md",
+                "file": "1. Projects/http 스터디/7. 캐시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/http 스터디/8. 클라이언트 식별과 쿠키.md",
+                "file": "1. Projects/http 스터디/7. 캐시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/http 스터디/8. 클라이언트 식별과 쿠키.md"
+                "file": "1. Projects/http 스터디/7. 캐시.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "Pasted image 20231123105627.png",
+    "4. Archives/cns 인턴십 지원서.md",
+    "1. Projects/http 스터디/12. 기본 인증.md",
+    "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
     "1. Projects/http 스터디/7. 캐시.md",
-    "1. Projects/http 스터디/8. 클라이언트 식별과 쿠키.md",
     "1. Projects/데브코스/강의정리/Security/8. JWT.md",
     "1. Projects/데브코스/강의정리/Security/7. Session.md",
     "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
@@ -189,12 +192,8 @@
     "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
     "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
     "3. Resources/Spring/Java call by value, call by reference.md",
-    "3. Resources/Spring/Argument Resolver 동작 과정.md",
-    "3. Resources/Spring/Annotation 개념 정리.md",
-    "3. Resources/Spring/테스트 코드용 memory DB.md",
     "1. Projects/CMC/컨퍼런스",
     "1. Projects/CMC",
-    "Pasted image 20231123105627.png",
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA",
