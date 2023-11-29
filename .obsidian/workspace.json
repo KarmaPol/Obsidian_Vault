@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/http 스터디/7. 캐시.md",
+                "file": "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/http 스터디/7. 캐시.md",
+                "file": "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/http 스터디/7. 캐시.md",
+                "file": "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/http 스터디/7. 캐시.md"
+                "file": "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md"
               }
             }
           },
@@ -165,11 +165,11 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "Pasted image 20231123105627.png",
-    "4. Archives/cns 인턴십 지원서.md",
     "1. Projects/http 스터디/12. 기본 인증.md",
     "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
     "1. Projects/http 스터디/7. 캐시.md",
+    "Pasted image 20231123105627.png",
+    "4. Archives/cns 인턴십 지원서.md",
     "1. Projects/데브코스/강의정리/Security/8. JWT.md",
     "1. Projects/데브코스/강의정리/Security/7. Session.md",
     "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
