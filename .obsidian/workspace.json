@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/9. JWT 2.md"
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md"
               }
             }
           },
@@ -165,6 +165,10 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "3. Resources/Spring Batch/스프링 부트 배치의 기본.md",
+    "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
+    "3. Resources/Spring/쓰레드 풀.md",
+    "3. Resources/Spring Batch",
     "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
     "1. Projects/데브코스/강의정리/Security/8. JWT.md",
     "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
@@ -189,9 +193,6 @@
     "4. Archives/cns 인턴십 지원서.md",
     "1. Projects/데브코스/강의정리/Security/7. Session.md",
     "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
-    "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
-    "3. Resources/Spring Security/Security migration.md",
-    "1. Projects/http 스터디/4. 커넥션 관리.md",
     "3. Resources/Spring Security",
     "1. Projects/CMC/컨퍼런스",
     "1. Projects/CMC",
@@ -201,7 +202,6 @@
     "1. Projects/데브코스/강의정리/Spring",
     "1. Projects/데브코스/강의정리/DB",
     "1. Projects/데브코스/강의정리/디자인패턴",
-    "3. Resources/알고리즘",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
