@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/크루스칼 & Union Find.md",
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/크루스칼 & Union Find.md",
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/크루스칼 & Union Find.md",
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/크루스칼 & Union Find.md"
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md"
               }
             }
           },
@@ -165,9 +165,9 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
-    "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "3. Resources/Spring Batch/스프링 부트 배치의 기본.md",
+    "3. Resources/알고리즘/크루스칼 & Union Find.md",
+    "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
     "3. Resources/Spring/쓰레드 풀.md",
     "3. Resources/Spring Batch",
     "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
