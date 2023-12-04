@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
+                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
+                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
+                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md"
+                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md"
               }
             }
           },
@@ -165,34 +165,35 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/Spring Batch/스프링 부트 배치의 기본.md",
-    "3. Resources/알고리즘/크루스칼 & Union Find.md",
-    "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
-    "3. Resources/Spring/쓰레드 풀.md",
-    "3. Resources/Spring Batch",
-    "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
-    "1. Projects/데브코스/강의정리/Security/8. JWT.md",
+    "3. Resources/Spring/Annotation 개념 정리.md",
+    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+    "3. Resources/Spring/테스트 코드용 memory DB.md",
     "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
+    "3. Resources/Spring/자바 메서드 네이밍.md",
+    "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
-    "4. Archives/11-29 수 빙봉 팀 미팅.md",
-    "1. Projects/데브코스/강의정리/Security/멘토 세션. 백엔드 유지보수성.md",
-    "1. Projects/http 스터디/12. 기본 인증.md",
-    "1. Projects/대규모시스템설계 스터디/14. 유튜브 설계.md",
-    "1. Projects/대규모시스템설계 스터디/13. 검색어 자동완성 시스템.md",
-    "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
-    "1. Projects/대규모시스템설계 스터디/2. 개략적인 규모 추정.md",
-    "1. Projects/대규모시스템설계 스터디/1. 사용자 수에 따른 규모 확장성.md",
-    "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
-    "1. Projects/대규모시스템설계 스터디/5. 안정 해시 설계.md",
-    "1. Projects/대규모시스템설계 스터디/3. 시스템 설계 면접 공략법.md",
-    "1. Projects/대규모시스템설계 스터디/9. 웹 크롤러 설계.md",
-    "1. Projects/대규모시스템설계 스터디/7. 분산 시스템을 위한 유일 ID 생성기 설계.md",
-    "1. Projects/대규모시스템설계 스터디/8. URL 단축기 설계.md",
-    "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
-    "1. Projects/http 스터디/7. 캐시.md",
+    "3. Resources/Spring/스프링 이벤트.md",
+    "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
+    "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
+    "3. Resources/Spring/DTO getter, setter.md",
+    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
+    "3. Resources/Spring/ResponseEntityExceptionHandler.md",
+    "3. Resources/Spring/Mockito.md",
+    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
+    "3. Resources/Spring/Java 스케줄링.md",
+    "3. Resources/Spring/Enum validation.md",
+    "3. Resources/Spring/DTO와 validation.md",
+    "3. Resources/Spring/Argument Resolver 동작 과정.md",
+    "3. Resources/Spring/쓰레드 풀.md",
+    "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
+    "3. Resources/Spring/MapStruct 사용법.md",
+    "3. Resources/Spring/Java call by value, call by reference.md",
+    "3. Resources/Spring Batch/스프링 부트 배치의 기본.md",
+    "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
+    "3. Resources/Spring/Why LazyLoading?.md",
+    "1. Projects/선착순 시스템",
+    "3. Resources/Spring Batch",
     "Pasted image 20231123105627.png",
-    "4. Archives/cns 인턴십 지원서.md",
-    "1. Projects/데브코스/강의정리/Security/7. Session.md",
     "3. Resources/Spring Security",
     "1. Projects/CMC/컨퍼런스",
     "1. Projects/CMC",
@@ -201,7 +202,6 @@
     "1. Projects/데브코스/강의정리/JPA",
     "1. Projects/데브코스/강의정리/Spring",
     "1. Projects/데브코스/강의정리/DB",
-    "1. Projects/데브코스/강의정리/디자인패턴",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
