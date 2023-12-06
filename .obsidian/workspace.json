@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
+                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
+                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
+                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md"
+                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
+    "3. Resources/Spring Security/Security migration.md",
     "3. Resources/Spring Batch/스프링 부트 배치의 기본.md",
     "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
@@ -190,7 +192,6 @@
     "3. Resources/Spring/S3 연동 정리.md",
     "3. Resources/Spring/Annotation 개념 정리.md",
     "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
-    "3. Resources/Spring/스프링부트 yml profiles group.md",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
     "Pasted image 20231123105627.png",
