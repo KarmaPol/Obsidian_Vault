@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/세션 강의. 커리어, 팀워크. 리더십.md",
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/세션 강의. 커리어, 팀워크. 리더십.md",
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/세션 강의. 커리어, 팀워크. 리더십.md",
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/세션 강의. 커리어, 팀워크. 리더십.md"
+                "file": "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "1. Projects/대규모시스템설계 스터디/5. 안정 해시 설계.md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는/세션 강의. 커리어, 팀워크. 리더십.md",
+    "1. Projects/대규모시스템설계 스터디/5. 안정 해시 설계.md",
     "1. Projects/대규모시스템설계 스터디/4. 처리율 제한 장치의 설계.md",
     "1. Projects/대규모시스템설계 스터디/3. 시스템 설계 면접 공략법.md",
     "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
