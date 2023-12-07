@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
+                "file": "3. Resources/소프트웨어/아파치 카프카 입문.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
+                "file": "3. Resources/소프트웨어/아파치 카프카 입문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
+                "file": "3. Resources/소프트웨어/아파치 카프카 입문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md"
+                "file": "3. Resources/소프트웨어/아파치 카프카 입문.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/Spring/멀티 모듈 설계.md",
+    "3. Resources/소프트웨어/도메인 주도 설계.md",
+    "3. Resources/소프트웨어/아파치 카프카 입문.md",
     "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
+    "3. Resources/Spring/멀티 모듈 설계.md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
     "1. Projects/대규모시스템설계 스터디/15. 구글 드라이브 설계.md",
     "1. Projects/대규모시스템설계 스터디/16. 배움은 계속된다.md",
@@ -190,8 +192,6 @@
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
     "3. Resources/Spring/자바 메서드 네이밍.md",
-    "3. Resources/Spring/테스트 코드용 memory DB.md",
-    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
     "Pasted image 20231123105627.png",
