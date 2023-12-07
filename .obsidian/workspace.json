@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
+                "file": "3. Resources/Spring/멀티 모듈 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
+                "file": "3. Resources/Spring/멀티 모듈 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
+                "file": "3. Resources/Spring/멀티 모듈 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md"
+                "file": "3. Resources/Spring/멀티 모듈 설계.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
+    "3. Resources/Spring/멀티 모듈 설계.md",
     "1. Projects/대규모시스템설계 스터디/15. 구글 드라이브 설계.md",
     "1. Projects/대규모시스템설계 스터디/16. 배움은 계속된다.md",
     "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
@@ -181,7 +183,6 @@
     "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
     "1. Projects/대규모시스템설계 스터디/2. 개략적인 규모 추정.md",
     "1. Projects/대규모시스템설계 스터디/1. 사용자 수에 따른 규모 확장성.md",
-    "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
     "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
     "3. Resources/Spring Security/Security migration.md",
     "3. Resources/Spring Batch/스프링 부트 배치의 기본.md",
@@ -191,7 +192,6 @@
     "3. Resources/Spring/테스트 코드용 memory DB.md",
     "3. Resources/Spring/해커톤 서버 빌드 정리.md",
     "3. Resources/Spring/Argument Resolver 동작 과정.md",
-    "3. Resources/Spring/DTO getter, setter.md",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
     "Pasted image 20231123105627.png",
