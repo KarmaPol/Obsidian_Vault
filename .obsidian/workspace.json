@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
+                "file": "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
+                "file": "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
+                "file": "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md"
+                "file": "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md"
               }
             }
           },
@@ -165,32 +165,32 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/소프트웨어/아파치 카프카 입문.md",
+    "3. Resources/Spring Security/Security migration.md",
+    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+    "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
+    "1. Projects/데브코스/과제/JPA.md",
+    "1. Projects/데브코스/과제/Spring basic part1.md",
+    "1. Projects/데브코스/과제/도서관리 프로그램.md",
     "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
-    "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
-    "1. Projects/http 스터디/14. 보안 HTTP.md",
-    "1. Projects/http 스터디/4. 커넥션 관리.md",
-    "1. Projects/http 스터디/7. 캐시.md",
-    "1. Projects/http 스터디/5. 웹 서버.md",
-    "1. Projects/http 스터디/3. HTTP 메시지.md",
-    "1. Projects/http 스터디/2. URL.md",
-    "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
-    "1. Projects/http 스터디/12. 기본 인증.md",
-    "1. Projects/http 스터디/1. HTTP 개관.md",
-    "3. Resources/알고리즘/C++ 문자열 부수기.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 14. SPA.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 13. 타임리프, REST API.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
+    "2. Area/커리어 이야기.md",
     "3. Resources/소프트웨어/도메인 주도 설계.md",
-    "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
-    "3. Resources/Spring/멀티 모듈 설계.md",
-    "1. Projects/데브코스/강의정리/백엔드가이정도는/1. 협업 프로세스.md",
-    "1. Projects/대규모시스템설계 스터디/15. 구글 드라이브 설계.md",
-    "1. Projects/대규모시스템설계 스터디/16. 배움은 계속된다.md",
-    "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
-    "1. Projects/데브코스/강의정리/백엔드가이정도는/세션 강의. 커리어, 팀워크. 리더십.md",
-    "1. Projects/대규모시스템설계 스터디/5. 안정 해시 설계.md",
-    "1. Projects/대규모시스템설계 스터디/4. 처리율 제한 장치의 설계.md",
+    "3. Resources/소프트웨어/아파치 카프카 입문.md",
+    "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
+    "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
+    "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
+    "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
+    "3. Resources/DB/On Delete Cascade.md",
+    "3. Resources/DB/MySQL Set함수.md",
+    "3. Resources/DB/MySQL Null 처리.md",
+    "3. Resources/DB/LSM Tree vs B+ Tree.md",
+    "3. Resources/DB/외래키를 쓰지 않는 이유.md",
+    "3. Resources/알고리즘/vector 초기화.md",
+    "3. Resources/알고리즘/next_permutaion().md",
+    "3. Resources/알고리즘/C++ 문자열 부수기.md",
+    "3. Resources/알고리즘/크루스칼 & Union Find.md",
+    "3. Resources/알고리즘/다익스트라 탬플릿.md",
+    "3. Resources/Spring/Why LazyLoading?.md",
+    "3. Resources/Spring/S3 연동 정리.md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
