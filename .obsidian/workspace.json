@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/http 스터디/4. 커넥션 관리.md",
+                "file": "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/http 스터디/4. 커넥션 관리.md",
+                "file": "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/http 스터디/4. 커넥션 관리.md",
+                "file": "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/http 스터디/4. 커넥션 관리.md"
+                "file": "1. Projects/http 스터디/15. 엔티티와 인코딩.md"
               }
             }
           },
@@ -165,15 +165,15 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "1. Projects/http 스터디/14. 보안 HTTP.md",
+    "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
+    "1. Projects/http 스터디/4. 커넥션 관리.md",
     "1. Projects/http 스터디/7. 캐시.md",
     "1. Projects/http 스터디/5. 웹 서버.md",
     "1. Projects/http 스터디/3. HTTP 메시지.md",
-    "1. Projects/http 스터디/4. 커넥션 관리.md",
     "1. Projects/http 스터디/2. URL.md",
     "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
     "1. Projects/http 스터디/12. 기본 인증.md",
-    "1. Projects/http 스터디/14. 보안 HTTP.md",
-    "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
     "1. Projects/http 스터디/1. HTTP 개관.md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
     "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
