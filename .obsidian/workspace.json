@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md"
+                "file": "1. Projects/http 스터디/15. 엔티티와 인코딩.md"
               }
             }
           },
@@ -165,6 +165,12 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "1. Projects/http 스터디/1. HTTP 개관.md",
+    "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
+    "1. Projects/http 스터디/14. 보안 HTTP.md",
+    "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
+    "1. Projects/http 스터디/12. 기본 인증.md",
+    "3. Resources/알고리즘/C++ 문자열 부수기.md",
     "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 14. SPA.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 13. 타임리프, REST API.md",
@@ -185,12 +191,6 @@
     "1. Projects/대규모시스템설계 스터디/8. URL 단축기 설계.md",
     "1. Projects/대규모시스템설계 스터디/7. 분산 시스템을 위한 유일 ID 생성기 설계.md",
     "1. Projects/대규모시스템설계 스터디/9. 웹 크롤러 설계.md",
-    "1. Projects/대규모시스템설계 스터디/14. 유튜브 설계.md",
-    "1. Projects/대규모시스템설계 스터디/13. 검색어 자동완성 시스템.md",
-    "1. Projects/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
-    "1. Projects/대규모시스템설계 스터디/2. 개략적인 규모 추정.md",
-    "1. Projects/대규모시스템설계 스터디/1. 사용자 수에 따른 규모 확장성.md",
-    "3. Resources/Spring Security/Security migration.md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
