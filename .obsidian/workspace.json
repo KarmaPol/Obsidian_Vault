@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/소프트웨어/멀티 모듈 설계.md",
+                "file": "3. Resources/소프트웨어/Redis Dockercompose.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/소프트웨어/멀티 모듈 설계.md",
+                "file": "3. Resources/소프트웨어/Redis Dockercompose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/소프트웨어/멀티 모듈 설계.md",
+                "file": "3. Resources/소프트웨어/Redis Dockercompose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/소프트웨어/멀티 모듈 설계.md"
+                "file": "3. Resources/소프트웨어/Redis Dockercompose.md"
               }
             }
           },
@@ -165,11 +165,13 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "3. Resources/소프트웨어/도메인 주도 설계.md",
+    "3. Resources/소프트웨어/Redis Dockercompose.md",
     "3. Resources/소프트웨어/아파치 카프카 입문.md",
+    "3. Resources/소프트웨어/멀티 모듈 설계.md",
     "3. Resources/알고리즘/vector 초기화.md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
-    "3. Resources/소프트웨어/멀티 모듈 설계.md",
     "1. Projects/대규모시스템설계 스터디/8. URL 단축기 설계.md",
     "1. Projects/대규모시스템설계 스터디/16. 배움은 계속된다.md",
     "1. Projects/대규모시스템설계 스터디/15. 구글 드라이브 설계.md",
@@ -187,10 +189,8 @@
     "1. Projects/http 스터디/2. URL.md",
     "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
     "1. Projects/선착순 시스템/1..md",
-    "3. Resources/소프트웨어/도메인 주도 설계.md",
     "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "3. Resources/알고리즘/next_permutaion().md",
-    "3. Resources/Spring/테스트 코드용 memory DB.md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
