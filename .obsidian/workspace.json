@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/SpringBoot 레디스 캐시.md",
+                "file": "4. Archives/cns 인턴십 지원서.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/SpringBoot 레디스 캐시.md",
+                "file": "4. Archives/cns 인턴십 지원서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/SpringBoot 레디스 캐시.md",
+                "file": "4. Archives/cns 인턴십 지원서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/SpringBoot 레디스 캐시.md"
+                "file": "4. Archives/cns 인턴십 지원서.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/소프트웨어/Redis Docker compose.md",
+    "4. Archives/카카오 인턴십 지원서.md",
     "3. Resources/Spring/SpringBoot 레디스 캐시.md",
+    "3. Resources/소프트웨어/Redis Docker compose.md",
     "3. Resources/소프트웨어/Untitled.md",
     "3. Resources/소프트웨어/도메인 주도 설계.md",
     "3. Resources/소프트웨어/아파치 카프카 입문.md",
@@ -190,7 +191,6 @@
     "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
     "1. Projects/http 스터디/2. URL.md",
     "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
-    "1. Projects/선착순 시스템/1..md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
