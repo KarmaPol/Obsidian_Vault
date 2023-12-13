@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md"
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md"
               }
             }
           },
@@ -165,32 +165,32 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/소프트웨어/도커 스웜 개념.md",
-    "3. Resources/소프트웨어/아파치 카프카 입문.md",
-    "1. Projects/대규모시스템설계 스터디/6. 키-값 저장소 설계.md",
-    "1. Projects/대규모시스템설계 스터디/8. URL 단축기 설계.md",
-    "1. Projects/http 스터디/16. 국제화.md",
+    "3. Resources/Spring/테스트 코드용 memory DB.md",
+    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+    "3. Resources/Spring/Annotation 개념 정리.md",
+    "3. Resources/Spring/Argument Resolver 동작 과정.md",
+    "3. Resources/Spring/DTO getter, setter.md",
+    "3. Resources/Spring/DTO와 validation.md",
+    "3. Resources/Spring/Enum validation.md",
+    "3. Resources/Spring/Java 스케줄링.md",
+    "3. Resources/Spring/Java call by value, call by reference.md",
+    "3. Resources/Spring/Java Record.md",
+    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
+    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
+    "3. Resources/Spring/MapStruct 사용법.md",
+    "3. Resources/Spring/Mockito.md",
+    "3. Resources/Spring/ResponseEntityExceptionHandler.md",
     "3. Resources/Spring/Spring URL 한글 인코딩.md",
-    "3. Resources/소프트웨어/멀티 모듈 설계.md",
-    "3. Resources/Spring/Why LazyLoading?.md",
     "3. Resources/Spring/S3 연동 정리.md",
     "3. Resources/Spring/SpringBoot 레디스 캐시.md",
-    "3. Resources/Spring/ResponseEntityExceptionHandler.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 3일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 2일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 1일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 5일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 12. Spring MVC.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 11. Web.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 9일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 8일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 6일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 4일차.md",
-    "3. Resources/소프트웨어/Redis Docker compose.md",
-    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
-    "3. Resources/Spring Batch/스프링 부트 배치의 기본.md",
+    "3. Resources/Spring/Why LazyLoading?.md",
+    "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
+    "3. Resources/Spring/스프링부트 yml profiles group.md",
+    "3. Resources/Spring/쓰레드 풀.md",
+    "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
+    "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
+    "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
+    "3. Resources/소프트웨어/도커 스웜 개념.md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
