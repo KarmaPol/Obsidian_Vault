@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/http 스터디/17. 내용 협상과 트랜스코딩.md",
+                "file": "3. Resources/소프트웨어/도커 스웜 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/http 스터디/17. 내용 협상과 트랜스코딩.md",
+                "file": "3. Resources/소프트웨어/도커 스웜 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/http 스터디/17. 내용 협상과 트랜스코딩.md",
+                "file": "3. Resources/소프트웨어/도커 스웜 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/http 스터디/17. 내용 협상과 트랜스코딩.md"
+                "file": "3. Resources/소프트웨어/도커 스웜 개념.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "1. Projects/http 스터디/16. 국제화.md",
     "1. Projects/http 스터디/17. 내용 협상과 트랜스코딩.md",
+    "1. Projects/http 스터디/16. 국제화.md",
     "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
     "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
     "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
