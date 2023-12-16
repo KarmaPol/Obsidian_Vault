@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
+                "file": "3. Resources/DevOps/AWS VPC 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
+                "file": "3. Resources/DevOps/AWS VPC 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
+                "file": "3. Resources/DevOps/AWS VPC 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md"
+                "file": "3. Resources/DevOps/AWS VPC 개념.md"
               }
             }
           },
@@ -165,10 +165,23 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/소프트웨어/nGrinder.md",
-    "3. Resources/소프트웨어/도커 스웜 개념.md",
+    "3. Resources/DevOps/AWS VPC 개념.md",
+    "3. Resources/DevOps/도커 스웜 개념.md",
+    "1. Projects/http 스터디/3. HTTP 메시지.md",
+    "3. Resources/DevOps",
+    "1. Projects/http 스터디/1. HTTP 개관.md",
+    "1. Projects/http 스터디/2. URL.md",
+    "1. Projects/http 스터디/4. 커넥션 관리.md",
+    "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
     "1. Projects/http 스터디/17. 내용 협상과 트랜스코딩.md",
     "1. Projects/http 스터디/16. 국제화.md",
+    "1. Projects/http 스터디/14. 보안 HTTP.md",
+    "1. Projects/http 스터디/12. 기본 인증.md",
+    "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
+    "1. Projects/http 스터디/7. 캐시.md",
+    "1. Projects/http 스터디/5. 웹 서버.md",
+    "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
+    "3. Resources/소프트웨어/nGrinder.md",
     "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
     "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
     "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
@@ -179,18 +192,6 @@
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/Spring/쓰레드 풀.md",
     "3. Resources/Spring/자바 메서드 네이밍.md",
-    "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
-    "3. Resources/Spring/테스트 코드용 memory DB.md",
-    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
-    "3. Resources/Spring/Annotation 개념 정리.md",
-    "3. Resources/Spring/Argument Resolver 동작 과정.md",
-    "3. Resources/Spring/DTO와 validation.md",
-    "3. Resources/Spring/Enum validation.md",
-    "3. Resources/Spring/Java 스케줄링.md",
-    "3. Resources/Spring/Java call by value, call by reference.md",
-    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
-    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
-    "3. Resources/Spring/Mockito.md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
@@ -201,7 +202,6 @@
     "1. Projects/데브코스/강의정리/Security",
     "1. Projects/http 스터디",
     "1. Projects/데브코스/강의정리/JPA",
-    "1. Projects/데브코스/강의정리/Spring",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
