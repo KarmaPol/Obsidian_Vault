@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archives/11-29 수 빙봉 팀 미팅.md",
+                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archives/11-29 수 빙봉 팀 미팅.md",
+                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archives/11-29 수 빙봉 팀 미팅.md",
+                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archives/11-29 수 빙봉 팀 미팅.md"
+                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md"
               }
             }
           },
@@ -165,9 +165,13 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "Pasted image 20231123105627.png",
-    "3. Resources/DevOps/도커 스웜 개념.md",
+    "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
+    "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
+    "3. Resources/DevOps/도커 네트워크.md",
     "3. Resources/DevOps/AWS VPC 개념.md",
+    "3. Resources/DevOps/도커 스웜 개념.md",
+    "4. Archives/11-29 수 빙봉 팀 미팅.md",
+    "Pasted image 20231123105627.png",
     "1. Projects/http 스터디/3. HTTP 메시지.md",
     "3. Resources/DevOps",
     "1. Projects/http 스터디/1. HTTP 개관.md",
@@ -189,9 +193,6 @@
     "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
     "3. Resources/Spring/스프링 공통 response dto.md",
     "3. Resources/Spring/스프링 이벤트.md",
-    "3. Resources/Spring/스프링 테스트 강의 정리.md",
-    "3. Resources/Spring/스프링부트 yml profiles group.md",
-    "3. Resources/Spring/쓰레드 풀.md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
