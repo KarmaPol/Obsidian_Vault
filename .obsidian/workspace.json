@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
+                "file": "3. Resources/DevOps/도커 네트워크.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
+                "file": "3. Resources/DevOps/도커 네트워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
+                "file": "3. Resources/DevOps/도커 네트워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md"
+                "file": "3. Resources/DevOps/도커 네트워크.md"
               }
             }
           },
@@ -165,11 +165,11 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
-    "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
-    "3. Resources/DevOps/도커 네트워크.md",
-    "3. Resources/DevOps/AWS VPC 개념.md",
     "3. Resources/DevOps/도커 스웜 개념.md",
+    "3. Resources/DevOps/AWS VPC 개념.md",
+    "3. Resources/DevOps/도커 네트워크.md",
+    "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
+    "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
     "4. Archives/11-29 수 빙봉 팀 미팅.md",
     "Pasted image 20231123105627.png",
     "1. Projects/http 스터디/3. HTTP 메시지.md",
