@@ -108,3 +108,16 @@ docker stack deploy -c docker-compose.yml traefik
 
 - traefik이 도메인 까지 자동 발급해주는 것은 아니다
 - 도커 스웜, 네트워크에 대해 추가적인 공부가 필요하다
+- host.docker.internal로 manager node의 ip 주소를 참조하더라도 인그레스 네트워크에 의해 로드밸런싱은 동작해야 한다
+  -> 로드 밸런싱이 동작하지 않는 것은 도커 스웜 인그레스 네트워크 자체에 문제가 있다
+#### 로드 밸런싱 문제 해결
+- 스웜에 필요한 포트를 열어줘야 한다
+https://docs.docker.com/engine/swarm/swarm-tutorial/#open-protocols-and-ports-between-the-hosts
+https://xn--os5ba3q.com/162
+#### 스웜 핏 워커 노드 모니터링 안되는 문제
+https://github.com/swarmpit/swarmpit/issues/560
+```
+I have finally found a solution to this issue.  
+You need to include the `--advertise-addr` flag with the 'docker swarm join' command.  
+For example: `docker swarm join --token <manager-node-token> <manager-node-ip>:2377 --advertise-addr <worker-node-external-ip>`
+```
