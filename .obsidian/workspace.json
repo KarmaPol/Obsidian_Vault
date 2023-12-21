@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md"
+                "file": "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md"
               }
             }
           },
@@ -165,8 +165,20 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/알고리즘/크루스칼 & Union Find.md",
+    "3. Resources/Spring/테스트 코드용 memory DB.md",
+    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+    "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
+    "3. Resources/Spring/자바 메서드 네이밍.md",
+    "3. Resources/Spring/쓰레드 풀.md",
+    "3. Resources/Spring/스프링 이벤트.md",
+    "3. Resources/Spring/스프링 테스트 강의 정리.md",
+    "3. Resources/Spring/스프링부트 yml profiles group.md",
+    "3. Resources/Spring/스프링 공통 response dto.md",
+    "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
+    "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
+    "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
+    "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "3. Resources/알고리즘/next_permutaion().md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "1. Projects/http 스터디/8. 통합점. 게이트웨이, 터널, 릴레이.md",
@@ -179,20 +191,8 @@
     "3. Resources/DevOps/도커 스웜 개념.md",
     "3. Resources/DevOps/AWS VPC 개념.md",
     "3. Resources/Spring/Swagger http,https 오류.md",
-    "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
-    "4. Archives/11-29 수 빙봉 팀 미팅.md",
     "Pasted image 20231123105627.png",
-    "1. Projects/http 스터디/3. HTTP 메시지.md",
     "3. Resources/DevOps",
-    "1. Projects/http 스터디/1. HTTP 개관.md",
-    "1. Projects/http 스터디/2. URL.md",
-    "1. Projects/http 스터디/4. 커넥션 관리.md",
-    "1. Projects/http 스터디/15. 엔티티와 인코딩.md",
-    "1. Projects/http 스터디/17. 내용 협상과 트랜스코딩.md",
-    "1. Projects/http 스터디/16. 국제화.md",
-    "1. Projects/http 스터디/14. 보안 HTTP.md",
-    "1. Projects/http 스터디/12. 기본 인증.md",
-    "1. Projects/http 스터디/11. 클라이언트 식별과 쿠키.md",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
