@@ -10,4 +10,4 @@ Mixed Content: The page at 'https://bibum.karmapol.link/swagger-ui/index.html#/%
 - https 페이지에서 http 요청 시 오류가 발생한다
 
 ### 해결책
-
+- Swagger annotaion 추가 "/" -> 기본 url
