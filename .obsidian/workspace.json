@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
+                "file": "3. Resources/DevOps/도커 네트워크.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
+                "file": "3. Resources/DevOps/도커 네트워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
+                "file": "3. Resources/DevOps/도커 네트워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md"
+                "file": "3. Resources/DevOps/도커 네트워크.md"
               }
             }
           },
@@ -165,32 +165,32 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
-    "3. Resources/알고리즘/vector 초기화.md",
-    "3. Resources/알고리즘/크루스칼 & Union Find.md",
-    "3. Resources/DB/On Delete Cascade.md",
-    "3. Resources/DB/MySQL Null 처리.md",
-    "3. Resources/DB/외래키를 쓰지 않는 이유.md",
-    "1. Projects/http 스터디/1. HTTP 개관.md",
-    "1. Projects/데브코스/과제/Spring basic part1.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 14. SPA.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 13. 타임리프, REST API.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 6일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 4일차.md",
-    "1. Projects/데브코스/강의정리/Security/멘토 세션. 백엔드 유지보수성.md",
-    "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
-    "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 5. 문서화.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
-    "1. Projects/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
-    "1. Projects/데브코스/강의정리/JPA/멘토 세션. DDD.md",
-    "1. Projects/데브코스/강의정리/DB/DB 5일차.md",
-    "1. Projects/데브코스/강의정리/DB/DB 4일차.md",
-    "1. Projects/데브코스/강의정리/DB/DB 3일차.md",
+    "3. Resources/DevOps/AWS VPC 개념.md",
+    "3. Resources/DevOps/도커 네트워크.md",
+    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+    "3. Resources/Spring/테스트 코드용 memory DB.md",
+    "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
+    "3. Resources/Spring/스프링 테스트 강의 정리.md",
+    "3. Resources/DevOps/도커 스웜 개념.md",
+    "3. Resources/Spring/DTO getter, setter.md",
+    "3. Resources/Spring/자바 메서드 네이밍.md",
+    "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
+    "3. Resources/Spring/SpringBoot 레디스 캐시.md",
+    "3. Resources/Spring/Spring URL 한글 인코딩.md",
+    "3. Resources/Spring/S3 연동 정리.md",
+    "3. Resources/Spring/ResponseEntityExceptionHandler.md",
+    "3. Resources/Spring/Mockito.md",
+    "3. Resources/Spring/MapStruct 사용법.md",
+    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
+    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
+    "3. Resources/Spring/Java Record.md",
+    "3. Resources/Spring/Java call by value, call by reference.md",
+    "3. Resources/Spring/Java 스케줄링.md",
+    "3. Resources/Spring/Enum validation.md",
+    "3. Resources/Spring/DTO와 validation.md",
+    "3. Resources/Spring/Annotation 개념 정리.md",
+    "3. Resources/Spring/쓰레드 풀.md",
     "Pasted image 20231123105627.png",
     "3. Resources/DevOps",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
