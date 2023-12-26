@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
+                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
+                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
+                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md"
+                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "3. Resources/알고리즘/다익스트라 탬플릿.md",
+    "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
     "3. Resources/알고리즘/vector 초기화.md",
     "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "3. Resources/DB/On Delete Cascade.md",
@@ -189,8 +191,6 @@
     "1. Projects/데브코스/강의정리/DB/DB 5일차.md",
     "1. Projects/데브코스/강의정리/DB/DB 4일차.md",
     "1. Projects/데브코스/강의정리/DB/DB 3일차.md",
-    "1. Projects/데브코스/강의정리/DB/DB 2일차.md",
-    "1. Projects/데브코스/강의정리/DB/DB 1일차.md",
     "Pasted image 20231123105627.png",
     "3. Resources/DevOps",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
