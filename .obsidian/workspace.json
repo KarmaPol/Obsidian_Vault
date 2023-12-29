@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
+                "file": "3. Resources/소프트웨어/카프카 도커 컴포즈.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
+                "file": "3. Resources/소프트웨어/카프카 도커 컴포즈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
+                "file": "3. Resources/소프트웨어/카프카 도커 컴포즈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md"
+                "file": "3. Resources/소프트웨어/카프카 도커 컴포즈.md"
               }
             }
           },
@@ -165,6 +165,14 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "3. Resources/소프트웨어/nGrinder.md",
+    "3. Resources/소프트웨어/카프카 도커 컴포즈.md",
+    "3. Resources/소프트웨어/Redis Docker compose.md",
+    "3. Resources/소프트웨어/아파치 카프카 입문.md",
+    "3. Resources/DevOps/ec2 docker 설치.md",
+    "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
+    "3. Resources/DevOps/Traefik.md",
+    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
     "3. Resources/Spring/ResponseEntityExceptionHandler.md",
     "3. Resources/Spring/Why LazyLoading?.md",
     "3. Resources/Spring/Swagger http,https 오류.md",
@@ -183,14 +191,6 @@
     "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
     "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
     "3. Resources/Spring/SpringBoot 레디스 캐시.md",
-    "3. Resources/Spring/Spring URL 한글 인코딩.md",
-    "3. Resources/Spring/Mockito.md",
-    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
-    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
-    "3. Resources/Spring/Java call by value, call by reference.md",
-    "3. Resources/Spring/Java 스케줄링.md",
-    "3. Resources/Spring/Argument Resolver 동작 과정.md",
-    "3. Resources/Spring/Annotation 개념 정리.md",
     "Pasted image 20231123105627.png",
     "3. Resources/DevOps",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
