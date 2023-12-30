@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archives/BE 성능 개선기 벨로그.md",
+                "file": "3. Resources/소프트웨어/엘라스틱 설치.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archives/BE 성능 개선기 벨로그.md",
+                "file": "3. Resources/소프트웨어/엘라스틱 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archives/BE 성능 개선기 벨로그.md",
+                "file": "3. Resources/소프트웨어/엘라스틱 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archives/BE 성능 개선기 벨로그.md"
+                "file": "3. Resources/소프트웨어/엘라스틱 설치.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/소프트웨어/카프카 벨로그.md",
     "4. Archives/BE 성능 개선기 벨로그.md",
+    "3. Resources/소프트웨어/엘라스틱 설치.md",
+    "3. Resources/소프트웨어/카프카 벨로그.md",
     "3. Resources/소프트웨어/카프카 시험록.md",
     "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
     "3. Resources/DevOps/도커 스택 mySql.md",
@@ -197,7 +198,6 @@
     "3. Resources/Spring/DTO와 validation.md",
     "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
     "3. Resources/Spring/자바 메서드 네이밍.md",
-    "3. Resources/Spring/쓰레드 풀.md",
     "3. Resources/DevOps",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
