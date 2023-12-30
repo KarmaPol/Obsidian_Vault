@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/소프트웨어/카프카 벨로그.md",
+                "file": "4. Archives/기디 매칭.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/소프트웨어/카프카 벨로그.md",
+                "file": "4. Archives/기디 매칭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/소프트웨어/카프카 벨로그.md",
+                "file": "4. Archives/기디 매칭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/소프트웨어/카프카 벨로그.md"
+                "file": "4. Archives/기디 매칭.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/소프트웨어/카프카 시험록.md",
     "3. Resources/소프트웨어/카프카 벨로그.md",
+    "4. Archives/기디 매칭.md",
+    "3. Resources/소프트웨어/카프카 시험록.md",
     "3. Resources/소프트웨어/nGrinder.md",
     "3. Resources/소프트웨어/카프카 도커 컴포즈.md",
     "3. Resources/DevOps/AWS VPC 개념.md",
@@ -196,7 +197,6 @@
     "3. Resources/Spring/쓰레드 풀.md",
     "3. Resources/Spring/스프링 이벤트.md",
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
-    "3. Resources/Spring/스프링 공통 response dto.md",
     "Pasted image 20231123105627.png",
     "3. Resources/DevOps",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
