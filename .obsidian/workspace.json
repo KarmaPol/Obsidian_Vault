@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md",
+                "file": "3. Resources/소프트웨어/엘라스틱 설치.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md",
+                "file": "3. Resources/소프트웨어/엘라스틱 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md",
+                "file": "3. Resources/소프트웨어/엘라스틱 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md"
+                "file": "3. Resources/소프트웨어/엘라스틱 설치.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "1. Projects/만배 클린아키텍처/2. 의존성 역전하기.md",
     "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md",
+    "1. Projects/만배 클린아키텍처/2. 의존성 역전하기.md",
     "1. Projects/만배 클린아키텍처/1. 계층형 아키텍처의 문제.md",
     "ㅇㄹㄴ.md",
     "Untitled 1.md",
