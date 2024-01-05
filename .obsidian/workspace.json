@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/소프트웨어/엘라스틱 설치.md",
+                "file": "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/소프트웨어/엘라스틱 설치.md",
+                "file": "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/소프트웨어/엘라스틱 설치.md",
+                "file": "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/소프트웨어/엘라스틱 설치.md"
+                "file": "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md"
               }
             }
           },
@@ -165,6 +165,21 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/Spring/Spring 14. SPA.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 13. 타임리프, REST API.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 12. Spring MVC.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 11. Web.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 9일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 8일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 6일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 5일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 4일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 3일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 2일차.md",
+    "3. Resources/소프트웨어/엘라스틱 설치.md",
     "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md",
     "1. Projects/만배 클린아키텍처/2. 의존성 역전하기.md",
     "1. Projects/만배 클린아키텍처/1. 계층형 아키텍처의 문제.md",
@@ -179,23 +194,8 @@
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
     "Pasted image 20231229235233.png",
-    "3. Resources/소프트웨어/엘라스틱 설치.md",
     "3. Resources/소프트웨어/아파치 카프카 입문.md",
     "3. Resources/소프트웨어/도메인 주도 설계.md",
-    "3. Resources/소프트웨어/멀티 모듈 설계.md",
-    "3. Resources/소프트웨어/카프카 벨로그.md",
-    "3. Resources/소프트웨어/nGrinder.md",
-    "3. Resources/소프트웨어/카프카 도커 컴포즈.md",
-    "3. Resources/소프트웨어/카프카 시험록.md",
-    "3. Resources/소프트웨어/Redis Docker compose.md",
-    "4. Archives/BE 성능 개선기 벨로그.md",
-    "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
-    "3. Resources/DevOps/도커 스택 mySql.md",
-    "3. Resources/DevOps/Traefik.md",
-    "4. Archives/cns 인턴십 지원서.md",
-    "3. Resources/DevOps/AWS VPC 개념.md",
-    "3. Resources/DevOps/ec2 docker 설치.md",
-    "3. Resources/DevOps/도커 스웜 개념.md",
     "Pasted image 20231230000110.png",
     "Pasted image 20231229235959.png",
     "Pasted image 20231229235342.png",
