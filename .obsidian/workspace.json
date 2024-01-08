@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
+                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
+                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
+                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md"
+                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md"
               }
             }
           },
@@ -165,6 +165,22 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "3. Resources/Spring/쓰레드 풀.md",
+    "3. Resources/Spring/테스트 코드용 memory DB.md",
+    "3. Resources/Spring/스프링 공통 response dto.md",
+    "3. Resources/Spring/[ERROR] cannot find symbol method builder().md",
+    "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
+    "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
+    "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
+    "3. Resources/Spring/스프링 테스트 강의 정리.md",
+    "3. Resources/Spring/스프링 이벤트.md",
+    "3. Resources/DB/MySQL Set함수.md",
+    "3. Resources/DB/On Delete Cascade.md",
+    "3. Resources/소프트웨어/nGrinder.md",
+    "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md",
+    "1. Projects/만배 클린아키텍처/1. 계층형 아키텍처의 문제.md",
+    "3. Resources/소프트웨어/멀티 모듈 설계.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 14. SPA.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 13. 타임리프, REST API.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 12. Spring MVC.md",
@@ -175,27 +191,11 @@
     "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 6일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 5일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 4일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 3일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 2일차.md",
-    "3. Resources/소프트웨어/엘라스틱 설치.md",
-    "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md",
-    "1. Projects/만배 클린아키텍처/2. 의존성 역전하기.md",
-    "1. Projects/만배 클린아키텍처/1. 계층형 아키텍처의 문제.md",
-    "ㅇㄹㄴ.md",
-    "Untitled 1.md",
-    "4. Archives/기디 매칭.md",
     "1. Projects/만배 클린아키텍처",
-    "4. Archives/카카오 인턴십 지원서.md",
     "Pasted image 20231123105627.png",
-    "1. Projects/선착순 시스템/1..md",
-    "3. Resources/소프트웨어/Untitled.md",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
     "Pasted image 20231229235233.png",
-    "3. Resources/소프트웨어/아파치 카프카 입문.md",
-    "3. Resources/소프트웨어/도메인 주도 설계.md",
     "Pasted image 20231230000110.png",
     "Pasted image 20231229235959.png",
     "Pasted image 20231229235342.png",
