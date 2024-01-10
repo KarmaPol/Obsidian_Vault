@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/해커톤 서버 빌드 정리.md"
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
     "3. Resources/Spring/쓰레드 풀.md",
     "3. Resources/Spring/테스트 코드용 memory DB.md",
     "3. Resources/Spring/스프링 공통 response dto.md",
@@ -190,7 +191,6 @@
     "1. Projects/데브코스/강의정리/Spring/Spring 8일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 6일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 5일차.md",
     "1. Projects/만배 클린아키텍처",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",
