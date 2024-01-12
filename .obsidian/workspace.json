@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/CMC/VPC/VPC와 서브넷.md",
+                "file": "1. Projects/CMC/VPC/보안그룹과 NACL.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "동시성",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/CMC/VPC/VPC와 서브넷.md",
+                "file": "1. Projects/CMC/VPC/보안그룹과 NACL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/CMC/VPC/VPC와 서브넷.md",
+                "file": "1. Projects/CMC/VPC/보안그룹과 NACL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/CMC/VPC/VPC와 서브넷.md"
+                "file": "1. Projects/CMC/VPC/보안그룹과 NACL.md"
               }
             }
           },
@@ -164,8 +163,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7892fc3e6ce470c",
+  "active": "77d0205b74af3230",
   "lastOpenFiles": [
+    "1. Projects/CMC/VPC/VPC와 서브넷.md",
+    "1. Projects/CMC/VPC/보안그룹과 NACL.md",
     "3. Resources/소프트웨어/Redis Docker compose.md",
     "3. Resources/DB/On Delete Cascade.md",
     "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
@@ -177,7 +178,6 @@
     "Pasted image 20231229235959.png",
     "Pasted image 20231229235342.png",
     "Pasted image 20231229235233.png",
-    "1. Projects/CMC/VPC/VPC와 서브넷.md",
     "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md",
     "1. Projects/CMC/VPC",
     "3. Resources/Spring/Spring URL 한글 인코딩.md",
@@ -196,7 +196,6 @@
     "3. Resources/Spring/@ControllerAdvice, @RestControllerAdvice 동시 사용.md",
     "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
     "3. Resources/DB/LSM Tree vs B+ Tree.md",
-    "3. Resources/DB/MySQL Set함수.md",
     "Pasted image 20231123105627.png",
     "1. Projects/만배 클린아키텍처",
     "Pasted image 20231229222535.png",
