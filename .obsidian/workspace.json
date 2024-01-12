@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/스프링부트 yml profiles group.md",
+                "file": "3. Resources/DevOps/ec2 docker 설치.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/스프링부트 yml profiles group.md",
+                "file": "3. Resources/DevOps/ec2 docker 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/스프링부트 yml profiles group.md",
+                "file": "3. Resources/DevOps/ec2 docker 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/스프링부트 yml profiles group.md"
+                "file": "3. Resources/DevOps/ec2 docker 설치.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   "lastOpenFiles": [
     "3. Resources/DevOps/Traefik.md",
     "3. Resources/DevOps/ec2 docker 설치.md",
+    "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/DevOps/도커 스택 mySql.md",
     "3. Resources/DevOps/도커 네트워크.md",
     "3. Resources/DevOps/도커 스웜 개념.md",
@@ -177,7 +178,6 @@
     "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
     "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
     "3. Resources/Spring/스프링 공통 response dto.md",
-    "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/Spring/자바 메서드 네이밍.md",
     "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
     "3. Resources/Spring/테스트 코드용 memory DB.md",
