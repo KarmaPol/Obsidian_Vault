@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "4. Archives/하이퍼커넥트 공채.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "4. Archives/하이퍼커넥트 공채.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "4. Archives/하이퍼커넥트 공채.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md"
+                "file": "4. Archives/하이퍼커넥트 공채.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "3. Resources/DevOps/Traefik.md",
+    "README.md",
+    "4. Archives/하이퍼커넥트 공채.md",
+    "Pasted image 20231229235342.png",
     "3. Resources/DevOps/ec2 docker 설치.md",
+    "3. Resources/DevOps/Traefik.md",
     "3. Resources/Spring/스프링부트 yml profiles group.md",
     "3. Resources/DevOps/도커 스택 mySql.md",
     "3. Resources/DevOps/도커 네트워크.md",
@@ -189,11 +192,8 @@
     "3. Resources/Spring/Java Record.md",
     "3. Resources/Spring/Java 스케줄링.md",
     "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
-    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
-    "3. Resources/Spring/MapStruct 사용법.md",
     "Pasted image 20231230000110.png",
     "Pasted image 20231229235959.png",
-    "Pasted image 20231229235342.png",
     "Pasted image 20231229235233.png",
     "1. Projects/CMC/VPC",
     "Pasted image 20231123105627.png",
