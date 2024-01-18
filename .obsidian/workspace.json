@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archives/하이퍼커넥트 공채.md",
+                "file": "4. Archives/기디 매칭.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archives/하이퍼커넥트 공채.md",
+                "file": "4. Archives/기디 매칭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archives/하이퍼커넥트 공채.md",
+                "file": "4. Archives/기디 매칭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archives/하이퍼커넥트 공채.md"
+                "file": "4. Archives/기디 매칭.md"
               }
             }
           },
@@ -165,8 +165,16 @@
   },
   "active": "77d0205b74af3230",
   "lastOpenFiles": [
-    "README.md",
+    "4. Archives/카카오 인턴십 지원서.md",
+    "4. Archives/cns 인턴십 지원서.md",
+    "Pasted image 20231123105627.png",
+    "4. Archives/BE 성능 개선기 벨로그.md",
     "4. Archives/하이퍼커넥트 공채.md",
+    "4. Archives/쏘카 백엔드.md",
+    "4. Archives/데브시스터즈 서버.md",
+    "4. Archives/기디 매칭.md",
+    "4. Archives/11-29 수 빙봉 팀 미팅.md",
+    "README.md",
     "Pasted image 20231229235342.png",
     "3. Resources/DevOps/ec2 docker 설치.md",
     "3. Resources/DevOps/Traefik.md",
@@ -185,18 +193,10 @@
     "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
     "3. Resources/Spring/테스트 코드용 memory DB.md",
     "3. Resources/Spring/해커톤 서버 빌드 정리.md",
-    "3. Resources/Spring/Annotation 개념 정리.md",
-    "3. Resources/Spring/Argument Resolver 동작 과정.md",
-    "3. Resources/Spring/DTO와 validation.md",
-    "3. Resources/Spring/Enum validation.md",
-    "3. Resources/Spring/Java Record.md",
-    "3. Resources/Spring/Java 스케줄링.md",
-    "3. Resources/Spring/JdbcTemplate의 단위 테스팅.md",
     "Pasted image 20231230000110.png",
     "Pasted image 20231229235959.png",
     "Pasted image 20231229235233.png",
     "1. Projects/CMC/VPC",
-    "Pasted image 20231123105627.png",
     "1. Projects/만배 클린아키텍처",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
