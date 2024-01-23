@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
+                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
+                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
+                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md"
+                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md"
               }
             }
           },
@@ -165,12 +165,17 @@
   },
   "active": "d192ef1d9688a879",
   "lastOpenFiles": [
+    "1. Projects/데브코스/강의정리/Spring/Spring 9일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 11. Web.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 12. Spring MVC.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 13. 타임리프, REST API.md",
+    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+    "1. Projects/데브코스/강의정리/Security/7. Session.md",
     "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
     "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
     "1. Projects/데브코스/강의정리/Security/8. JWT.md",
-    "1. Projects/데브코스/강의정리/Security/7. Session.md",
     "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
-    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
     "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
     "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
     "1. Projects/데브코스/강의정리/Security/2. Security Architecture.md",
@@ -188,11 +193,6 @@
     "4. Archives/11-29 수 빙봉 팀 미팅.md",
     "README.md",
     "Pasted image 20231229235342.png",
-    "3. Resources/DevOps/ec2 docker 설치.md",
-    "3. Resources/DevOps/Traefik.md",
-    "3. Resources/Spring/스프링부트 yml profiles group.md",
-    "3. Resources/DevOps/도커 스택 mySql.md",
-    "3. Resources/DevOps/도커 네트워크.md",
     "Pasted image 20231230000110.png",
     "Pasted image 20231229235959.png",
     "Pasted image 20231229235233.png",
