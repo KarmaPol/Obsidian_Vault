@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
+                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
+                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
+                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md"
+                "file": "1. Projects/데브코스/강의정리/Security/10. OAuth2.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "d192ef1d9688a879",
   "lastOpenFiles": [
-    "1. Projects/데브코스/강의정리/Spring/Spring 9일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 9일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 11. Web.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 12. Spring MVC.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 13. 타임리프, REST API.md",
@@ -191,7 +192,6 @@
     "4. Archives/쏘카 백엔드.md",
     "4. Archives/데브시스터즈 서버.md",
     "4. Archives/11-29 수 빙봉 팀 미팅.md",
-    "README.md",
     "Pasted image 20231229235342.png",
     "Pasted image 20231230000110.png",
     "Pasted image 20231229235959.png",
