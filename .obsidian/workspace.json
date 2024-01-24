@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DevOps/도커 스웜 개념.md",
+                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DevOps/도커 스웜 개념.md",
+                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DevOps/도커 스웜 개념.md",
+                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DevOps/도커 스웜 개념.md"
+                "file": "3. Resources/DevOps/도커 스웜 DB 서버 구축.md"
               }
             }
           },
@@ -165,13 +165,13 @@
   },
   "active": "d192ef1d9688a879",
   "lastOpenFiles": [
-    "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
     "3. Resources/DevOps/도커 스택 mySql.md",
+    "3. Resources/DevOps/AWS VPC 개념.md",
+    "3. Resources/DevOps/ec2 docker 설치.md",
+    "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
+    "3. Resources/DevOps/도커 스웜 개념.md",
     "3. Resources/DB/On Delete Cascade.md",
     "3. Resources/DevOps/Traefik.md",
-    "3. Resources/DevOps/ec2 docker 설치.md",
-    "3. Resources/DevOps/AWS VPC 개념.md",
-    "3. Resources/DevOps/도커 스웜 개념.md",
     "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
     "3. Resources/Spring Batch/스프링 부트 배치의 기본.md",
     "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
