@@ -34,7 +34,7 @@ api:
 providers:
   docker:
     exposedByDefault: false
-    swarmMode: false
+    swarmMode: true
     endpoint: "unix:///var/run/docker.sock"
   file:
     watch: true
