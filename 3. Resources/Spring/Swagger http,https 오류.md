@@ -11,3 +11,12 @@ Mixed Content: The page at 'https://bibum.karmapol.link/swagger-ui/index.html#/%
 
 ### 해결책
 - Swagger annotaion 추가 "/" -> 기본 url
+```java
+@OpenAPIDefinition(  
+info = @Info(title = "달달 쇼핑 백엔드 API 명세서",  
+description = "달달 쇼핑 백엔드 API 명세서 입니다",  
+version = "0.1"),  
+servers = {  
+@Server(url = "/", description = "달달 서버 url")}  
+)
+```
