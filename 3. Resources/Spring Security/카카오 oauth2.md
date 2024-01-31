@@ -283,3 +283,5 @@ Caused by: java.net.UnknownHostException: kauth.kakao.com
 
 	... 77 common frames omitted
 ```
+
+ngframework.security.oauth2.core.OAuth2AuthenticationException: [invalid_token_response] An error occurred while attempting to retrieve the OAuth 2.0 Access Token Response: I/O error on POST request for "https://kauth.kakao.com/oauth/token": kauth.kakao.com
