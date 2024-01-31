@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
+                "file": "3. Resources/Spring Security/카카오 oauth2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
+                "file": "3. Resources/Spring Security/카카오 oauth2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
+                "file": "3. Resources/Spring Security/카카오 oauth2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md"
+                "file": "3. Resources/Spring Security/카카오 oauth2.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "2885f255d4b46949",
   "lastOpenFiles": [
-    "3. Resources/Spring/Swagger http,https 오류.md",
     "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
+    "3. Resources/Spring Security/카카오 oauth2.md",
+    "3. Resources/Spring/Swagger http,https 오류.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "3. Resources/소프트웨어/RPC 입문.md",
     "3. Resources/DevOps/Traefik.md",
@@ -190,7 +191,6 @@
     "3. Resources/DB/On Delete Cascade.md",
     "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
     "3. Resources/Spring Batch/스프링 부트 배치의 기본.md",
-    "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229235342.png",
     "Pasted image 20231230000110.png",
