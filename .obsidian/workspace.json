@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 Oauth2.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 Oauth2.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 Oauth2.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 Oauth2.md"
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "2885f255d4b46949",
   "lastOpenFiles": [
-    "3. Resources/DevOps/AWS 람다 event.md",
     "3. Resources/Spring Security/스프링 Oauth2.md",
+    "3. Resources/DevOps/AWS 람다 event.md",
     "3. Resources/Spring/스웨거 어노테이션 만들기.md",
     "3. Resources/Spring Security/카카오 oauth2 에러.md",
     "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
