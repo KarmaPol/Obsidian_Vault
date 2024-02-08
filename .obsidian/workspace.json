@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
+                "file": "3. Resources/코틀린/코틀린 기본 문법 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
+                "file": "3. Resources/코틀린/코틀린 기본 문법 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
+                "file": "3. Resources/코틀린/코틀린 기본 문법 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md"
+                "file": "3. Resources/코틀린/코틀린 기본 문법 정리.md"
               }
             }
           },
@@ -165,6 +165,12 @@
   },
   "active": "2885f255d4b46949",
   "lastOpenFiles": [
+    "3. Resources/코틀린/코틀린 JPA.md",
+    "3. Resources/코틀린/코틀린 기본 문법 정리.md",
+    "Untitled.md",
+    "3. Resources/코틀린",
+    "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
+    "3. Resources/Untitled.md",
     "3. Resources/Spring Security/스프링 Oauth2.md",
     "3. Resources/DevOps/AWS 람다 event.md",
     "3. Resources/Spring/스웨거 어노테이션 만들기.md",
@@ -186,11 +192,6 @@
     "3. Resources/소프트웨어/Redis Docker compose.md",
     "3. Resources/소프트웨어/nGrinder.md",
     "4. Archives/11-29 수 빙봉 팀 미팅.md",
-    "4. Archives/하이퍼커넥트 공채.md",
-    "4. Archives/빙터파크 검색 아티클.md",
-    "3. Resources/DB/MySQL Null 처리.md",
-    "3. Resources/DB/MySQL Set함수.md",
-    "3. Resources/DevOps/도커 스웜 개념.md",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229235342.png",
     "Pasted image 20231230000110.png",
@@ -207,7 +208,6 @@
     "3. Resources/Spring Security",
     "1. Projects/CMC/컨퍼런스",
     "1. Projects/CMC",
-    "1. Projects/데브코스/강의정리/Security",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
