@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring Security/애플 oauth2.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring Security/애플 oauth2.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring Security/애플 oauth2.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring Security/애플 oauth2.md"
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "2885f255d4b46949",
   "lastOpenFiles": [
-    "3. Resources/코틀린/코틀린 기본 문법 정리.md",
     "3. Resources/Spring Security/애플 oauth2.md",
+    "3. Resources/코틀린/코틀린 기본 문법 정리.md",
     "3. Resources/코틀린/코틀린 JPA.md",
     "Untitled.md",
     "3. Resources/코틀린",
