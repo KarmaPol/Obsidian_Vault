@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archives/펄어비스 인턴십.md",
+                "file": "3. Resources/Spring Security/JWT secret key 생성.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archives/펄어비스 인턴십.md",
+                "file": "3. Resources/Spring Security/JWT secret key 생성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archives/펄어비스 인턴십.md",
+                "file": "3. Resources/Spring Security/JWT secret key 생성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archives/펄어비스 인턴십.md"
+                "file": "3. Resources/Spring Security/JWT secret key 생성.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "840bdcf33bc2b3fb",
   "lastOpenFiles": [
     "4. Archives/펄어비스 인턴십.md",
+    "3. Resources/Spring Security/JWT secret key 생성.md",
     "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
     "3. Resources/DevOps/Traefik.md",
     "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
@@ -190,7 +191,6 @@
     "1. Projects/데브코스/강의정리/Security/1. QuickStart.md",
     "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
     "1. Projects/데브코스/강의정리/Security/8. JWT.md",
-    "1. Projects/데브코스/강의정리/Security/9. JWT 2.md",
     "3. Resources/코틀린",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229235342.png",
