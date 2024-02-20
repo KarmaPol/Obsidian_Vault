@@ -11,6 +11,7 @@
 - Network capabilities
   -> Pay for allocate
 ### PaaS
+- 관리형
 - Libraries (ex. Google App Engine)
   -> Pay for what they use
 ## 클라우드의 진화

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/GCP ACE/Core infra 7. Application.md",
+                "file": "1. Projects/GCP ACE/Core infra 4. VPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/GCP ACE/Core infra 7. Application.md",
+                "file": "1. Projects/GCP ACE/Core infra 4. VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/GCP ACE/Core infra 7. Application.md",
+                "file": "1. Projects/GCP ACE/Core infra 4. VPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/GCP ACE/Core infra 7. Application.md"
+                "file": "1. Projects/GCP ACE/Core infra 4. VPC.md"
               }
             }
           },
@@ -166,13 +166,13 @@
   },
   "active": "840bdcf33bc2b3fb",
   "lastOpenFiles": [
+    "1. Projects/GCP ACE/Core infra 5. Storage.md",
+    "1. Projects/GCP ACE/Core infra 4. VPC.md",
     "1. Projects/GCP ACE/Core infra 6. Containers.md",
     "1. Projects/GCP ACE/Core infra 7. Application.md",
-    "1. Projects/GCP ACE/Core infra 5. Storage.md",
-    "Pasted image 20231123105627.png",
-    "1. Projects/GCP ACE/Core infra 4. VPC.md",
     "1. Projects/GCP ACE/Core infra 3. Resources.md",
     "1. Projects/GCP ACE/Core infra 1.2. Overview.md",
+    "Pasted image 20231123105627.png",
     "Untitled.md",
     "3. Resources/Spring Security/JWT secret key 생성.md",
     "1. Projects/GCP ACE",

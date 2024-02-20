@@ -47,6 +47,7 @@ mulitple 인스턴스가 있을 때 트래픽을 분할
 3. Carrier Peering
    직접 연결 제공 -> 구글 서비스 레벨에 의해 통제되지 않음
 4. **Dedicated Interconnect**
+   온프레미스(상용) 서버와 연결시 유용 -> 10Gbps 이상일때
    google에 private connection 제공
    99.99퍼센트 SLA, VPN에 의해 연결 회복 가능
 5. Partener Interconnect
