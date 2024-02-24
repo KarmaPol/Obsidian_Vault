@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring/자바 멀티 쓰레드  Callable, Future, CompletableFuture.md",
+                "file": "4. Archives/펄어비스 인턴십.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring/자바 멀티 쓰레드  Callable, Future, CompletableFuture.md",
+                "file": "4. Archives/펄어비스 인턴십.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring/자바 멀티 쓰레드  Callable, Future, CompletableFuture.md",
+                "file": "4. Archives/펄어비스 인턴십.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring/자바 멀티 쓰레드  Callable, Future, CompletableFuture.md"
+                "file": "4. Archives/펄어비스 인턴십.md"
               }
             }
           },
@@ -166,6 +166,9 @@
   },
   "active": "cee51f6bd739a686",
   "lastOpenFiles": [
+    "4. Archives/하이퍼커넥트 공채.md",
+    "4. Archives/쏘카 백엔드.md",
+    "4. Archives/데브시스터즈 서버.md",
     "3. Resources/Spring/자바 멀티 쓰레드  Callable, Future, CompletableFuture.md",
     "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
     "3. Resources/DevOps/ec2 docker 설치.md",
@@ -191,9 +194,6 @@
     "3. Resources/Spring/DTO와 validation.md",
     "3. Resources/Spring/해커톤 서버 빌드 정리.md",
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
-    "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
-    "3. Resources/소프트웨어/Redis Docker compose.md",
-    "3. Resources/소프트웨어/RPC 입문.md",
     "3. Resources/코틀린",
     "Pasted image 20231229235342.png",
     "Pasted image 20231230000110.png",
