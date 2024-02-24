@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3cee7d3afe7bf041",
+        "id": "aaa2b921dacaab5a",
         "type": "tabs",
         "children": [
           {
-            "id": "ca2602611eda86ea",
+            "id": "cee51f6bd739a686",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Spring/자바 멀티 쓰레드  Callable, Future, CompletableFuture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resources/Spring/자바 멀티 쓰레드  Callable, Future, CompletableFuture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Resources/Spring/자바 멀티 쓰레드  Callable, Future, CompletableFuture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Resources/Spring/자바 멀티 쓰레드  Callable, Future, CompletableFuture.md"
+              }
             }
           },
           {
@@ -156,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca2602611eda86ea",
+  "active": "cee51f6bd739a686",
   "lastOpenFiles": [
+    "3. Resources/Spring/자바 멀티 쓰레드  Callable, Future, CompletableFuture.md",
     "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
     "3. Resources/DevOps/ec2 docker 설치.md",
     "1. Projects/GCP ACE/Core infra 7. Application.md",
@@ -185,7 +194,6 @@
     "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
     "3. Resources/소프트웨어/Redis Docker compose.md",
     "3. Resources/소프트웨어/RPC 입문.md",
-    "3. Resources/소프트웨어/nGrinder.md",
     "3. Resources/코틀린",
     "Pasted image 20231229235342.png",
     "Pasted image 20231230000110.png",
