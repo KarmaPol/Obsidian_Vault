@@ -11,8 +11,12 @@
             "id": "b4175a89bfb368b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Resources/DB/DB 비관적 락, 낙관적 락.md"
+              }
             }
           },
           {
@@ -158,6 +166,15 @@
   },
   "active": "b4175a89bfb368b0",
   "lastOpenFiles": [
+    "3. Resources/DB/외래키를 쓰지 않는 이유.md",
+    "3. Resources/CS/데드락.md",
+    "3. Resources/면접",
+    "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
+    "3. Resources/DB/LSM Tree vs B+ Tree.md",
+    "3. Resources/DB/MySQL Null 처리.md",
+    "3. Resources/DB/MySQL Set함수.md",
+    "3. Resources/DB/On Delete Cascade.md",
+    "3. Resources/CS",
     "4. Archives/펄어비스 인턴십.md",
     "4. Archives/하이퍼커넥트 공채.md",
     "4. Archives/쏘카 백엔드.md",
@@ -177,15 +194,7 @@
     "1. Projects/GCP ACE/Core infra 1.2. Overview.md",
     "Pasted image 20231123105627.png",
     "Untitled.md",
-    "3. Resources/Spring Security/JWT secret key 생성.md",
     "1. Projects/GCP ACE",
-    "1. Projects/Untitled.md",
-    "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
-    "3. Resources/DevOps/Traefik.md",
-    "3. Resources/Spring/@ModelAttribute @RequestBody 타입 에러.md",
-    "3. Resources/Spring/DTO와 validation.md",
-    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
-    "3. Resources/Spring/스프링 테스트 강의 정리.md",
     "3. Resources/코틀린",
     "Pasted image 20231229235342.png",
     "Pasted image 20231230000110.png",
@@ -199,8 +208,6 @@
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
     "3. Resources/Spring Batch",
-    "3. Resources/Spring Security",
-    "1. Projects/CMC/컨퍼런스",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
