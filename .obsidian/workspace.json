@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
+                "file": "3. Resources/DevOps/ec2 docker 설치.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
+                "file": "3. Resources/DevOps/ec2 docker 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
+                "file": "3. Resources/DevOps/ec2 docker 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DB/DB 비관적 락, 낙관적 락.md"
+                "file": "3. Resources/DevOps/ec2 docker 설치.md"
               }
             }
           },
@@ -166,10 +166,12 @@
   },
   "active": "b4175a89bfb368b0",
   "lastOpenFiles": [
+    "3. Resources/면접/펄어비스 면접 후기.md",
+    "3. Resources/면접/데브시스터즈.md",
+    "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
     "3. Resources/DB/외래키를 쓰지 않는 이유.md",
     "3. Resources/CS/데드락.md",
     "3. Resources/면접",
-    "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
     "3. Resources/DB/LSM Tree vs B+ Tree.md",
     "3. Resources/DB/MySQL Null 처리.md",
     "3. Resources/DB/MySQL Set함수.md",
@@ -193,7 +195,6 @@
     "1. Projects/GCP ACE/Core infra 3. Resources.md",
     "1. Projects/GCP ACE/Core infra 1.2. Overview.md",
     "Pasted image 20231123105627.png",
-    "Untitled.md",
     "1. Projects/GCP ACE",
     "3. Resources/코틀린",
     "Pasted image 20231229235342.png",
