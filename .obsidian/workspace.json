@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
+                "file": "3. Resources/면접/펄어비스.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
+                "file": "3. Resources/면접/펄어비스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
+                "file": "3. Resources/면접/펄어비스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md"
+                "file": "3. Resources/면접/펄어비스.md"
               }
             }
           },
@@ -166,14 +166,16 @@
   },
   "active": "b4175a89bfb368b0",
   "lastOpenFiles": [
-    "1. Projects/데브코스/강의정리/Spring/Spring 12. Spring MVC.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 8일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 4일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 5일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 12. Spring MVC.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 9일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 14. SPA.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 13. 타임리프, REST API.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 11. Web.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 8일차.md",
     "1. Projects/GCP ACE/Core infra 7. Application.md",
     "1. Projects/GCP ACE/Core infra 3. Resources.md",
     "1. Projects/GCP ACE/오답노트 81~120.md",
@@ -191,8 +193,6 @@
     "3. Resources/DB/MySQL Null 처리.md",
     "3. Resources/DB/MySQL Set함수.md",
     "3. Resources/DB/외래키를 쓰지 않는 이유.md",
-    "3. Resources/코틀린/코틀린 JPA.md",
-    "3. Resources/코틀린/코틀린 기본 문법 정리.md",
     "3. Resources/CS/OS",
     "3. Resources/면접",
     "3. Resources/CS",
