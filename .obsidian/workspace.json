@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/면접/하이퍼커넥트.md",
+                "file": "3. Resources/CS/OS/인터럽트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/면접/하이퍼커넥트.md",
+                "file": "3. Resources/CS/OS/인터럽트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/면접/하이퍼커넥트.md",
+                "file": "3. Resources/CS/OS/인터럽트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/면접/하이퍼커넥트.md"
+                "file": "3. Resources/CS/OS/인터럽트.md"
               }
             }
           },
@@ -166,17 +166,21 @@
   },
   "active": "b4175a89bfb368b0",
   "lastOpenFiles": [
-    "3. Resources/면접/데브시스터즈.md",
     "3. Resources/면접/하이퍼커넥트.md",
+    "3. Resources/CS/OS/인터럽트.md",
+    "3. Resources/CS/OS/가상메모리.md",
     "3. Resources/면접/펄어비스.md",
-    "3. Resources/소프트웨어/도메인 주도 설계.md",
+    "3. Resources/CS/OS/데드락.md",
+    "3. Resources/CS/OS",
     "3. Resources/소프트웨어/멀티 모듈 설계.md",
+    "3. Resources/소프트웨어/도메인 주도 설계.md",
     "3. Resources/소프트웨어/아파치 카프카 입문.md",
     "3. Resources/소프트웨어/엘라스틱 설치.md",
     "3. Resources/소프트웨어/카프카 벨로그.md",
-    "3. Resources/소프트웨어/nGrinder.md",
-    "3. Resources/소프트웨어/Redis Docker compose.md",
     "3. Resources/소프트웨어/RPC 입문.md",
+    "3. Resources/소프트웨어/Redis Docker compose.md",
+    "3. Resources/소프트웨어/nGrinder.md",
+    "3. Resources/면접/데브시스터즈.md",
     "3. Resources/알고리즘/vector 초기화.md",
     "3. Resources/알고리즘/next_permutaion().md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
@@ -184,14 +188,11 @@
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "3. Resources/코틀린/코틀린 기본 문법 정리.md",
     "3. Resources/코틀린/코틀린 JPA.md",
-    "3. Resources/CS/데드락.md",
     "3. Resources/DevOps/도커 네트워크.md",
     "3. Resources/DevOps/도커 스웜 개념.md",
     "3. Resources/DevOps/도커 스택 mySql.md",
     "3. Resources/DevOps/ec2 docker 설치.md",
     "3. Resources/DevOps/AWS VPC 개념.md",
-    "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
-    "3. Resources/Spring/스프링 이벤트.md",
     "3. Resources/면접",
     "3. Resources/CS",
     "Pasted image 20231123105627.png",
@@ -208,7 +209,6 @@
     "3. Resources/DevOps",
     "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "1. Projects/선착순 시스템",
-    "3. Resources/Spring Batch",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
