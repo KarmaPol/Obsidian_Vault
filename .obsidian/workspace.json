@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md"
+                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "b4175a89bfb368b0",
   "lastOpenFiles": [
-    "3. Resources/면접/GS 네오텍.md",
     "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
+    "3. Resources/면접/GS 네오텍.md",
     "3. Resources/면접/펄어비스.md",
     "3. Resources/면접/하이퍼커넥트.md",
     "3. Resources/면접/데브시스터즈.md",
