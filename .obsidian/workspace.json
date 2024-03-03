@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "449e57f51e3c15db",
+        "id": "fd3e45c86ea93eb5",
         "type": "tabs",
         "children": [
           {
-            "id": "b4175a89bfb368b0",
+            "id": "442e645fe7e31d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
+                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
+                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
+                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md"
+                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md"
               }
             }
           },
@@ -164,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4175a89bfb368b0",
+  "active": "442e645fe7e31d06",
   "lastOpenFiles": [
+    "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
     "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
     "3. Resources/면접/GS 네오텍.md",
     "3. Resources/면접/펄어비스.md",
@@ -192,7 +193,6 @@
     "3. Resources/AWS",
     "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
     "3. Resources/DevOps/ec2 docker 설치.md",
-    "3. Resources/DevOps/AWS 람다 event.md",
     "3. Resources/CS/OS",
     "3. Resources/면접",
     "3. Resources/CS",
