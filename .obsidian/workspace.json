@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
+                "file": "3. Resources/Spring Security/스프링 Oauth2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
+                "file": "3. Resources/Spring Security/스프링 Oauth2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
+                "file": "3. Resources/Spring Security/스프링 Oauth2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DevOps/프로메테우스, 그라파나 구축.md"
+                "file": "3. Resources/Spring Security/스프링 Oauth2.md"
               }
             }
           },
@@ -166,8 +166,17 @@
   },
   "active": "442e645fe7e31d06",
   "lastOpenFiles": [
-    "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
+    "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
+    "3. Resources/Spring Security/JWT secret key 생성.md",
+    "3. Resources/Spring Security/카카오 oauth2 에러.md",
+    "3. Resources/Spring Security/애플 oauth2.md",
+    "3. Resources/Spring Security/스프링 Oauth2.md",
+    "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
+    "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
+    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
+    "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
     "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
+    "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
     "3. Resources/면접/GS 네오텍.md",
     "3. Resources/면접/펄어비스.md",
     "3. Resources/면접/하이퍼커넥트.md",
@@ -183,16 +192,7 @@
     "1. Projects/데브코스/강의정리/Spring/Spring 13. 타임리프, REST API.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 11. Web.md",
     "1. Projects/GCP ACE/Core infra 7. Application.md",
-    "1. Projects/GCP ACE/Core infra 3. Resources.md",
-    "1. Projects/GCP ACE/오답노트 81~120.md",
-    "1. Projects/GCP ACE/오답노트 121~160.md",
-    "1. Projects/GCP ACE/오답노트 41~80.md",
-    "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
-    "3. Resources/AWS/VPC/보안그룹과 NACL.md",
-    "3. Resources/AWS/VPC/VPC와 서브넷.md",
     "3. Resources/AWS",
-    "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
-    "3. Resources/DevOps/ec2 docker 설치.md",
     "3. Resources/CS/OS",
     "3. Resources/면접",
     "3. Resources/CS",
