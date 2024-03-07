@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 Oauth2.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 Oauth2.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 Oauth2.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Spring Security/스프링 Oauth2.md"
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md"
               }
             }
           },
@@ -166,11 +166,15 @@
   },
   "active": "442e645fe7e31d06",
   "lastOpenFiles": [
+    "3. Resources/Spring Security/스프링 Oauth2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
+    "Untitled.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어",
+    "1. Projects/중앙대 4-1 강의",
     "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
     "3. Resources/Spring Security/JWT secret key 생성.md",
     "3. Resources/Spring Security/카카오 oauth2 에러.md",
     "3. Resources/Spring Security/애플 oauth2.md",
-    "3. Resources/Spring Security/스프링 Oauth2.md",
     "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
     "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
     "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
@@ -190,8 +194,6 @@
     "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 14. SPA.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 13. 타임리프, REST API.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 11. Web.md",
-    "1. Projects/GCP ACE/Core infra 7. Application.md",
     "3. Resources/AWS",
     "3. Resources/CS/OS",
     "3. Resources/면접",
@@ -207,8 +209,6 @@
     "1. Projects/만배 클린아키텍처",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
-    "3. Resources/DevOps",
-    "1. Projects/데브코스/강의정리/백엔드가이정도는",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
