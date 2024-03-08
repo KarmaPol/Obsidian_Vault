@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/면접/펄어비스.md",
+                "file": "3. Resources/CS/OS/데드락.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/면접/펄어비스.md",
+                "file": "3. Resources/CS/OS/데드락.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/면접/펄어비스.md",
+                "file": "3. Resources/CS/OS/데드락.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/면접/펄어비스.md"
+                "file": "3. Resources/CS/OS/데드락.md"
               }
             }
           },
@@ -166,9 +166,16 @@
   },
   "active": "442e645fe7e31d06",
   "lastOpenFiles": [
+    "3. Resources/CS/OS/단편화.md",
+    "3. Resources/CS/OS/가상메모리.md",
+    "3. Resources/CS/자료구조/힙.md",
+    "3. Resources/CS/자료구조",
+    "3. Resources/DB/트랜잭션 ACID.md",
+    "3. Resources/DB/정규화.md",
+    "3. Resources/DB/인덱스란.md",
+    "3. Resources/면접/펄어비스.md",
     "3. Resources/면접/GS 네오텍.md",
     "3. Resources/면접/하이퍼커넥트.md",
-    "3. Resources/면접/펄어비스.md",
     "3. Resources/면접/데브시스터즈.md",
     "4. Archives/펄어비스 인턴십.md",
     "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
@@ -188,12 +195,6 @@
     "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 8일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 4일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 5일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 10일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 12. Spring MVC.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 9일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 15. AutoConfiguration.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 14. SPA.md",
     "3. Resources/AWS",
     "3. Resources/CS/OS",
     "3. Resources/면접",
@@ -206,7 +207,6 @@
     "Pasted image 20231229235959.png",
     "Pasted image 20231229235233.png",
     "3. Resources/AWS/VPC",
-    "1. Projects/만배 클린아키텍처",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
     "Pasted image 20231005001618.png",
