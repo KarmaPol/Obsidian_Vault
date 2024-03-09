@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fd3e45c86ea93eb5",
+        "id": "5a822c273cc109ce",
         "type": "tabs",
         "children": [
           {
-            "id": "442e645fe7e31d06",
+            "id": "e3abc6e714948502",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/CS/OS/데드락.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/CS/OS/데드락.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/CS/OS/데드락.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. Resources/CS/OS/데드락.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "442e645fe7e31d06",
+  "active": "e3abc6e714948502",
   "lastOpenFiles": [
+    "3. Resources/DevOps/로드 밸런싱 방식.md",
+    "3. Resources/Spring/쿠폰 서비스 설계 패턴.md",
+    "3. Resources/CS/OS/데드락.md",
     "3. Resources/CS/OS/단편화.md",
     "3. Resources/CS/OS/가상메모리.md",
     "3. Resources/CS/자료구조/힙.md",
@@ -192,9 +187,6 @@
     "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
     "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
     "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
-    "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 8일차.md",
-    "1. Projects/데브코스/강의정리/Spring/Spring 4일차.md",
     "3. Resources/AWS",
     "3. Resources/CS/OS",
     "3. Resources/면접",
