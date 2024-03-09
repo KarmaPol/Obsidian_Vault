@@ -11,8 +11,12 @@
             "id": "e3abc6e714948502",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md"
+              }
             }
           },
           {
@@ -158,6 +166,9 @@
   },
   "active": "e3abc6e714948502",
   "lastOpenFiles": [
+    "3. Resources/알고리즘/next_permutaion().md",
+    "3. Resources/알고리즘/크루스칼 & Union Find.md",
+    "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "3. Resources/DevOps/로드 밸런싱 방식.md",
     "3. Resources/Spring/쿠폰 서비스 설계 패턴.md",
     "3. Resources/CS/OS/데드락.md",
@@ -184,9 +195,6 @@
     "3. Resources/Spring Security/애플 oauth2.md",
     "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
     "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
-    "1. Projects/데브코스/강의정리/Security/5. Security Internals 3.md",
-    "1. Projects/데브코스/강의정리/Security/6. DB 연동.md",
-    "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
     "3. Resources/AWS",
     "3. Resources/CS/OS",
     "3. Resources/면접",
