@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "4. Archives/펄어비스 인턴십.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "4. Archives/펄어비스 인턴십.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md",
+                "file": "4. Archives/펄어비스 인턴십.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/C++ 문자열 부수기.md"
+                "file": "4. Archives/펄어비스 인턴십.md"
               }
             }
           },
@@ -166,6 +166,13 @@
   },
   "active": "e3abc6e714948502",
   "lastOpenFiles": [
+    "3. Resources/면접/하나은행.md",
+    "3. Resources/면접/펄어비스.md",
+    "3. Resources/면접/GS 네오텍.md",
+    "4. Archives/하이퍼커넥트 공채.md",
+    "4. Archives/펄어비스 인턴십.md",
+    "4. Archives/BE 성능 개선기 벨로그.md",
+    "3. Resources/알고리즘/C++ 문자열 부수기.md",
     "3. Resources/알고리즘/next_permutaion().md",
     "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
@@ -179,11 +186,8 @@
     "3. Resources/DB/트랜잭션 ACID.md",
     "3. Resources/DB/정규화.md",
     "3. Resources/DB/인덱스란.md",
-    "3. Resources/면접/펄어비스.md",
-    "3. Resources/면접/GS 네오텍.md",
     "3. Resources/면접/하이퍼커넥트.md",
     "3. Resources/면접/데브시스터즈.md",
-    "4. Archives/펄어비스 인턴십.md",
     "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
     "3. Resources/Spring Security/스프링 Oauth2.md",
@@ -191,10 +195,6 @@
     "1. Projects/중앙대 4-1 강의/멀티코어",
     "1. Projects/중앙대 4-1 강의",
     "3. Resources/Spring Security/JWT secret key 생성.md",
-    "3. Resources/Spring Security/카카오 oauth2 에러.md",
-    "3. Resources/Spring Security/애플 oauth2.md",
-    "1. Projects/데브코스/강의정리/Security/3. Security Internals.md",
-    "1. Projects/데브코스/강의정리/Security/4. Security Internals 2.md",
     "3. Resources/AWS",
     "3. Resources/CS/OS",
     "3. Resources/면접",
