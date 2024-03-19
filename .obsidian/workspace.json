@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
+                "file": "4. Archives/메트라이프 해커톤 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
+                "file": "4. Archives/메트라이프 해커톤 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
+                "file": "4. Archives/메트라이프 해커톤 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md"
+                "file": "4. Archives/메트라이프 해커톤 정리.md"
               }
             }
           },
@@ -191,9 +191,10 @@
   },
   "active": "b0baaf91ba51a029",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
+    "4. Archives/메트라이프 해커톤 정리.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/2-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/2-2.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/3주차.md",
     "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
@@ -217,7 +218,6 @@
     "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "3. Resources/DevOps/로드 밸런싱 방식.md",
-    "3. Resources/Spring/쿠폰 서비스 설계 패턴.md",
     "3. Resources/CS/자료구조",
     "1. Projects/중앙대 4-1 강의/멀티코어",
     "1. Projects/중앙대 4-1 강의",
