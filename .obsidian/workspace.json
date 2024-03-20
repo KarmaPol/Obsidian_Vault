@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archives/메트라이프 해커톤 정리.md",
+                "file": "1. Projects/중앙대 4-1 강의/자연어처리/3주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archives/메트라이프 해커톤 정리.md",
+                "file": "1. Projects/중앙대 4-1 강의/자연어처리/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archives/메트라이프 해커톤 정리.md",
+                "file": "1. Projects/중앙대 4-1 강의/자연어처리/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archives/메트라이프 해커톤 정리.md"
+                "file": "1. Projects/중앙대 4-1 강의/자연어처리/3주차.md"
               }
             }
           },
@@ -191,8 +191,10 @@
   },
   "active": "b0baaf91ba51a029",
   "lastOpenFiles": [
-    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
     "4. Archives/메트라이프 해커톤 정리.md",
+    "1. Projects/중앙대 4-1 강의/자연어처리/3주차.md",
+    "1. Projects/중앙대 4-1 강의/자연어처리",
+    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/2-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/2-2.md",
@@ -217,7 +219,6 @@
     "3. Resources/알고리즘/next_permutaion().md",
     "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
-    "3. Resources/DevOps/로드 밸런싱 방식.md",
     "3. Resources/CS/자료구조",
     "1. Projects/중앙대 4-1 강의/멀티코어",
     "1. Projects/중앙대 4-1 강의",
@@ -227,7 +228,6 @@
     "3. Resources/CS",
     "Pasted image 20231123105627.png",
     "1. Projects/GCP ACE",
-    "3. Resources/코틀린",
     "Pasted image 20231229235342.png",
     "Pasted image 20231230000110.png",
     "Pasted image 20231229235959.png",
