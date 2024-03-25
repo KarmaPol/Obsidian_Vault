@@ -11,8 +11,12 @@
             "id": "995826dde13932e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md"
+              }
             }
           },
           {
@@ -158,6 +166,12 @@
   },
   "active": "995826dde13932e9",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/멀티코어/3-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/4주차.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/3주차.md",
+    "1. Projects/중앙대 4-1 강의/자연어처리/3주차.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
@@ -178,12 +192,6 @@
     "4. Archives/빙터파크 검색 아티클.md",
     "3. Resources/면접/LIG 넥스원.md",
     "3. Resources/면접/펄어비스.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/3-2.md",
-    "1. Projects/중앙대 4-1 강의/자연어처리/3주차.md",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/3주차.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/2-2.md",
-    "3. Resources/면접/멘토링.md",
     "1. Projects/중앙대 4-1 강의/자연어처리",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘",
     "3. Resources/CS/자료구조",
