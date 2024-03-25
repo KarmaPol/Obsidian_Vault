@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5a822c273cc109ce",
+        "id": "dd6459ce15bfcb77",
         "type": "tabs",
         "children": [
           {
-            "id": "e3abc6e714948502",
+            "id": "995826dde13932e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01662bf433199fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0baaf91ba51a029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/DB/인덱스란.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DB/인덱스란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DB/인덱스란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. Resources/DB/인덱스란.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,8 +156,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0baaf91ba51a029",
+  "active": "995826dde13932e9",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
+    "3. Resources/알고리즘/C++ 문자열 부수기.md",
+    "3. Resources/알고리즘/next_permutaion().md",
+    "3. Resources/알고리즘/다익스트라 탬플릿.md",
+    "3. Resources/알고리즘/크루스칼 & Union Find.md",
+    "3. Resources/알고리즘/vector 초기화.md",
+    "3. Resources/DB/인덱스란.md",
     "3. Resources/DB/트랜잭션 ACID.md",
     "3. Resources/DB/On Delete Cascade.md",
     "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
@@ -199,7 +174,6 @@
     "3. Resources/DB/LSM Tree vs B+ Tree.md",
     "3. Resources/DB/외래키를 쓰지 않는 이유.md",
     "3. Resources/DB/정규화.md",
-    "3. Resources/DB/인덱스란.md",
     "4. Archives/메트라이프 해커톤 정리.md",
     "4. Archives/빙터파크 검색 아티클.md",
     "3. Resources/면접/LIG 넥스원.md",
@@ -209,15 +183,8 @@
     "1. Projects/중앙대 4-1 강의/자연어처리/3주차.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/3주차.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/2-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
     "3. Resources/면접/멘토링.md",
-    "3. Resources/면접/하나은행.md",
-    "3. Resources/면접/하이퍼커넥트.md",
     "1. Projects/중앙대 4-1 강의/자연어처리",
-    "1. Projects/중앙대 4-1 강의/멀티코어/2-1.md",
-    "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
-    "1. Projects/GCP ACE/오답노트 121~160.md",
-    "1. Projects/GCP ACE/오답노트 81~120.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘",
     "3. Resources/CS/자료구조",
     "1. Projects/중앙대 4-1 강의/멀티코어",
