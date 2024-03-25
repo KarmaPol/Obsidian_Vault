@@ -93,12 +93,12 @@ DB 용량에 따라 요금 부과 (일 1GB까지 무료)
 - Spark, Storm 등으로 **데이터 스트리밍** 가능
 - Dataflow, Hadoop, Dataflow로 **데이터 배치 전송** 가능
 ## 스토리지 서비스 비교
-| 서비스            | 데이터              | 용량                          |
-| ----------------- |:------------------- | ----------------------------- |
-| 클라우드 스토리지 | 10MB 이상 blobs     | 페타바이트                    |
-| 클라우드 SQL      | web 프레임워크, sql | 64TB까지                      |
-| Spanner           | sql, 확장성         | Petabytes                     |
-| Firestore         | 실시간 쿼리 및 캐싱 - 웹앱 | 테라바이트 <br>엔티티 당 1MB까지 |
-| Cloud Bigtable                  | 빅데이터, 통계 데이터, <br>heavy read and write                    | 페타바이트                              |
+| 서비스            | 데이터                                    | 용량                    |     |
+| -------------- | :------------------------------------- | --------------------- | --- |
+| 클라우드 스토리지      | 10MB 이상 blobs                          | 페타바이트                 |     |
+| 클라우드 SQL       | web 프레임워크, sql                         | 64TB까지                |     |
+| Spanner        | sql, 확장성                               | Petabytes             |     |
+| Firestore      | 실시간 쿼리 및 캐싱 - 웹앱                       | 테라바이트 <br>엔티티 당 1MB까지 |     |
+| Cloud Bigtable | 빅데이터, 통계 데이터, <br>heavy read and write | 페타바이트                 |     |
 ### BigQuery?
 빅데이터 통계에 주로 사용, pure storage 제품은 아님
