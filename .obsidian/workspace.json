@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/면접/GS 네오텍.md",
+                "file": "3. Resources/DevOps/ec2 docker 설치.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/면접/GS 네오텍.md",
+                "file": "3. Resources/DevOps/ec2 docker 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/면접/GS 네오텍.md",
+                "file": "3. Resources/DevOps/ec2 docker 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/면접/GS 네오텍.md"
+                "file": "3. Resources/DevOps/ec2 docker 설치.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "fe9dab5af98fa94f",
   "lastOpenFiles": [
+    "3. Resources/면접/GS 네오텍.md",
     "3. Resources/DevOps/도커 스택 mySql.md",
     "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
     "4. Archives/하이퍼커넥트 공채.md",
@@ -174,7 +175,6 @@
     "1. Projects/중앙대 4-1 강의/자연어처리/4주차.md",
     "3. Resources/DevOps/ec2 docker 설치.md",
     "3. Resources/DevOps/AWS 람다 event.md",
-    "3. Resources/면접/GS 네오텍.md",
     "3. Resources/면접/현대 모비스.md",
     "3. Resources/면접/펄어비스.md",
     "3. Resources/면접/하나은행.md",
