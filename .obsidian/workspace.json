@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/면접/GS 네오텍.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/면접/GS 네오텍.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/면접/GS 네오텍.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/면접/GS 네오텍.md"
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md"
               }
             }
           },
@@ -166,13 +166,19 @@
   },
   "active": "fe9dab5af98fa94f",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/데베시/Chapter 13..md",
+    "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
+    "1. Projects/중앙대 4-1 강의/데베시/Chapter 12..md",
+    "Untitled 1.md",
+    "1. Projects/중앙대 4-1 강의/데베시/Untitled",
+    "3. Resources/면접/GS 네오텍.md",
+    "1. Projects/중앙대 4-1 강의/데베시",
     "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
     "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
     "1. Projects/GCP ACE/Core infra 3. Resources.md",
     "3. Resources/면접/데브시스터즈.md",
-    "3. Resources/면접/GS 네오텍.md",
     "3. Resources/면접/현대 모비스.md",
     "3. Resources/면접/하나은행.md",
     "3. Resources/면접/펄어비스.md",
@@ -188,10 +194,6 @@
     "3. Resources/DevOps/도커 스택 mySql.md",
     "3. Resources/DevOps/프로메테우스, 그라파나 구축.md",
     "3. Resources/면접/하이퍼커넥트.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/4-2.md",
-    "1. Projects/중앙대 4-1 강의/자연어처리/4주차.md",
-    "3. Resources/DevOps/AWS 람다 event.md",
-    "3. Resources/면접/메트라이프.md",
     "1. Projects/중앙대 4-1 강의/자연어처리",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘",
     "3. Resources/CS/자료구조",
@@ -200,9 +202,7 @@
     "3. Resources/AWS",
     "3. Resources/CS/OS",
     "3. Resources/면접",
-    "3. Resources/CS",
     "Pasted image 20231123105627.png",
-    "1. Projects/GCP ACE",
     "Pasted image 20231229235342.png",
     "Pasted image 20231230000110.png",
     "Pasted image 20231229235959.png",
