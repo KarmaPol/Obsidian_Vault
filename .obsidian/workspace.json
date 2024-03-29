@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md"
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "670ac0d329be9085",
   "lastOpenFiles": [
-    "1. Projects/데브코스/강의정리/Spring/Spring 6일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 7일차.md",
+    "1. Projects/데브코스/강의정리/Spring/Spring 6일차.md",
     "1. Projects/데브코스/강의정리/Spring/Spring 9일차.md",
     "3. Resources/Spring/DTO와 validation.md",
     "3. Resources/Spring/Annotation 개념 정리.md",
