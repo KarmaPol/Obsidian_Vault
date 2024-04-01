@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "809a45114d267ce9",
+        "id": "a206602efc1d85be",
         "type": "tabs",
         "children": [
           {
-            "id": "670ac0d329be9085",
+            "id": "e0f0fdbc1058a99c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/면접/현대 모비스.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/면접/현대 모비스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/면접/현대 모비스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. Resources/면접/현대 모비스.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,11 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "670ac0d329be9085",
+  "active": "e0f0fdbc1058a99c",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "3. Resources/면접/현대 모비스.md",
     "3. Resources/면접/GS 네오텍.md",
     "3. Resources/면접/LIG 넥스원.md",
-    "3. Resources/면접/현대 모비스.md",
     "3. Resources/면접/하이퍼커넥트.md",
     "3. Resources/면접/펄어비스.md",
     "3. Resources/면접/멘토링.md",
@@ -193,7 +186,6 @@
     "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
-    "1. Projects/CMC/컨퍼런스/메시지 큐 자료.md",
     "1. Projects/중앙대 4-1 강의/자연어처리",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘",
     "3. Resources/CS/자료구조",
