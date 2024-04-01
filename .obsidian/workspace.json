@@ -11,8 +11,12 @@
             "id": "e0f0fdbc1058a99c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/5주차.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/5주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/5주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/5주차.md"
+              }
             }
           },
           {
@@ -158,6 +166,10 @@
   },
   "active": "e0f0fdbc1058a99c",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/자연어처리/4주차.md",
+    "1. Projects/중앙대 4-1 강의/자연어처리/3주차.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/5주차.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/4주차.md",
     "Untitled 2.md",
     "3. Resources/면접/현대 모비스.md",
     "3. Resources/면접/GS 네오텍.md",
@@ -180,12 +192,8 @@
     "3. Resources/Spring/Annotation 개념 정리.md",
     "3. Resources/Spring/쿠폰 서비스 설계 패턴.md",
     "1. Projects/중앙대 4-1 강의/데베시/Chapter 12..md",
-    "Untitled 1.md",
     "1. Projects/중앙대 4-1 강의/데베시/Untitled",
     "1. Projects/중앙대 4-1 강의/데베시",
-    "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
     "1. Projects/중앙대 4-1 강의/자연어처리",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘",
     "3. Resources/CS/자료구조",
