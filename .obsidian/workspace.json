@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
+                "file": "3. Resources/알고리즘/vector 초기화.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
+                "file": "3. Resources/알고리즘/vector 초기화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
+                "file": "3. Resources/알고리즘/vector 초기화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md"
+                "file": "3. Resources/알고리즘/vector 초기화.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "e0f0fdbc1058a99c",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
     "3. Resources/면접/GS 네오텍.md",
     "3. Resources/면접/현대 모비스.md",
     "3. Resources/면접/하이퍼커넥트.md",
@@ -174,7 +175,6 @@
     "3. Resources/면접/펄어비스.md",
     "3. Resources/면접/멘토링.md",
     "3. Resources/면접/메트라이프.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
     "3. Resources/DevOps/로드 밸런싱 방식.md",
     "3. Resources/DevOps/도커 스택 mySql.md",
     "3. Resources/DevOps/ec2 docker 설치.md",
