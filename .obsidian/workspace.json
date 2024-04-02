@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41c8576aabe727c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/면접/GS 네오텍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md",
+                "file": "3. Resources/면접/GS 네오텍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md",
+                "file": "3. Resources/면접/GS 네오텍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/vector 초기화.md"
+                "file": "3. Resources/면접/GS 네오텍.md"
               }
             }
           },
@@ -164,17 +177,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0f0fdbc1058a99c",
+  "active": "41c8576aabe727c3",
   "lastOpenFiles": [
-    "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
-    "3. Resources/면접/GS 네오텍.md",
+    "3. Resources/면접/LIG 넥스원.md",
     "3. Resources/면접/현대 모비스.md",
     "3. Resources/면접/하이퍼커넥트.md",
-    "3. Resources/면접/LIG 넥스원.md",
     "3. Resources/면접/하나은행.md",
     "3. Resources/면접/펄어비스.md",
     "3. Resources/면접/멘토링.md",
     "3. Resources/면접/메트라이프.md",
+    "3. Resources/면접/네이버.md",
+    "3. Resources/면접/데브시스터즈.md",
+    "3. Resources/면접/GS 네오텍.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
     "3. Resources/DevOps/로드 밸런싱 방식.md",
     "3. Resources/DevOps/도커 스택 mySql.md",
     "3. Resources/DevOps/ec2 docker 설치.md",
@@ -190,8 +205,6 @@
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/4주차.md",
     "Untitled 2.md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
-    "3. Resources/알고리즘/다익스트라 탬플릿.md",
-    "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "1. Projects/중앙대 4-1 강의/데베시/Untitled",
     "1. Projects/중앙대 4-1 강의/데베시",
     "1. Projects/중앙대 4-1 강의/자연어처리",
