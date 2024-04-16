@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
+                "file": "3. Resources/면접/현대 모비스.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
+                "file": "3. Resources/면접/현대 모비스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
+                "file": "3. Resources/면접/현대 모비스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md"
+                "file": "3. Resources/면접/현대 모비스.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "cee0037cb939c82e",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/6-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
     "3. Resources/면접/현대 모비스.md",
@@ -193,7 +194,6 @@
     "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
     "3. Resources/DevOps/Traefik.md",
     "3. Resources/면접/펄어비스.md",
-    "3. Resources/면접/데브시스터즈.md",
     "1. Projects/중앙대 4-1 강의/데베시/Untitled",
     "1. Projects/중앙대 4-1 강의/데베시",
     "1. Projects/중앙대 4-1 강의/자연어처리",
