@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d998fd5f6ca00df3",
+        "id": "a370753a0a2129b0",
         "type": "tabs",
         "children": [
           {
-            "id": "cee0037cb939c82e",
+            "id": "65101966d465eb1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cee0037cb939c82e",
+  "active": "65101966d465eb1c",
   "lastOpenFiles": [
-    "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
     "3. Resources/Spring/S3 연동 정리.md",
     "3. Resources/DB/외래키를 쓰지 않는 이유.md",
     "3. Resources/DB/On Delete Cascade.md",
