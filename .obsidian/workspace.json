@@ -11,8 +11,12 @@
             "id": "65101966d465eb1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md"
+              }
             }
           },
           {
@@ -159,6 +167,7 @@
   "active": "65101966d465eb1c",
   "lastOpenFiles": [
     "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
     "3. Resources/Spring/S3 연동 정리.md",
     "3. Resources/DB/외래키를 쓰지 않는 이유.md",
@@ -183,7 +192,6 @@
     "3. Resources/Spring/자바 메서드 네이밍.md",
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
     "3. Resources/Spring/스프링 이벤트.md",
-    "3. Resources/Spring/쿠폰 서비스 설계 패턴.md",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",
     "1. Projects/중앙대 4-1 강의/데베시/Untitled",
