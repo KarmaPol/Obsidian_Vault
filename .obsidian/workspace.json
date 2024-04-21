@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a370753a0a2129b0",
+        "id": "5dcae75dcf6a9991",
         "type": "tabs",
         "children": [
           {
-            "id": "65101966d465eb1c",
+            "id": "45769abe06a962ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/면접/현대 모비스.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/면접/현대 모비스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/면접/현대 모비스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. Resources/면접/현대 모비스.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65101966d465eb1c",
+  "active": "45769abe06a962ff",
   "lastOpenFiles": [
-    "3. Resources/면접/멘토링.md",
     "3. Resources/면접/현대 모비스.md",
+    "3. Resources/면접/멘토링.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/2-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/2-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
