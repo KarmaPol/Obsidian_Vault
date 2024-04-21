@@ -11,8 +11,12 @@
             "id": "45769abe06a962ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md"
+              }
             }
           },
           {
@@ -158,18 +166,20 @@
   },
   "active": "45769abe06a962ff",
   "lastOpenFiles": [
-    "3. Resources/면접/현대 모비스.md",
-    "3. Resources/면접/멘토링.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/6-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/4-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/3-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/2-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/2-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/3-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/4-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
+    "3. Resources/면접/현대 모비스.md",
+    "3. Resources/면접/멘토링.md",
     "3. Resources/CS/OS/데드락.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
     "3. Resources/Spring/S3 연동 정리.md",
     "3. Resources/DB/외래키를 쓰지 않는 이유.md",
     "3. Resources/DB/On Delete Cascade.md",
@@ -182,8 +192,6 @@
     "3. Resources/Spring/Swagger http,https 오류.md",
     "3. Resources/Spring/Why LazyLoading?.md",
     "3. Resources/Spring/Mockito.md",
-    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
-    "3. Resources/Spring/Java call by value, call by reference.md",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",
     "1. Projects/중앙대 4-1 강의/데베시/Untitled",
