@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5dcae75dcf6a9991",
+        "id": "fb7d22862854ad85",
         "type": "tabs",
         "children": [
           {
-            "id": "45769abe06a962ff",
+            "id": "c44d216802dc3e9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
+                "file": "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
+                "file": "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
+                "file": "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md"
+                "file": "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md"
               }
             }
           },
@@ -164,13 +164,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45769abe06a962ff",
+  "active": "c44d216802dc3e9a",
   "lastOpenFiles": [
-    "1. Projects/중앙대 4-1 강의/멀티코어/2-2.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/5주차.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/4주차.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/3주차.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/6주차.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/7주차.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/4-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/3-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/4-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/2-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/2-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
@@ -186,12 +192,6 @@
     "3. Resources/DB/외래키를 쓰지 않는 이유.md",
     "3. Resources/DB/On Delete Cascade.md",
     "3. Resources/DB/MySQL Null 처리.md",
-    "3. Resources/DB/트랜잭션 ACID.md",
-    "3. Resources/CS/OS/가상메모리.md",
-    "3. Resources/CS/OS/인터럽트.md",
-    "3. Resources/CS/OS/단편화.md",
-    "3. Resources/DB/DB 비관적 락, 낙관적 락.md",
-    "3. Resources/Spring/Swagger http,https 오류.md",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",
     "1. Projects/중앙대 4-1 강의/데베시/Untitled",
