@@ -11,8 +11,12 @@
             "id": "3c589fd0764bb25e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md"
+              }
             }
           },
           {
@@ -158,6 +166,17 @@
   },
   "active": "3c589fd0764bb25e",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/6-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/4-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/3-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/2-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/2-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/6주차.md",
     "4. Archives/공감스토리 시험 대비.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/5주차.md",
@@ -169,17 +188,6 @@
     "3. Resources/CS/OS/데드락.md",
     "3. Resources/CS/OS/단편화.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/7주차.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/4-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/3-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/3-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/4-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/2-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/2-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/1-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/5-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/6-1.md",
     "Untitled 3.md",
     "().md",
     "3. Resources/면접/현대 모비스.md",
