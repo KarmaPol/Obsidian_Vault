@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/9-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/9-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/9-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md"
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/9-1.md"
               }
             }
           },
@@ -166,6 +166,10 @@
   },
   "active": "860cd2b5f4b7fa4b",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/9주차.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/9-1.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/7주차.md",
+    "3. Resources/DevOps/ec2 docker 설치.md",
     "3. Resources/DevOps/Traefik.md",
     "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
     "3. Resources/DevOps/도커 스웜 개념.md",
@@ -179,7 +183,6 @@
     "3. Resources/DB/MySQL Set함수.md",
     "3. Resources/DevOps/도커 네트워크.md",
     "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
-    "3. Resources/DevOps/ec2 docker 설치.md",
     "4. Archives/공감스토리 시험 대비.md",
     "4. Archives/11-29 수 빙봉 팀 미팅.md",
     "4. Archives/메트라이프 해커톤 정리.md",
@@ -189,9 +192,6 @@
     "3. Resources/면접/데브시스터즈.md",
     "3. Resources/면접/메트라이프.md",
     "3. Resources/면접/멘토링.md",
-    "3. Resources/면접/펄어비스.md",
-    "3. Resources/면접/하나은행.md",
-    "3. Resources/면접/하이퍼커넥트.md",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
     "Pasted image 20231229235959.png",
