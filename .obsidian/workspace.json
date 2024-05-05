@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/9-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/9-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/9-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md"
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/9-2.md"
               }
             }
           },
@@ -166,11 +166,13 @@
   },
   "active": "860cd2b5f4b7fa4b",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/멀티코어/9-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/9-2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/7-2.md",
+    "3. Resources/DevOps/ec2 docker 설치.md",
     "3. Resources/DevOps/AWS VPC 개념.md",
     "3. Resources/DevOps/AWS 람다 event.md",
-    "3. Resources/DevOps/ec2 docker 설치.md",
     "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/9-1.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/9주차.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/7주차.md",
     "3. Resources/DevOps/Traefik.md",
@@ -190,8 +192,6 @@
     "4. Archives/메트라이프 해커톤 정리.md",
     "4. Archives/데브시스터즈 서버.md",
     "3. Resources/면접/GS 네오텍.md",
-    "3. Resources/면접/네이버.md",
-    "3. Resources/면접/데브시스터즈.md",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
     "Pasted image 20231229235959.png",
