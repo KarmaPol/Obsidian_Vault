@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/SQL/MYSQL CASE구문.md",
+                "file": "1. Projects/중앙대 4-1 강의/자연어처리/11주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/SQL/MYSQL CASE구문.md",
+                "file": "1. Projects/중앙대 4-1 강의/자연어처리/11주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/SQL/MYSQL CASE구문.md",
+                "file": "1. Projects/중앙대 4-1 강의/자연어처리/11주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/SQL/MYSQL CASE구문.md"
+                "file": "1. Projects/중앙대 4-1 강의/자연어처리/11주차.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "860cd2b5f4b7fa4b",
   "lastOpenFiles": [
-    "3. Resources/SQL/MYSQL IFNULL().md",
     "3. Resources/SQL/MYSQL CASE구문.md",
+    "1. Projects/중앙대 4-1 강의/자연어처리/11주차.md",
+    "3. Resources/SQL/MYSQL IFNULL().md",
     "3. Resources/SQL/날짜 관련 함수.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "3. Resources/SQL",
@@ -192,7 +193,6 @@
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
     "3. Resources/면접/GS 네오텍.md",
     "3. Resources/면접/멘토링.md",
-    "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
