@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archives/펄어비스 인턴십.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archives/펄어비스 인턴십.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archives/펄어비스 인턴십.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archives/펄어비스 인턴십.md"
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md"
               }
             }
           },
@@ -166,9 +166,12 @@
   },
   "active": "860cd2b5f4b7fa4b",
   "lastOpenFiles": [
+    "1. Projects/중앙대 4-1 강의/멀티코어/12-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
+    "1. Projects/중앙대 4-1 강의/데베시/Chapter 13..md",
+    "4. Archives/펄어비스 인턴십.md",
     "4. Archives/카카오 인턴십 지원서.md",
     "4. Archives/쏘카 백엔드.md",
-    "4. Archives/펄어비스 인턴십.md",
     "4. Archives/cns 인턴십 지원서.md",
     "4. Archives/BE 성능 개선기 벨로그.md",
     "4. Archives/하이퍼커넥트 공채.md",
@@ -189,9 +192,6 @@
     "3. Resources/면접/멘토링.md",
     "3. Resources/면접/네이버.md",
     "4. Archives/http 스터디/15. 엔티티와 인코딩.md",
-    "4. Archives/http 스터디/16. 국제화.md",
-    "4. Archives/http 스터디/17. 내용 협상과 트랜스코딩.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/12-1.md",
     "3. Resources/SQL",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",
