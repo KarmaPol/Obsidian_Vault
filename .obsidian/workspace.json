@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fcc70cccd4f3e013",
+        "id": "035790bb79510dcd",
         "type": "tabs",
         "children": [
           {
-            "id": "860cd2b5f4b7fa4b",
+            "id": "a57fbf5f3b64858e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Area/커리어 이야기.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/커리어 이야기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/커리어 이야기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Area/커리어 이야기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "860cd2b5f4b7fa4b",
+  "active": "a57fbf5f3b64858e",
   "lastOpenFiles": [
+    "2. Area/커리어 이야기.md",
     "4. Archives/공감스토리 시험 대비.md",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",
