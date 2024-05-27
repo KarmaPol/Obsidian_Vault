@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
+                "file": "3. Resources/알고리즘/next_permutaion().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
+                "file": "3. Resources/알고리즘/next_permutaion().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
+                "file": "3. Resources/알고리즘/next_permutaion().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md"
+                "file": "3. Resources/알고리즘/next_permutaion().md"
               }
             }
           },
@@ -166,6 +166,12 @@
   },
   "active": "a57fbf5f3b64858e",
   "lastOpenFiles": [
+    "3. Resources/알고리즘/vector 초기화.md",
+    "3. Resources/알고리즘/next_permutaion().md",
+    "3. Resources/알고리즘/C++ 문자열 부수기.md",
+    "3. Resources/알고리즘/다익스트라 탬플릿.md",
+    "3. Resources/알고리즘/크루스칼 & Union Find.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/12-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/11-1.md",
     "4. Archives/기디 매칭.md",
@@ -175,7 +181,6 @@
     "1. Projects/GCP ACE/오답노트 81~120.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/6-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/9-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
     "2. Area/커리어 이야기.md",
     "4. Archives/공감스토리 시험 대비.md",
     "Pasted image 20231123105627.png",
@@ -193,11 +198,6 @@
     "4. Archives/카카오 인턴십 지원서.md",
     "4. Archives/쏘카 백엔드.md",
     "4. Archives/cns 인턴십 지원서.md",
-    "4. Archives/BE 성능 개선기 벨로그.md",
-    "4. Archives/하이퍼커넥트 공채.md",
-    "4. Archives/빙터파크 검색 아티클.md",
-    "4. Archives/데브시스터즈 서버.md",
-    "4. Archives/메트라이프 해커톤 정리.md",
     "3. Resources/SQL",
     "1. Projects/중앙대 4-1 강의/데베시/Untitled",
     "1. Projects/중앙대 4-1 강의/데베시",
