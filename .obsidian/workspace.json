@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/13-1.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/13-1.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/13-1.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/13-1.md"
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md"
               }
             }
           },
@@ -164,10 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a57fbf5f3b64858e",
+  "active": "c6fb5d244e475558",
   "lastOpenFiles": [
-    "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
+    "1. Projects/중앙대 4-1 강의/데베시/Chapter 12..md",
+    "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
+    "1. Projects/중앙대 4-1 강의/데베시/Chapter 13..md",
     "1. Projects/중앙대 4-1 강의/멀티코어/13-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/11-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/12-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/9-2.md",
@@ -193,11 +196,8 @@
     "Untitled 3.md",
     "Pasted image 20231229235233.png",
     "Untitled 1.md",
-    "Untitled.md",
-    "README.md",
     "Pasted image 20231230000110.png",
     "Pasted image 20231229235959.png",
-    "1. Projects/중앙대 4-1 강의/데베시/Chapter 13..md",
     "3. Resources/SQL",
     "1. Projects/중앙대 4-1 강의/데베시/Untitled",
     "1. Projects/중앙대 4-1 강의/데베시",
