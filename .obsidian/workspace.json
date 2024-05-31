@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/13-2.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/13-2.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/13-2.md",
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/13-2.md"
+                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "a57fbf5f3b64858e",
   "lastOpenFiles": [
-    "1. Projects/중앙대 4-1 강의/멀티코어/13-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/13-2.md",
+    "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/13-1.md",
     "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "3. Resources/알고리즘/next_permutaion().md",
@@ -191,7 +192,6 @@
     "4. Archives/GCP ACE/오답노트 81~120.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/6-1.md",
     "2. Area/커리어 이야기.md",
-    "4. Archives/공감스토리 시험 대비.md",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
