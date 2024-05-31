@@ -6,3 +6,4 @@
 
 1. 해시 함수로 join 연산키를 기준으로 PK 저장하는 파티션 파일 2개 생성
 2. 파티션한 파일을 다시 불러올때 인메모리에 해시함수로 저장 (1과 별개)
+SELECT * FROM member JOIN member ON id=id;
