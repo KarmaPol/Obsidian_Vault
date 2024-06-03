@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md"
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md"
               }
             }
           },
@@ -166,15 +166,19 @@
   },
   "active": "a57fbf5f3b64858e",
   "lastOpenFiles": [
-    "1. Projects/중앙대 4-1 강의/멀티코어/13-2.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/14주차.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md",
+    "1. Projects/중앙대 4-1 강의/데베시/9주차.md",
+    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/13주차.md",
     "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/13-2.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/13-1.md",
     "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "3. Resources/알고리즘/next_permutaion().md",
     "3. Resources/알고리즘/vector 초기화.md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
-    "1. Projects/중앙대 4-1 강의/데베시/9주차.md",
     "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
     "1. Projects/중앙대 4-1 강의/데베시/Chapter 12..md",
     "1. Projects/중앙대 4-1 강의/데베시/Chapter 13..md",
@@ -182,16 +186,12 @@
     "1. Projects/중앙대 4-1 강의/멀티코어/11-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/12-1.md",
     "1. Projects/중앙대 4-1 강의/멀티코어/9-2.md",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/13주차.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/12주차.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/10주차.md",
     "4. Archives/기디 매칭.md",
     "4. Archives/CMC/컨퍼런스/메시지 큐 자료.md",
     "4. Archives/GCP ACE/Core infra 5. Storage.md",
     "4. Archives/GCP ACE/Core infra 3. Resources.md",
-    "4. Archives/GCP ACE/오답노트 81~120.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/6-1.md",
-    "2. Area/커리어 이야기.md",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
