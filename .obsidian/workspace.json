@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md",
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md"
+                "file": "1. Projects/중앙대 4-1 강의/멀티코어/14-2.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   "active": "add39862548d1854",
   "lastOpenFiles": [
     "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md",
+    "1. Projects/중앙대 4-1 강의/멀티코어/14-2.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/14주차.md",
     "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md",
     "1. Projects/중앙대 4-1 강의/데베시/9주차.md",
@@ -191,7 +192,6 @@
     "4. Archives/기디 매칭.md",
     "4. Archives/CMC/컨퍼런스/메시지 큐 자료.md",
     "4. Archives/GCP ACE/Core infra 5. Storage.md",
-    "4. Archives/GCP ACE/Core infra 3. Resources.md",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229222653.png",
