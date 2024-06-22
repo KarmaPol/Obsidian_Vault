@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b5fc97100d376170",
+        "id": "22bac40d3161a1f6",
         "type": "tabs",
         "children": [
           {
-            "id": "add39862548d1854",
+            "id": "0ffddf158dea0184",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. Resources/Git/Git 잘못 올라간 파일 관리.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,48 +156,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "add39862548d1854",
+  "active": "0ffddf158dea0184",
   "lastOpenFiles": [
-    "3. Resources/Git/이미 작업중인 Local에 Github 연결하기.md",
-    "3. Resources/Git/Git 잘못 올라간 파일 관리.md",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/13주차.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/15-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/14-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/14-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/13-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/13-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/12-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/12-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/11-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/9-2.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/9-1.md",
-    "1. Projects/중앙대 4-1 강의/멀티코어/7-1.md",
-    "Pasted image 20231229222653.png",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/3주차.md",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/2주차.md",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/4주차.md",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/14주차.md",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/12주차.md",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/10주차.md",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘/9주차.md",
-    "1. Projects/중앙대 4-1 강의/데베시/9주차.md",
-    "1. Projects/중앙대 4-1 강의/데베시/설계과제 Part 2.md",
-    "3. Resources/알고리즘/크루스칼 & Union Find.md",
-    "3. Resources/알고리즘/다익스트라 탬플릿.md",
-    "3. Resources/알고리즘/next_permutaion().md",
-    "Pasted image 20231123105627.png",
-    "Pasted image 20231229222535.png",
+    "1. Projects/만배 클린아키텍처/4. 유스케이스 구현하기.md",
+    "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md",
+    "1. Projects/만배 클린아키텍처/2. 의존성 역전하기.md",
+    "1. Projects/만배 클린아키텍처/1. 계층형 아키텍처의 문제.md",
+    "3. Resources/알고리즘/C++ 문자열 부수기.md",
+    "3. Resources/DB/On Delete Cascade.md",
+    "3. Resources/DB/MySQL Null 처리.md",
+    "3. Resources/DB/정규화.md",
+    "3. Resources/DB/외래키를 쓰지 않는 이유.md",
+    "4. Archives/중앙대 4-1 강의/데베시/Chapter 13..md",
+    "4. Archives/중앙대 4-1 강의/데베시/Chapter 12..md",
+    "4. Archives/중앙대 4-1 강의/데베시/9주차.md",
+    "4. Archives/중앙대 4-1 강의/데베시/설계과제 Part 1.md",
+    "4. Archives/중앙대 4-1 강의/데베시/설계과제 Part 2.md",
+    "4. Archives/중앙대 4-1 강의/자연어처리/3주차.md",
+    "4. Archives/중앙대 4-1 강의/자연어처리/4주차.md",
+    "4. Archives/중앙대 4-1 강의/자연어처리/11주차.md",
+    "4. Archives/중앙대 4-1 강의/멀티코어/14-2.md",
+    "4. Archives/중앙대 4-1 강의/멀티코어/15-1.md",
+    "4. Archives/중앙대 4-1 강의/멀티코어/14-1.md",
+    "4. Archives/GCP ACE/오답노트 41~80.md",
+    "4. Archives/GCP ACE/오답노트 1~40.md",
+    "4. Archives/GCP ACE/오답노트 121~160.md",
+    "4. Archives/GCP ACE/오답노트 81~120.md",
+    "4. Archives/GCP ACE/Core infra 7. Application.md",
+    "4. Archives/GCP ACE/Core infra 6. Containers.md",
     "Pasted image 20231229235233.png",
+    "Pasted image 20231123105627.png",
+    "Pasted image 20231229222653.png",
+    "Pasted image 20231229222535.png",
     "Pasted image 20231230000110.png",
     "Pasted image 20231229235959.png",
     "3. Resources/SQL",
     "1. Projects/중앙대 4-1 강의/데베시/Untitled",
-    "1. Projects/중앙대 4-1 강의/데베시",
-    "1. Projects/중앙대 4-1 강의/자연어처리",
-    "1. Projects/중앙대 4-1 강의/스토리텔링의 힘",
+    "4. Archives/중앙대 4-1 강의/데베시",
+    "4. Archives/중앙대 4-1 강의/자연어처리",
+    "4. Archives/중앙대 4-1 강의/스토리텔링의 힘",
     "3. Resources/CS/자료구조",
-    "1. Projects/중앙대 4-1 강의/멀티코어",
-    "1. Projects/중앙대 4-1 강의",
+    "4. Archives/중앙대 4-1 강의/멀티코어",
+    "4. Archives/중앙대 4-1 강의",
     "3. Resources/AWS",
     "3. Resources/CS/OS",
     "Pasted image 20231229235342.png",
