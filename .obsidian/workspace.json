@@ -11,8 +11,12 @@
             "id": "0ffddf158dea0184",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/만배 클린아키텍처/4. 유스케이스 구현하기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/만배 클린아키텍처/4. 유스케이스 구현하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/만배 클린아키텍처/4. 유스케이스 구현하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Projects/만배 클린아키텍처/4. 유스케이스 구현하기.md"
+              }
             }
           },
           {
@@ -158,6 +166,7 @@
   },
   "active": "0ffddf158dea0184",
   "lastOpenFiles": [
+    "1. Projects/만배 클린아키텍처/5. 웹 어댑터 구현하기.md",
     "1. Projects/만배 클린아키텍처/4. 유스케이스 구현하기.md",
     "1. Projects/만배 클린아키텍처/3. 코드 구성하기.md",
     "1. Projects/만배 클린아키텍처/2. 의존성 역전하기.md",
@@ -183,7 +192,6 @@
     "4. Archives/GCP ACE/오답노트 121~160.md",
     "4. Archives/GCP ACE/오답노트 81~120.md",
     "4. Archives/GCP ACE/Core infra 7. Application.md",
-    "4. Archives/GCP ACE/Core infra 6. Containers.md",
     "Pasted image 20231229235233.png",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222653.png",
