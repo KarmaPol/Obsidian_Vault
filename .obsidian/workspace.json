@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/만배 클린아키텍처/9. 애플리케이션 조립하기.md",
+                "file": "1. Projects/만배 클린아키텍처/10. 아키텍처 경계 강제하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/만배 클린아키텍처/9. 애플리케이션 조립하기.md",
+                "file": "1. Projects/만배 클린아키텍처/10. 아키텍처 경계 강제하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/만배 클린아키텍처/9. 애플리케이션 조립하기.md",
+                "file": "1. Projects/만배 클린아키텍처/10. 아키텍처 경계 강제하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/만배 클린아키텍처/9. 애플리케이션 조립하기.md"
+                "file": "1. Projects/만배 클린아키텍처/10. 아키텍처 경계 강제하기.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "0ffddf158dea0184",
   "lastOpenFiles": [
-    "1. Projects/만배 클린아키텍처/8. 경계 간 매핑하기.md",
     "1. Projects/만배 클린아키텍처/9. 애플리케이션 조립하기.md",
+    "1. Projects/만배 클린아키텍처/10. 아키텍처 경계 강제하기.md",
+    "1. Projects/만배 클린아키텍처/8. 경계 간 매핑하기.md",
     "3. Resources/알고리즘/vector 초기화.md",
     "3. Resources/알고리즘/next_permutaion().md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
@@ -192,7 +193,6 @@
     "4. Archives/CMC/컨퍼런스/메시지 큐 자료.md",
     "4. Archives/대규모시스템설계 스터디/10. 알림 시스템 설계.md",
     "4. Archives/대규모시스템설계 스터디/16. 배움은 계속된다.md",
-    "1. Projects/만배 클린아키텍처/4. 유스케이스 구현하기.md",
     "Pasted image 20231229235233.png",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222653.png",
