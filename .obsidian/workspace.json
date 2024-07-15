@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "1. Projects/디자인패턴/2. 옵저버 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "1. Projects/디자인패턴/2. 옵저버 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md",
+                "file": "1. Projects/디자인패턴/2. 옵저버 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/DevOps/ec2 docker 설치.md"
+                "file": "1. Projects/디자인패턴/2. 옵저버 패턴.md"
               }
             }
           },
@@ -166,6 +166,13 @@
   },
   "active": "0ffddf158dea0184",
   "lastOpenFiles": [
+    "4. Archives/대규모시스템설계 스터디/15. 구글 드라이브 설계.md",
+    "1. Projects/만배 클린아키텍처/10. 아키텍처 경계 강제하기.md",
+    "1. Projects/디자인패턴/1. 전략 패턴.md",
+    "1. Projects/디자인패턴/2. 옵저버 패턴.md",
+    "3. Resources/DevOps/ec2 docker 설치.md",
+    "1. Projects/디자인패턴/Untitled",
+    "1. Projects/디자인패턴",
     "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
     "3. Resources/DevOps/AWS 람다 event.md",
     "3. Resources/DevOps/도커 스택 mySql.md",
@@ -173,7 +180,6 @@
     "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
     "3. Resources/DevOps/도커 스웜 개념.md",
     "3. Resources/DevOps/Traefik.md",
-    "3. Resources/DevOps/ec2 docker 설치.md",
     "4. Archives/http 스터디/4. 커넥션 관리.md",
     "4. Archives/http 스터디/3. HTTP 메시지.md",
     "4. Archives/http 스터디/2. URL.md",
@@ -188,10 +194,6 @@
     "4. Archives/http 스터디/7. 캐시.md",
     "4. Archives/http 스터디/5. 웹 서버.md",
     "1. Projects/만배 클린아키텍처/2. 의존성 역전하기.md",
-    "1. Projects/만배 클린아키텍처/1. 계층형 아키텍처의 문제.md",
-    "3. Resources/알고리즘/다익스트라 탬플릿.md",
-    "3. Resources/알고리즘/크루스칼 & Union Find.md",
-    "3. Resources/알고리즘/vector 초기화.md",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229235233.png",
     "Pasted image 20231123105627.png",
@@ -206,8 +208,6 @@
     "3. Resources/CS/자료구조",
     "4. Archives/중앙대 4-1 강의/멀티코어",
     "4. Archives/중앙대 4-1 강의",
-    "3. Resources/AWS",
-    "3. Resources/CS/OS",
     "Pasted image 20231229235342.png",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
