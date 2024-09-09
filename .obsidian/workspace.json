@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/Parametric Search.md",
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/Parametric Search.md",
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/Parametric Search.md",
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/Parametric Search.md"
+                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "0ffddf158dea0184",
   "lastOpenFiles": [
-    "1. Projects/만배 클린아키텍처/10. 아키텍처 경계 강제하기.md",
     "3. Resources/알고리즘/Parametric Search.md",
+    "1. Projects/만배 클린아키텍처/10. 아키텍처 경계 강제하기.md",
     "1. Projects/만배 클린아키텍처/9. 애플리케이션 조립하기.md",
     "1. Projects/만배 클린아키텍처/8. 경계 간 매핑하기.md",
     "1. Projects/만배 클린아키텍처/7. 아키텍처 요소 테스트하기.md",
