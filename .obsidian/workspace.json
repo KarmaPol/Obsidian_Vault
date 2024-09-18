@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f5e967c4cf1a08e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ffddf158dea0184",
+  "active": "8f5e967c4cf1a08e",
   "lastOpenFiles": [
     "3. Resources/알고리즘/Parametric Search.md",
     "1. Projects/만배 클린아키텍처/10. 아키텍처 경계 강제하기.md",
