@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
+                "file": "3. Resources/CS/OS/가상메모리.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
+                "file": "3. Resources/CS/OS/가상메모리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md",
+                "file": "3. Resources/CS/OS/가상메모리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/알고리즘/다익스트라 탬플릿.md"
+                "file": "3. Resources/CS/OS/가상메모리.md"
               }
             }
           },
@@ -179,8 +179,12 @@
   },
   "active": "8f5e967c4cf1a08e",
   "lastOpenFiles": [
-    "3. Resources/알고리즘/크루스칼 & Union Find.md",
+    "3. Resources/CS/OS/단편화.md",
+    "3. Resources/CS/자료구조/힙.md",
+    "3. Resources/AWS/VPC/VPC와 서브넷.md",
+    "3. Resources/AWS/VPC/보안그룹과 NACL.md",
     "3. Resources/알고리즘/다익스트라 탬플릿.md",
+    "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "3. Resources/알고리즘/Parametric Search.md",
     "1. Projects/만배 클린아키텍처/10. 아키텍처 경계 강제하기.md",
     "1. Projects/만배 클린아키텍처/9. 애플리케이션 조립하기.md",
@@ -203,10 +207,6 @@
     "3. Resources/DevOps/도커 스택 mySql.md",
     "3. Resources/DevOps/로드 밸런싱 방식.md",
     "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
-    "3. Resources/DevOps/도커 스웜 개념.md",
-    "3. Resources/DevOps/Traefik.md",
-    "4. Archives/http 스터디/4. 커넥션 관리.md",
-    "4. Archives/http 스터디/3. HTTP 메시지.md",
     "Pasted image 20231229222535.png",
     "Pasted image 20231229235233.png",
     "Pasted image 20231123105627.png",
