@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/스프링 MVC 2편/메시지, 국제화.md",
+                "file": "1. Projects/모던자바인액션/5. 스트림 활용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "메시지, 국제화"
+              "title": "5. 스트림 활용"
             }
           }
         ],
@@ -215,10 +215,11 @@
   },
   "active": "7ec237ce192229c0",
   "lastOpenFiles": [
+    "1. Projects/모던자바인액션/5. 스트림 활용.md",
     "1. Projects/모던자바인액션/4. 스트림 소개.md",
+    "1. Projects/스프링 MVC 2편/메시지, 국제화.md",
     "1. Projects/모던자바인액션/3. 람다 표현식.md",
     "1. Projects/모던자바인액션/2. 동작 파라미터화 코드 전달하기.md",
-    "1. Projects/스프링 MVC 2편/메시지, 국제화.md",
     "README.md",
     "4. Archives/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
     "1. Projects/스프링 MVC 2편",
@@ -246,7 +247,6 @@
     "4. Archives/CMC/컨퍼런스/메시지 큐 자료.md",
     "4. Archives/GCP ACE/오답노트 1~40.md",
     "4. Archives/GCP ACE/오답노트 41~80.md",
-    "4. Archives/GCP ACE/오답노트 81~120.md",
     "1. Projects/모던자바인액션",
     "1. Projects/디자인패턴/Untitled",
     "1. Projects/디자인패턴",
