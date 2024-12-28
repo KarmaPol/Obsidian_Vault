@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "22bac40d3161a1f6",
+        "id": "c54551d5c895bf74",
         "type": "tabs",
         "children": [
           {
-            "id": "8f5e967c4cf1a08e",
+            "id": "d438a72cfaae69c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archives/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
+                "file": "3. Resources/알고리즘/Java 다익스트라.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA 4. 스프링 데이터 JPA"
+              "title": "Java 다익스트라"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "6e1b84fda3d6aea1",
@@ -185,8 +184,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f5e967c4cf1a08e",
+  "active": "d438a72cfaae69c1",
   "lastOpenFiles": [
+    "3. Resources/알고리즘/다익스트라 탬플릿.md",
+    "3. Resources/알고리즘/Java 다익스트라.md",
+    "3. Resources/Spring/스프링 파일 첨부 MultipartFile.md",
+    "3. Resources/Spring/SpringBoot 레디스 캐시.md",
+    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
+    "3. Resources/Spring/Java Record.md",
+    "3. Resources/Spring/해커톤 서버 빌드 정리.md",
+    "3. Resources/Spring/쓰레드 풀.md",
+    "4. Archives/데브코스/강의정리/JPA/JPA 4. 스프링 데이터 JPA.md",
     "4. Archives/데브코스/강의정리/JPA/JPA 3. 연관관계 매핑.md",
     "4. Archives/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
     "4. Archives/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
@@ -199,21 +207,12 @@
     "3. Resources/알고리즘/next_permutaion().md",
     "3. Resources/알고리즘/C++ 문자열 부수기.md",
     "3. Resources/알고리즘/크루스칼 & Union Find.md",
-    "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "Pasted image 20231123105627.png",
     "3. Resources/SQL/MYSQL IFNULL().md",
     "3. Resources/SQL/MYSQL CASE구문.md",
     "3. Resources/SQL/날짜 관련 함수.md",
     "3. Resources/Spring Security/스프링 Oauth2.md",
     "3. Resources/Spring Security/스프링 시큐리티 예외 처리.md",
-    "3. Resources/Spring Batch/스프링 부트 배치의 기본.md",
-    "3. Resources/Spring Batch/미납 회원 배치 처리 구현.md",
-    "3. Resources/Spring/Why LazyLoading?.md",
-    "3. Resources/Spring/Swagger http,https 오류.md",
-    "3. Resources/Spring/ResponseEntityExceptionHandler.md",
-    "3. Resources/Spring/Spring URL 한글 인코딩.md",
-    "3. Resources/Spring/테스트 코드용 memory DB.md",
-    "3. Resources/Spring/쿼리 DSL 스프링 부트 3.0 이상 build 파일 설정.md",
     "3. Resources/Untitled",
     "1. Projects/스프링 MVC 2편",
     "1. Projects/Untitled.canvas",
