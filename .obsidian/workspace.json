@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/알고리즘/Java 다익스트라.md",
+                "file": "1. Projects/모던자바인액션/9. 리팩터링, 테스팅, 디버깅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 다익스트라"
+              "title": "9. 리팩터링, 테스팅, 디버깅"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "d438a72cfaae69c1",
   "lastOpenFiles": [
-    "3. Resources/알고리즘/다익스트라 탬플릿.md",
+    "1. Projects/스프링 MVC 2편/메시지, 국제화.md",
     "3. Resources/알고리즘/Java 다익스트라.md",
+    "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "3. Resources/Spring/스프링 파일 첨부 MultipartFile.md",
     "3. Resources/Spring/SpringBoot 레디스 캐시.md",
     "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
@@ -199,7 +200,6 @@
     "4. Archives/데브코스/강의정리/JPA/JPA 2. 영속성 컨텍스트.md",
     "4. Archives/데브코스/강의정리/JPA/JPA 1. JPA 소개.md",
     "4. Archives/데브코스/강의정리/JPA/멘토 세션. DDD.md",
-    "1. Projects/스프링 MVC 2편/메시지, 국제화.md",
     "4. Archives/대규모시스템설계 스터디/2. 개략적인 규모 추정.md",
     "4. Archives/대규모시스템설계 스터디/1. 사용자 수에 따른 규모 확장성.md",
     "3. Resources/알고리즘/vector 초기화.md",
