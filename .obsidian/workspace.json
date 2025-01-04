@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c54551d5c895bf74",
+        "id": "56425a1bb12036bb",
         "type": "tabs",
         "children": [
           {
-            "id": "d438a72cfaae69c1",
+            "id": "da27d7819391e21f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/JPA api 최적화/Jpa Entity를 노출하지 마라.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Jpa Entity를 노출하지 마라"
+              "title": "New tab"
             }
           }
         ]
@@ -184,10 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d438a72cfaae69c1",
+  "active": "da27d7819391e21f",
   "lastOpenFiles": [
-    "1. Projects/JPA 2펴ㄴ.md",
+    "1. Projects/비즈니스영어/Meeting.md",
     "1. Projects/JPA api 최적화/Jpa Entity를 노출하지 마라.md",
+    "1. Projects/비즈니스영어",
+    "1. Projects/JPA 2펴ㄴ.md",
     "1. Projects/JPA api 최적화",
     "1. Projects/모던자바인액션/9. 리팩터링, 테스팅, 디버깅.md",
     "1. Projects/스프링 MVC 2편/메시지, 국제화.md",
@@ -213,7 +211,6 @@
     "3. Resources/알고리즘/크루스칼 & Union Find.md",
     "Pasted image 20231123105627.png",
     "3. Resources/SQL/MYSQL IFNULL().md",
-    "3. Resources/SQL/MYSQL CASE구문.md",
     "3. Resources/Untitled",
     "1. Projects/스프링 MVC 2편",
     "1. Projects/Untitled.canvas",
@@ -228,7 +225,6 @@
     "Pasted image 20231229235959.png",
     "3. Resources/SQL",
     "1. Projects/중앙대 4-1 강의/데베시/Untitled",
-    "4. Archives/중앙대 4-1 강의/데베시",
     "Pasted image 20231229235342.png",
     "Pasted image 20231005001618.png",
     "Untitled 1.canvas",
