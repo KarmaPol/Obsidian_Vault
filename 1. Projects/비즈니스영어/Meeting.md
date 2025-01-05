@@ -15,3 +15,8 @@
 - We are getting sidetracked here
 - We should focus on the issue at hand
 - Let's save that for next time
+
+- I forwarded the email for your reference
+- I compiled/wrote up a doc for the meeting
+- Could you look over the doc ahead of time
+  **look at < look over < review**
