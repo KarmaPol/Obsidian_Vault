@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/JPA api 최적화/N+1 문제.md",
+                "file": "1. Projects/JPA api 최적화/일대다 Entity의 최적화 및 페이징처리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N+1 문제"
+              "title": "일대다 Entity의 최적화 및 페이징처리"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "da27d7819391e21f",
   "lastOpenFiles": [
-    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
+    "1. Projects/JPA api 최적화/일대다 Entity의 Fetch join.md",
+    "1. Projects/JPA api 최적화/일대다 Entity의 최적화 및 페이징처리.md",
     "1. Projects/JPA api 최적화/N+1 문제.md",
+    "3. Resources/Spring/JPA Auto DDL + 더미 데이터 순서.md",
     "3. Resources/Spring/DTO getter, setter.md",
     "3. Resources/Spring/Annotation 개념 정리.md",
     "3. Resources/Spring/Argument Resolver 동작 과정.md",
@@ -216,8 +218,6 @@
     "1. Projects/JPA api 최적화",
     "1. Projects/모던자바인액션/9. 리팩터링, 테스팅, 디버깅.md",
     "1. Projects/스프링 MVC 2편/메시지, 국제화.md",
-    "3. Resources/알고리즘/Java 다익스트라.md",
-    "3. Resources/알고리즘/다익스트라 탬플릿.md",
     "3. Resources/Untitled",
     "1. Projects/스프링 MVC 2편",
     "1. Projects/Untitled.canvas",
