@@ -64,3 +64,4 @@ CREATE INDEX idx_a ON table_name (A);
 
 ##### Refer.
 https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-mysql-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98/dashboard
+[[EXPLAIN 실행 계획에서 type 분류]]
