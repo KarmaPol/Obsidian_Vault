@@ -25,12 +25,14 @@
             "id": "bd02d01e41437ebc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "1. Projects/실용적 테스트 코드/5. 테스트 작성법/BDD 스타일로 작성하라.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "BDD 스타일로 작성하라"
             }
           }
         ],
@@ -200,6 +202,9 @@
   },
   "active": "bd02d01e41437ebc",
   "lastOpenFiles": [
+    "1. Projects/실용적 테스트 코드/5. 테스트 작성법/테스트는 Document다.md",
+    "1. Projects/실용적 테스트 코드/5. 테스트 작성법/BDD 스타일로 작성하라.md",
+    "1. Projects/실용적 테스트 코드/6.",
     "1. Projects/스프링 핵심 원리 - 고급/Untitled",
     "1. Projects/스프링 핵심 원리 - 고급",
     "3. Resources/AWS/VPC/보안그룹과 NACL.md",
@@ -226,8 +231,7 @@
     "3. Resources/CS/OS/데드락.md",
     "3. Resources/CS/OS/인터럽트.md",
     "1. Projects/자바 최적화/11. 자바 언어의 성능 향상 기법.md",
-    "1. Projects/실용적 테스트 코드/4. TDD/TDD.md",
-    "1. Projects/실용적 테스트 코드/5. BDD",
+    "1. Projects/실용적 테스트 코드/5. 테스트 작성법",
     "1. Projects/실용적 테스트 코드/4. TDD",
     "1. Projects/실용적 테스트 코드/3. 단위 테스트",
     "1. Projects/실용적 테스트 코드",
@@ -238,8 +242,6 @@
     "4. Archives/스터디 모음",
     "Pasted image 20250126221225.png",
     "1. Projects/자바 최적화",
-    "1. Projects/비즈니스영어",
-    "3. Resources/JPA api 최적화",
     "1. Projects/Untitled.canvas",
     "Pasted image 20231229222653.png",
     "Pasted image 20231230000110.png",
