@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/실용적 테스트 코드/5. 테스트 작성법/BDD 스타일로 작성하라.md",
+                "file": "1. Projects/실용적 테스트 코드/7. Mock/Test Isolation 관점 비교.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BDD 스타일로 작성하라"
+              "title": "Test Isolation 관점 비교"
             }
           }
         ],
@@ -202,8 +202,19 @@
   },
   "active": "bd02d01e41437ebc",
   "lastOpenFiles": [
-    "1. Projects/실용적 테스트 코드/5. 테스트 작성법/테스트는 Document다.md",
+    "1. Projects/실용적 테스트 코드/7. Mock/Stub VS. Mock.md",
+    "1. Projects/실용적 테스트 코드/7. Mock/Implementation에 대한 Coupling 관점.md",
+    "1. Projects/실용적 테스트 코드/7. Mock/Driving TDD.md",
+    "1. Projects/실용적 테스트 코드/7. Mock/Classical Vs. Mockist Testing.md",
+    "1. Projects/실용적 테스트 코드/7. Mock/테스트 Setup 관점 비교.md",
+    "1. Projects/실용적 테스트 코드/7. Mock/테스트 설계 관점 비교.md",
+    "1. Projects/실용적 테스트 코드/7. Mock/마틴 파울러의 Mockist VS. Classicist 결론.md",
+    "1. Projects/실용적 테스트 코드/7. Mock/Test Isolation 관점 비교.md",
+    "1. Projects/실용적 테스트 코드/2. 테스트는 왜 필요할까?.md",
+    "1. Projects/실용적 테스트 코드/4. TDD/TDD.md",
     "1. Projects/실용적 테스트 코드/5. 테스트 작성법/BDD 스타일로 작성하라.md",
+    "1. Projects/실용적 테스트 코드/7. Mock",
+    "1. Projects/실용적 테스트 코드/5. 테스트 작성법/테스트는 Document다.md",
     "1. Projects/실용적 테스트 코드/6.",
     "1. Projects/스프링 핵심 원리 - 고급/Untitled",
     "1. Projects/스프링 핵심 원리 - 고급",
@@ -214,7 +225,6 @@
     "1. Projects/디자인패턴/1. 전략 패턴.md",
     "1. Projects/비즈니스영어/Meeting.md",
     "4. Archives/스프링 MVC 2편/메시지, 국제화.md",
-    "1. Projects/실용적 테스트 코드/2. 테스트는 왜 필요할까?.md",
     "3. Resources/Spring/로그 분산 추적 체계.md",
     "3. Resources/Spring/@SpringBootTest(class = ...), 테스트 트랜잭셔널.md",
     "3. Resources/Spring/스웨거 어노테이션 만들기.md",
@@ -222,15 +232,6 @@
     "3. Resources/Spring/@ControllerAdvice 동작 과정.md",
     "3. Resources/Spring/스프링 테스트 강의 정리.md",
     "3. Resources/Spring/스프링 이벤트.md",
-    "3. Resources/Spring/스프링 파일 첨부 MultipartFile.md",
-    "3. Resources/Spring/스프링부트 yml profiles group.md",
-    "1. Projects/자바 최적화/12. 동시 성능 기법.md",
-    "3. Resources/CS/자료구조/힙.md",
-    "3. Resources/CS/OS/가상메모리.md",
-    "3. Resources/CS/OS/단편화.md",
-    "3. Resources/CS/OS/데드락.md",
-    "3. Resources/CS/OS/인터럽트.md",
-    "1. Projects/자바 최적화/11. 자바 언어의 성능 향상 기법.md",
     "1. Projects/실용적 테스트 코드/5. 테스트 작성법",
     "1. Projects/실용적 테스트 코드/4. TDD",
     "1. Projects/실용적 테스트 코드/3. 단위 테스트",
@@ -241,7 +242,6 @@
     "Pasted image 20231229222535.png",
     "4. Archives/스터디 모음",
     "Pasted image 20250126221225.png",
-    "1. Projects/자바 최적화",
     "1. Projects/Untitled.canvas",
     "Pasted image 20231229222653.png",
     "Pasted image 20231230000110.png",
