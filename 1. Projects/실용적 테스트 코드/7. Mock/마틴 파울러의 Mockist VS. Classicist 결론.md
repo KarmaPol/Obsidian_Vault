@@ -3,5 +3,4 @@
   1. Test를 더 fine grain 하게 만들때
   2. Rich method object를 만들도록 유도할때
 
-- 
 - 언제나 TradeOff가 있다. 잘 고려해 선택하자
