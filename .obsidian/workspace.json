@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Java/CompletableFuture.md",
+                "file": "1. Projects/MySQL 마이그레이션/EXPLAIN 실행 계획에서 type 분류.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CompletableFuture"
+              "title": "EXPLAIN 실행 계획에서 type 분류"
             }
           }
         ]
@@ -165,14 +165,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "4b788bb5b93a2d47",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +196,14 @@
   },
   "active": "bd02d01e41437ebc",
   "lastOpenFiles": [
-    "3. Resources/Java/CompletableFuture VS.md",
+    "1. Projects/MySQL 마이그레이션/Multiple Column Index의 설계와 활용 쿼리 예시.md",
+    "1. Projects/MySQL 마이그레이션/EXPLAIN 실행 계획에서 type 분류.md",
+    "1. Projects/MySQL 마이그레이션/EXPLAIN 사용법.md",
+    "1. Projects/자바 최적화/10. JIT 컴파일의 세계로.md",
+    "1. Projects/MySQL 마이그레이션/Covering index.md",
+    "1. Projects/MySQL 마이그레이션",
     "3. Resources/Java/CompletableFuture.md",
+    "3. Resources/Java/CompletableFuture VS.md",
     "1. Projects/자바 고급 - 동시성/프로세스와 스레드.md",
     "3. Resources/Java",
     "1. Projects/자바 고급 - 동시성/멀티프로세싱.md",
@@ -203,18 +218,13 @@
     "3. Resources/CS/OS/단편화.md",
     "3. Resources/CS/OS/가상메모리.md",
     "1. Projects/자바 고급 - 동시성/멀티태스킹.md",
-    "1. Projects/MySQL 마이그레이션/Covering index.md",
     "3. Resources/CS/OS/데드락.md",
     "3. Resources/CS/OS/인터럽트.md",
     "1. Projects/비즈니스영어/Presentation.md",
     "1. Projects/자바 고급 - 동시성",
     "1. Projects/비즈니스영어/Meeting.md",
-    "1. Projects/MySQL 마이그레이션/EXPLAIN 실행 계획에서 type 분류.md",
-    "1. Projects/MySQL 마이그레이션/Multiple Column Index의 설계와 활용 쿼리 예시.md",
     "1. Projects/자바 최적화/14. 고성능 로깅 및 메시징.md",
     "1. Projects/자바 최적화/15. 자바 9와 미래.md",
-    "1. Projects/자바 최적화/11. 자바 언어의 성능 향상 기법.md",
-    "1. Projects/자바 최적화/13. 프로파일링.md",
     "1. Projects/실용적 테스트 코드/7. Mock",
     "1. Projects/실용적 테스트 코드/6.",
     "1. Projects/스프링 핵심 원리 - 고급/Untitled",
@@ -222,7 +232,6 @@
     "1. Projects/실용적 테스트 코드/5. 테스트 작성법",
     "1. Projects/실용적 테스트 코드/4. TDD",
     "1. Projects/실용적 테스트 코드/3. 단위 테스트",
-    "1. Projects/실용적 테스트 코드",
     "Pasted image 20231229235233.png",
     "Pasted image 20231123105627.png",
     "Pasted image 20231229222535.png",

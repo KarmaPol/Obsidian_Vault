@@ -30,6 +30,7 @@ CREATE INDEX idx_abc ON table_name (A, B, C);
 SELECT * FROM table_name WHERE B = 2 AND C = 3;
 ```
 - **맨 앞의 A가 빠지면 인덱스를 전혀 활용할 수 없다**
+- A, C만 쿼리 하는 경우도 인덱스를 못탄다
 ```sql
 SELECT * FROM table_name WHERE B = 2 AND C = 3 AND A = 1;
 ```
