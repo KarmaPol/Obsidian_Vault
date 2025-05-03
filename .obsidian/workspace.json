@@ -210,10 +210,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6fb5d244e475558",
+  "active": "588f32ef22fd7bc5",
   "lastOpenFiles": [
-    "1. Projects/실용적 테스트 코드/2. Why we do need a test?/2. 테스트는 왜 필요할까?.md",
+    "1. Projects/실용적 테스트 코드/8. Tips/Guarantee test environment is independent.md",
+    "1. Projects/실용적 테스트 코드/8. Tips/Perfectly controll.md",
     "1. Projects/실용적 테스트 코드/8. Tips/One topic by each paragraph.md",
+    "1. Projects/실용적 테스트 코드/2. Why we do need a test?/2. 테스트는 왜 필요할까?.md",
     "1. Projects/실용적 테스트 코드/8. Tips",
     "1. Projects/MySQL 마이그레이션/EXPLAIN 실행 계획에서 type 분류.md",
     "1. Projects/실용적 테스트 코드/2. Why we do need a test?",
@@ -240,9 +242,7 @@
     "1. Projects/자바 고급 - 동시성/멀티태스킹.md",
     "3. Resources/CS/OS/데드락.md",
     "3. Resources/CS/OS/인터럽트.md",
-    "1. Projects/비즈니스영어/Presentation.md",
     "1. Projects/자바 고급 - 동시성",
-    "1. Projects/비즈니스영어/Meeting.md",
     "1. Projects/실용적 테스트 코드/7. Mock",
     "1. Projects/실용적 테스트 코드/6.Spring Test",
     "1. Projects/스프링 핵심 원리 - 고급/Untitled",
