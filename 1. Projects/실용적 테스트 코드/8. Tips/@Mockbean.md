@@ -1,0 +1,2 @@
+ - Use for integration test (Controller test)
+ - Register mock bean to Spring context

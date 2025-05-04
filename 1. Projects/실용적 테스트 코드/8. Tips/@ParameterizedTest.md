@@ -36,3 +36,6 @@ static Stream<Arguments> stringIntAndListProvider() {
 @MethodSource("stringIntAndListProvider")
 ```
 - Should return Stream
+
+[[@DynamicTest]]
+[[Unify Spring test environments]]
