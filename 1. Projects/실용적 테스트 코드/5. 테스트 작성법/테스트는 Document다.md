@@ -19,3 +19,5 @@ void add() {
 - 테스트 메서드의 동작에 집중하지말고
   도메인 정책 관점으로 접근하자
   -> Not just a success or fail. Use domain terminology like "Order"
+
+[[2. 테스트는 왜 필요할까?]]
