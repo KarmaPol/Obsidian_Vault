@@ -11,4 +11,9 @@
 # 질문을 이해 못했을때
 - 한 두 문제는 넘어가도 됨
 - I don't have much to say about this topic. so I will skip this one
-- 
+# Past Experience 직접 화법
+- **Main Point가** 가장 중요!
+- Detail로 가지말고, **Feeling 위주로 가자**
+- Filer 사용 중요(Um, You know)
+- 직접 화법 -> 다이내믹하고, 네이티브 같은 화법
+  She was like "Tony, make sure to separate things"
