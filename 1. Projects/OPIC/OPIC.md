@@ -71,3 +71,47 @@
 ## 꼬여서 다시 말해야한다면?
 - What am I trying to say, anyway.
   **완전히 재시작**
+# IM vs IH
+- 얼마나 의사소통을 깔끔하게 잘할수 있는가? 어려운 단어 필요없음
+- **내 MP를 얼마나 간단하고 쉽게 전달할수 있는지**
+- 대화할땐 인토네이션 올려서
+  Let me see -> Well Let me see
+- When it comes to listening 같은 구문은 중간이나 마무리에 쓰자
+  -> 시작에 쓰면 스크립트 같이 들린다
+- really really easy 두번쨰는 늘려서 얘기하면 좋은 표현
+- And um 필러 2개 연결하면 native 같다
+- 막혔을땐 What am I trying to say, (잠깐 멈추고) anyway
+- 결론은 **This is why** people love using smartphone
+- AL을 위해서는 감정을 넣자. Society를 물어도 1, 2문장을 하고 **나의 경험을 넣자**
+  -> People using ~ 보다 We using~ 으로 하면 나랑 연결
+- 한 문장에서 같은 단어를 반복하지 말고 짧게 말하자
+# 왜 AL이 아니라 IH을 받았을까?
+- Pausing을 하지마라
+- **And um, And um you know** 같이 계속 사용
+- 전문성을 보여야하는 상황은 필러가 좋지 않다. 하지만 오픽은 일반 말하기
+- **Anyway** 다시 시작하기 너무 좋음
+- **Must one-topic focus** 빠르게 MP를 먼저 말하고 부연 설명
+- 각 질문 당 1분 정도 말하기가 목표
+- 만약 대조를 하고 싶다면 BUT 으로 시작. 다시 MP로 돌아와야함
+- 문법보다 의사소통
+# 복잡한 질문
+ - 대답이 생각나지 않을때 차라리 스킵이 낫다. 하지만 **한가지의 대답으로 컨트롤하자**
+ - 3가지를 다 얘기하려고 하지말고 **MP 1개만 말하자**
+# 돌발 질문
+- **차라리 스킵**
+  너무 어려워요~ bla bla 하는거보단 스킵
+- 3가지 주제는 미리 준비를 해서, 여기로 틀자 (ex music, coffee shop)
+- 인터넷 사용 목적 -> coffee shop으로 틀기
+# 간접 화법
+- 직접 화법(I was like "this is great")보단 어려움. 연습하면 됨
+- I thought to myself **that** this was great
+- 직접 화법은 과거 시제 + 현재 시제
+  간접 화법은 과거 시제 + 과거 시제
+# 자연스러운 롤플레잉
+- 상대방의 표현(가정)을 confirm하면서 반복  What? **only 100 dollars**? It's amazing!
+- 롤플레잉은 대화 모습을 보여줘야함
+## 문제 경험을 묻는 질문
+- 어떤 문제? 어떻게 느꼈는지 -> 직접/간접 화법 -> 문제 해결 방법 보여주기
+- 과장법 - Samsung is much better, the best -> 내 감정, 생각을 보여주기 쉬움
+  eg. 이 요리 최고야!
+- **생각하는 동안 필러**
