@@ -115,3 +115,9 @@
 - 과장법 - Samsung is much better, the best -> 내 감정, 생각을 보여주기 쉬움
   eg. 이 요리 최고야!
 - **생각하는 동안 필러**
+# Why part
+- 음식때문에 행복하다면 왜 행복한거지?
+  eg. 인스타 업로드, 정 없으면 I don't know why food makes me so happy~
+1. What? **MP**
+2. Why?
+3. So What?
