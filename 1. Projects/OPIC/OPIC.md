@@ -32,3 +32,42 @@
 3. That's bad 보단 How unfortunate 사용
 4. 단순히 Thanks보다 반응을 더 보여주자
    I could? Alright, then I'd like a refund please
+
+# 날씨 콤보 세트
+- 요즘 날씨 - 예전 날씨는 이래서 이렇게 느꼈다~ - 요즘 날씨 대조
+  -> 마무리: 생각을 넣으면 일반적으로 좋다. **유머나 감정을 넣으면 더좋다**
+  "You know what? I'm really just getting sick and tired of wearing masks all the time. If this keeps up, I'm gonna be forced to move out of this country"
+## IH VS AL
+- It said we have a ton of fine dust in air
+- **We have a serious fine dust issue**
+
+- We were able to do anything outside
+- **We were able to freely go outside without having to wear a mask**
+### You know
+- 자기 확신용으로 사용 가능 매우 좋음
+### Oh
+- 시작할때 말하면 네이티브 같음
+## IH 발화량
+- MP 30초
+- Constatnt 말하기. pausing time을 없애야함
+- 생각 안날때마다 Filler you know
+- 느꼈던 감정과 생각을 보여줘라 sad/mad/excited/glad
+- 딱딱한 영어 하지말자
+- No Script
+# AL 발화량
+- **MP 20초**. 더 direct하고 쉽게. **깔끔하게 한가지만 말하기**
+  - Korea has 4 seasons. You know what? I love spring the most
+  - eg. warm weather/flower -> flower만 집중해라!
+- **Constant 말하기. pausing time 없애야함**
+- So you know, And um, And you know 같이 **필러도 혼합해서**
+- **Lot of feeling word**. Unbeiliverbly amazing!
+- No Script
+- 결론은 MP를 강조. 유머 섞으면 더 좋음
+  "You should visit Korea in spring, or you will throw your money"
+## 만약 말할게 없다면?
+- "솔직히 경험해본적은 없지만 충분했다면 좋겠다"는 결론에
+- **조금 애매해도 MP부터. 30초안에 말하지 않으면 grader가 이해하기 어려움**
+  eg. You know what? The weather of Melbourne was really crazy
+## 꼬여서 다시 말해야한다면?
+- What am I trying to say, anyway.
+  **완전히 재시작**
