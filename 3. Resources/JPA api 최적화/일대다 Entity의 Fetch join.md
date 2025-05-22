@@ -29,4 +29,6 @@ public List<Order> findAllWithItem(OrderSearch orderSearch) {
 #### 한계점
 - 페이징 불가능
   -> 메모리에서 모든 데이터를 불러와 페이징을 처리하게 된다.. 
-  => **일대다에서는 fetch join 사용금지**
+  => **일대다에서는 fetch join 사용금지**, 일대다에서는 Batch로
+
+- Fetch Join은 1:1 또는 다대일에서 사용하자
