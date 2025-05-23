@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/OPIC/OPIC.md",
+                "file": "1. Projects/JPA 스터디/1. JPA 소개 - 사용목적, 패러다임.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OPIC"
+              "title": "1. JPA 소개 - 사용목적, 패러다임"
             }
           }
         ],
@@ -212,6 +212,7 @@
   },
   "active": "1d97cbe74610b83e",
   "lastOpenFiles": [
+    "1. Projects/OPIC/OPIC.md",
     "1. Projects/JPA 스터디/2. JPA 시작 - 기본 사용법.md",
     "1. Projects/JPA 스터디/1. JPA 소개 - 사용목적, 패러다임.md",
     "3. Resources/JPA api 최적화/일대다 Entity의 Fetch join.md",
@@ -227,7 +228,6 @@
     "1. Projects/JPA 스터디/Untitled 1.md",
     "1. Projects/JPA 스터디",
     "3. Resources/AI/신입 백엔드 AI 역량.md",
-    "1. Projects/OPIC/OPIC.md",
     "3. Resources/AI",
     "1. Projects/실용적 테스트 코드/8. Tips/Test to learn.md",
     "1. Projects/OPIC",
