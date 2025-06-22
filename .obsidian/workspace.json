@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/JPA 스터디/8. 프록시와 연관관계 관리.md",
+                "file": "1. Projects/JPA 스터디/9. 값 타입.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. 프록시와 연관관계 관리"
+              "title": "9. 값 타입"
             }
           }
         ],
@@ -212,8 +212,8 @@
   },
   "active": "1d97cbe74610b83e",
   "lastOpenFiles": [
-    "1. Projects/JPA 스터디/9. 값 타입.md",
     "1. Projects/JPA 스터디/8. 프록시와 연관관계 관리.md",
+    "1. Projects/JPA 스터디/9. 값 타입.md",
     "1. Projects/JPA 스터디/7. 고급 매핑.md",
     "1. Projects/JPA 스터디/6. 다양한 연관관계 매핑.md",
     "1. Projects/JPA 스터디/5. 연관관계 매핑 기초.md",
