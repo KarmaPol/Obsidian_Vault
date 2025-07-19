@@ -1,0 +1,4 @@
+- IP expose resource
+- External service can access pod via K8S service
+	- internal DNS system
+	- IP/Port based LB
