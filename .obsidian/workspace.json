@@ -212,8 +212,9 @@
   },
   "active": "1d97cbe74610b83e",
   "lastOpenFiles": [
-    "3. Resources/DevOps/K8S/K8S service.md",
+    "3. Resources/DevOps/K8S/쿠버네티스 기본.md",
     "3. Resources/DevOps/K8S/Istio 개념.md",
+    "3. Resources/DevOps/K8S/K8S service.md",
     "3. Resources/DevOps/도커 스웜 DB 서버 구축.md",
     "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
     "3. Resources/DevOps/AWS VPC 개념.md",
@@ -238,7 +239,6 @@
     "3. Resources/JPA api 최적화/일대다 Entity의 최적화 및 페이징처리.md",
     "3. Resources/JPA api 최적화/쿼리와 커맨드 메서드는 분리하라.md",
     "3. Resources/JPA api 최적화/JPA 양방향 Entity 리턴시 json화 무한루프.md",
-    "3. Resources/JPA api 최적화/Jpa Entity를 노출하지 마라.md",
     "1. Projects/JPA 스터디",
     "3. Resources/AI",
     "1. Projects/OPIC",
