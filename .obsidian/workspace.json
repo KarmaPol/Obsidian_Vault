@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/아파치 스파크/스파크 소개.md",
+                "file": "1. Projects/아파치 스파크/Scala/Scala 데이터 자료형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스파크 소개"
+              "title": "Scala 데이터 자료형"
             }
           }
         ]
@@ -197,8 +197,13 @@
   },
   "active": "80c6594e2dd29da7",
   "lastOpenFiles": [
-    "Pasted image 20231123105627.png",
+    "1. Projects/아파치 스파크/Scala/Scala 소개.md",
+    "1. Projects/아파치 스파크/Scala/Scala 데이터 자료형.md",
+    "1. Projects/아파치 스파크/Scala/Scala function.md",
+    "1. Projects/아파치 스파크/Scala",
+    "1. Projects/아파치 스파크/Scala/Scala 흐름 제어.md",
     "1. Projects/아파치 스파크/스파크 소개.md",
+    "Pasted image 20231123105627.png",
     "1. Projects/아파치 스파크",
     "3. Resources/DevOps/K8S/쿠버네티스 기본.md",
     "3. Resources/Untitled",
@@ -223,16 +228,12 @@
     "1. Projects/MySQL 마이그레이션/Covering index.md",
     "1. Projects/OPIC/OPIC.md",
     "1. Projects/JPA 스터디/1. JPA 소개 - 사용목적, 패러다임.md",
-    "1. Projects/JPA 스터디/2. JPA 시작 - 기본 사용법.md",
-    "3. Resources/JPA api 최적화/일대다 Entity의 Fetch join.md",
-    "3. Resources/JPA api 최적화/일대다 Entity의 최적화 및 페이징처리.md",
     "1. Projects/JPA 스터디",
     "3. Resources/AI",
     "1. Projects/OPIC",
     "1. Projects/실용적 테스트 코드/8. Tips/Untitled",
     "1. Projects/실용적 테스트 코드/8. Tips",
     "1. Projects/실용적 테스트 코드/2. Why we do need a test?",
-    "1. Projects/MySQL 마이그레이션",
     "Pasted image 20231229235233.png",
     "Pasted image 20231229222535.png",
     "Pasted image 20250126221225.png",
