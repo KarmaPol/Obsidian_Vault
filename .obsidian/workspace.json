@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/아파치 스파크/ScalaSQL/agg.md",
+                "file": "1. Projects/아파치 스파크/RDD/RDD 개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agg"
+              "title": "RDD 개요"
             }
           }
         ]
@@ -197,19 +197,23 @@
   },
   "active": "80c6594e2dd29da7",
   "lastOpenFiles": [
-    "1. Projects/아파치 스파크/ScalaSQL/explode.md",
-    "1. Projects/아파치 스파크/ScalaSQL/agg.md",
-    "1. Projects/아파치 스파크/ScalaSQL/withColumn.md",
-    "1. Projects/아파치 스파크/ScalaSQL/inferSchema.md",
-    "1. Projects/아파치 스파크/ScalaSQL/ScalaSQL.md",
     "1. Projects/아파치 스파크/ScalaSQL/ScalaSQL 개요.md",
-    "1. Projects/아파치 스파크/ScalaSQL/DataFrame VS DataSet.md",
+    "1. Projects/아파치 스파크/ScalaSQL/inferSchema.md",
+    "1. Projects/아파치 스파크/ScalaSQL/explode.md",
+    "1. Projects/아파치 스파크/ScalaSQL/withColumn.md",
     "1. Projects/아파치 스파크/ScalaSQL/Spark.implicits.md",
-    "1. Projects/아파치 스파크/스파크 소개.md",
+    "1. Projects/아파치 스파크/RDD/RDD 개요.md",
     "1. Projects/아파치 스파크/Scala/Scala 데이터 자료형.md",
-    "1. Projects/아파치 스파크/Scala/Scala function.md",
+    "1. Projects/아파치 스파크/ScalaSQL/ScalaSQL.md",
+    "1. Projects/아파치 스파크/ScalaSQL/DataFrame VS DataSet.md",
     "1. Projects/아파치 스파크/Scala/Scala 흐름 제어.md",
     "1. Projects/아파치 스파크/Scala/Scala 소개.md",
+    "1. Projects/아파치 스파크/Scala/Scala function.md",
+    "1. Projects/아파치 스파크/ScalaSQL/agg.md",
+    "1. Projects/아파치 스파크/스파크 소개.md",
+    "1. Projects/아파치 스파크/RDD",
+    "1. Projects/아파치 스파크/고급 활용/Join.md",
+    "1. Projects/아파치 스파크/고급 활용",
     "1. Projects/아파치 스파크/ScalaSQL",
     "1. Projects/아파치 스파크/Scala",
     "Pasted image 20231123105627.png",
@@ -227,13 +231,9 @@
     "3. Resources/DevOps/K8S",
     "2. Area/커리어 이야기.md",
     "3. Resources/DevOps/테라폼.md",
-    "1. Projects/JPA 스터디/9. 값 타입.md",
-    "1. Projects/JPA 스터디/8. 프록시와 연관관계 관리.md",
     "1. Projects/JPA 스터디",
     "3. Resources/AI",
     "1. Projects/OPIC",
-    "1. Projects/실용적 테스트 코드/8. Tips/Untitled",
-    "1. Projects/실용적 테스트 코드/8. Tips",
     "Pasted image 20231229235233.png",
     "Pasted image 20231229222535.png",
     "Pasted image 20250126221225.png",
