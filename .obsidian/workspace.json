@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Spring Batch/Event 시스템에서 OutBox pattern.md",
+                "file": "1. Projects/스프링배치/Job Parmameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event 시스템에서 OutBox pattern"
+              "title": "Job Parmameters"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "80c6594e2dd29da7",
   "lastOpenFiles": [
-    "1. Projects/Airflow/Airflow Introduce.md",
     "3. Resources/Spring Batch/Event 시스템에서 OutBox pattern.md",
+    "1. Projects/스프링배치/Job Parmameters.md",
+    "1. Projects/스프링배치",
+    "1. Projects/Airflow/Airflow Introduce.md",
     "1. Projects/아파치 스파크/RDD/RDD 개요.md",
     "1. Projects/Airflow",
     "1. Projects/아파치 스파크/ScalaSQL/ScalaSQL 개요.md",
@@ -230,10 +232,8 @@
     "3. Resources/DevOps/Portainer Unable to find an agent on any manager node.md",
     "3. Resources/DevOps/AWS VPC 개념.md",
     "3. Resources/DevOps/로드 밸런싱 방식.md",
-    "2. Area/2025 상반기 개발자 회고.md",
     "3. Resources/DevOps/K8S",
     "1. Projects/JPA 스터디",
-    "3. Resources/AI",
     "Pasted image 20231229235233.png",
     "Pasted image 20231229222535.png",
     "Pasted image 20250126221225.png",
