@@ -7,3 +7,8 @@
 ### 기본 표기법
 parmeterName = paramatervalue, parameterType(명시하지 않으면 String), identificationFlag(식별자 여부, 기본 true)
 
+# DefaultJobParametersConverter
+- 커맨드라인으로 전달된 잡 파라미터를 적절한 타입으로 변환
+- Integer, Boolean, LocalDate, LocalDateTime 등
+- Spring Batch 5 이전엔 String, Long, Double, Date만
+

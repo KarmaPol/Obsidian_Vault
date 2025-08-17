@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/금융 투자/버핏식 산업별 지표 가이드라인.md",
+                "file": "1. Projects/스프링배치/Job Parmameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "버핏식 산업별 지표 가이드라인"
+              "title": "Job Parmameters"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "80c6594e2dd29da7",
   "lastOpenFiles": [
-    "1. Projects/스프링배치/Job Parmameters.md",
     "3. Resources/금융 투자/버핏식 산업별 지표 가이드라인.md",
+    "1. Projects/스프링배치/Job Parmameters.md",
     "3. Resources/금융 투자",
     "3. Resources/Spring Batch/Event 시스템에서 OutBox pattern.md",
     "1. Projects/스프링배치",
