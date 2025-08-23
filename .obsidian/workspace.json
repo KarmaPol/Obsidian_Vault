@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/금융 투자/버핏식 산업별 지표 가이드라인.md",
+                "file": "3. Resources/mt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "버핏식 산업별 지표 가이드라인"
+              "title": "mt"
             }
           }
         ]
@@ -197,13 +197,14 @@
   },
   "active": "80c6594e2dd29da7",
   "lastOpenFiles": [
+    "3. Resources/금융 투자/버핏식 산업별 지표 가이드라인.md",
+    "3. Resources/mt.md",
     "1. Projects/스프링배치/RDB ItemReader.md",
     "1. Projects/스프링배치/Job Listener.md",
     "1. Projects/스프링배치/RDB ItemWriter.md",
     "1. Projects/스프링배치/Job Parmameters.md",
     "Pasted image 20231229235233.png",
     "README.md",
-    "3. Resources/금융 투자/버핏식 산업별 지표 가이드라인.md",
     "3. Resources/금융 투자",
     "3. Resources/Spring Batch/Event 시스템에서 OutBox pattern.md",
     "1. Projects/스프링배치",
@@ -232,7 +233,6 @@
     "1. Projects/아파치 스파크",
     "3. Resources/DevOps/K8S/쿠버네티스 기본.md",
     "3. Resources/DevOps/K8S/Istio 개념.md",
-    "3. Resources/DevOps/K8S/K8S service.md",
     "3. Resources/DevOps/K8S",
     "1. Projects/JPA 스터디",
     "Pasted image 20231229222535.png",
