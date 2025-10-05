@@ -25,12 +25,14 @@
             "id": "0e3691f7546b5028",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "1. Projects/카프카 - 코어/토픽.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "토픽"
             }
           }
         ],
@@ -211,6 +213,9 @@
   },
   "active": "0e3691f7546b5028",
   "lastOpenFiles": [
+    "1. Projects/카프카 - 코어/컨플루언트 카프카.md",
+    "1. Projects/카프카 - 코어/토픽.md",
+    "1. Projects/카프카 - 코어",
     "3. Resources/금융 투자/버핏식 산업별 지표 가이드라인.md",
     "3. Resources/mt.md",
     "1. Projects/스프링배치/RDB ItemReader.md",
@@ -245,10 +250,7 @@
     "1. Projects/아파치 스파크/Scala",
     "Pasted image 20231123105627.png",
     "1. Projects/아파치 스파크",
-    "3. Resources/DevOps/K8S/쿠버네티스 기본.md",
-    "3. Resources/DevOps/K8S/Istio 개념.md",
     "3. Resources/DevOps/K8S",
-    "1. Projects/JPA 스터디",
     "Pasted image 20231229222535.png",
     "Pasted image 20250126221225.png",
     "1. Projects/Untitled.canvas",
