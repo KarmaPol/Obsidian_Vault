@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/카프카 - 코어/토픽.md",
+                "file": "1. Projects/카프카 - 코어/토픽 생성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "토픽"
+              "title": "토픽 생성"
             }
           }
         ],
@@ -213,8 +213,9 @@
   },
   "active": "0e3691f7546b5028",
   "lastOpenFiles": [
-    "1. Projects/카프카 - 코어/컨플루언트 카프카.md",
-    "1. Projects/카프카 - 코어/토픽.md",
+    "1. Projects/카프카 - 코어/토픽 개요.md",
+    "1. Projects/카프카 - 코어/토픽 생성.md",
+    "1. Projects/카프카 - 코어/컨플루언트 카프카란.md",
     "1. Projects/카프카 - 코어",
     "3. Resources/금융 투자/버핏식 산업별 지표 가이드라인.md",
     "3. Resources/mt.md",
@@ -244,7 +245,6 @@
     "1. Projects/아파치 스파크/ScalaSQL/agg.md",
     "1. Projects/아파치 스파크/스파크 소개.md",
     "1. Projects/아파치 스파크/RDD",
-    "1. Projects/아파치 스파크/고급 활용/Join.md",
     "1. Projects/아파치 스파크/고급 활용",
     "1. Projects/아파치 스파크/ScalaSQL",
     "1. Projects/아파치 스파크/Scala",
