@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/금융 투자/버블 감지.md",
+                "file": "1. Projects/카프카 - 코어/프로듀서 실습/Producer와 브로커 메시지 동기화, 비동기화 전송.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "버블 감지"
+              "title": "Producer와 브로커 메시지 동기화, 비동기화 전송"
             }
           }
         ],
@@ -227,8 +227,9 @@
   },
   "active": "43bcb2fa4d3bee19",
   "lastOpenFiles": [
-    "1. Projects/카프카 - 코어/프로듀서 실습/kafka producer send() 프로세스.md",
     "3. Resources/금융 투자/버블 감지.md",
+    "1. Projects/카프카 - 코어/프로듀서 실습/Producer와 브로커 메시지 동기화, 비동기화 전송.md",
+    "1. Projects/카프카 - 코어/프로듀서 실습/kafka producer send() 프로세스.md",
     "3. Resources/Git/Git PR 작업 분할.md",
     "1. Projects/카프카 - 코어/프로듀서 실습",
     "3. Resources/mt.md",
@@ -269,7 +270,6 @@
     "1. Projects/아파치 스파크/RDD/RDD 개요.md",
     "1. Projects/Airflow",
     "1. Projects/아파치 스파크/ScalaSQL/ScalaSQL 개요.md",
-    "1. Projects/아파치 스파크/ScalaSQL/inferSchema.md",
     "1. Projects/아파치 스파크/RDD",
     "1. Projects/아파치 스파크/고급 활용",
     "1. Projects/아파치 스파크/ScalaSQL",
