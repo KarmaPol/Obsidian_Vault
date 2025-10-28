@@ -34,6 +34,8 @@
    뒤로 갈수록 성능 급격히 저하
 2. **Keyset 기반 페이징**
    id(마지막 키) 기반으로 읽어와 성능 일정
+	- 기본 키셋 기반 페이징 사용
+
 ## 페이지리더 구성요소
 1. DataSource
 2. RowMapper
@@ -44,6 +46,3 @@
 	3. whereClause()
 	4. groupClause()
 	5. **sortKeys() - ORDER BY 정렬키, PK 사용해 순서 보장 필수**
-5. 
-
-TBC
